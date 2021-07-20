@@ -21,14 +21,26 @@ Gifts
 ---
 
 <!-- 
-1. Veromessor andrei
-2. Camponotus sansabeanus
-3. Camponotus laevigatus
-4. Camponotus vicinus (high) 
-5. Camponotus vicinus (low) 
-6. Novomessor cockerelli
-7 Camponotus Fragilis
-8. Camponotus Lateralis
+
+Internal Codes
+
+DO NOT CHANGE ORDER.
+Numbers based on tags.
+
+1. Veromessor Andrei > Internal code: 30
+2. Camponotus Sansabeanus > Internal code: 30
+3. Camponotus Laevigatus > Internal code: 20
+4. Camponotus Vicinus (high) > Internal code: 25
+5. Camponotus Vicinus (low) > Internal code: 00
+6. Novomessor Cockerelli > Internal code: 45
+7 Camponotus Fragilis > Internal code: 00
+8. Camponotus Lateralis > Internal code: 20
+9. Camponotus Hyatti > Internal code: 15
+10. Camponotus Semitestaceus > Internal code: 30
+11. Camponotus USA-ca02 > Internal code: 30
+
+Pogonomyrmex Californicus > Internal code: 25
+Camponotus Pennsylvanicus > Internal code: 175
 -->
 
 ## Diary of Ants
