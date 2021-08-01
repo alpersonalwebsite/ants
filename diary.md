@@ -22,16 +22,64 @@
 ## Weekly care
 
 <!--
-Common EMOJI combos
+Common EMOJIs combos
 
 🦐💧🍯💦
 🦗💧🍯💦
 🐛💧🍯💦
 🪱💧🍯💦
-☠️
-❗️
-🛖
+☠️ dead ant
+👑☠️ dead queen
+❗️for notes
+🛖 formicarium
+🧪 test tube
+🦐 Shrimps
+🦗 Crickets
+🐛 Mealworms
+
+
+Basic template
+
+### ...
+
+| Care |  Colony | Notes |
+|---|---|---|
+| 🦗 🍯 | Camponotus Fragilis | |
+| 🦗 🍯 | Camponotus Hyatti | |
+| 🦗 🍯 | Camponotus Laevigatus | |
+| 🦗 🍯 | Camponotus Lateralis | |
+| 🦗 💧 🍯 💦 | Camponotus Pennsylvanicus | |
+| 🦗 🍯 | Camponotus Sansabeanus | |
+| 🦗 🍯 ☠️ | Camponotus US-CA02 | |
+| 🦗 🍯 | Camponotus Vicinus (high) | |
+| 🦗 🍯 | Camponotus Vicinus (low) | |
+| 🦗 🍯 | Novomessor Cockerelli | |
+| 🦗 💧 🍯 💦 | Pogonomyrmex Californicus | |
+| 🦗 🍯 | Veromessor Andrei | |
+
 -->
+
+
+
+
+### July 31, 2021:
+
+| Care |  Colony | Notes |
+|---|---|---|
+| 🦗 🍯 ❗ | Camponotus Fragilis | I think I saw one egg |
+| 🦗 🍯 ☠️ | Camponotus Hyatti | 1 Worker died (sc) |
+| 🦗 🍯 🧪 | Camponotus Laevigatus | I still don't like the color of the cotton. I should move them to a new tube |
+| 🦗 🍯 | Camponotus Lateralis | |
+| 🦗 💧 🍯 💦 ❗| Camponotus Pennsylvanicus | They are living in the outside world. I added more water to the nest water chamber |
+| 🦗 🍯 | Camponotus Sansabeanus | |
+| 🦗 🍯 ☠️ 🧪 | Camponotus US-CA02 | 1 Worker died (sc) <br /> I should move them to a new tube. They are in a plastic tube |
+| 🦗 🍯 | Camponotus Vicinus (high) | |
+| 🦗 🍯 | Camponotus Vicinus (low) | |
+| 🦗 🍯 ❗ | Novomessor Cockerelli | I think I saw one egg |
+| 🦗 💧 🍯 💦 | Pogonomyrmex Californicus | |
+| 🦗 🍯 | Veromessor Andrei | |
+
+---
 
 ### July 25, 2021:
 
@@ -41,19 +89,19 @@ Camponotus Semitestaceus Queen died
 
 | Care |  Colony | Notes |
 |---|---|---|
-| 🦗 🍯 | Camponotus Fragilis | |
-| 🦗 🍯 | Camponotus Hyatti | |
-| 🦗 🍯 ❗| Camponotus Laevigatus | 1 Worker escaped | |
-| 🦗 🍯 | Camponotus Lateralis | |
-| 🦗 💧 🍯 💦 | Camponotus Pennsylvanicus | |
-| 🦗 🍯 | Camponotus Sansabeanus | |
-| 🦗 🍯 ☠️ | Camponotus Semitestaceus | I found the Queen dead |
-| 🦗 🍯 | Camponotus US-CA02 | |
-| 🦗 🍯 | Camponotus Vicinus (high) | |
-| 🦗 🍯 | Camponotus Vicinus (low) | |
-| 🦗 🍯 | Novomessor Cockerelli | |
-| 🦗 💧 🍯 💦 | Pogonomyrmex Californicus | |
-| 🦗 🍯 | Veromessor Andrei | |
+| 🐛 🍯 | Camponotus Fragilis | |
+| 🐛 🍯 | Camponotus Hyatti | |
+| 🐛 🍯 ❗| Camponotus Laevigatus | 1 Worker escaped |
+| 🐛 🍯 | Camponotus Lateralis | |
+| 🐛 💧 🍯 💦 | Camponotus Pennsylvanicus | |
+| 🐛 🍯 | Camponotus Sansabeanus | |
+| 🐛 🍯 👑☠️ | Camponotus Semitestaceus | I found the Queen dead |
+| 🐛 🍯 | Camponotus US-CA02 | |
+| 🐛 🍯 | Camponotus Vicinus (high) | |
+| 🐛 🍯 | Camponotus Vicinus (low) | |
+| 🐛 🍯 | Novomessor Cockerelli | |
+| 🐛 💧 🍯 💦 | Pogonomyrmex Californicus | |
+| 🐛 🍯 | Veromessor Andrei | |
 
 ---
 
@@ -100,14 +148,14 @@ I raised the temperature of the heat mats from `75F` to `77F`
 
 | Care |  Colony | Notes |
 |---|---|---|
-| 🦐 🍯 💦 🛖 | Camponotus Fragilis | I moved the Queen and a worker back to a test tube setup |
+| 🦐 🍯 💦 🧪 | Camponotus Fragilis | I moved the Queen and a worker back to a test tube setup |
 | 🦐 🍯 ❗️| Camponotus Laevigatus | I think there's mold growing next to the water cotton plug |
-| 🦐 🍯 💦 🛖 | Camponotus Lateralis | I moved the Queen back to a test tube setup |
+| 🦐 🍯 💦 🧪 | Camponotus Lateralis | I moved the Queen back to a test tube setup |
 | 🦐 💧 🍯 💦 | Camponotus Pennsylvanicus | |
 | 🦐 🍯 | Camponotus Sansabeanus | |
 | 🦐 🍯 | Camponotus Vicinus (high) | |
 | 🦐 🍯 | Camponotus Vicinus (low) | |
-| 🦐 🍯 💦 ☠️ 🛖 | Novomessor Cockerelli | 1 Worker died <br />I moved the Queen and a worker back to a test tube setup |
+| 🦐 🍯 💦 ☠️ 🧪 | Novomessor Cockerelli | 1 Worker died <br />I moved the Queen and a worker back to a test tube setup |
 | 🦐 💧 🍯 💦 | Pogonomyrmex Californicus | |
 | 🦐 🍯 | Veromessor Andrei | |
 
@@ -125,7 +173,7 @@ I raised the temperature of the heat mats from `75F` to `77F`
 | 🦗 🍯 | Camponotus Vicinus (high) | |
 | 🦗 🍯 | Camponotus Vicinus (low) | |
 | 🦗 💧 🍯 💦 | Novomessor Cockerelli | |
-| 🦗 💧 🍯 💦 ☠️ | Pogonomyrmex Californicus | 2 Queens died |
+| 🦗 💧 🍯 💦 👑☠️ | Pogonomyrmex Californicus | 2 Queens died |
 | 🦗 🍯 | Veromessor Andrei | |
 
 

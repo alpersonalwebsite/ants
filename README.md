@@ -16,7 +16,6 @@ Colonies:
 1. Camponotus Laevigatus (2021)
 1. Camponotus Pennsylvanicus (2020)
 1. Camponotus Sansabeanus (2021)
-1. Camponotus Semitestaceus 
 1. Camponotus USA-CA02
 1. Camponotus Vicinus (high - 2021)
 1. Camponotus Vicinus (low - 2021)
@@ -29,6 +28,12 @@ Queens:
 1. Camponotus Fragilis (2019)
 1. Camponotus Lateralis (2020) - non fertilized Queen
 1. Novomessor Cockerelli (2019)
+
+<!--
+Old dead colonies
+1. Camponotus Semitestaceus (2021-2021)
+1. Myrmecocystus mexicanus (2019-2021)
+-->
 
 ---
 
@@ -61,9 +66,12 @@ Numbers based on tags.
 7 Camponotus Fragilis > Internal code: 00
 8. Camponotus Lateralis > Internal code: 20
 9. Camponotus Hyatti > Internal code: 15
-10. Camponotus Semitestaceus > Internal code: 30
 11. Camponotus USA-ca02 > Internal code: 30
 
+Formicariums:
 Pogonomyrmex Californicus > Internal code: 25
 Camponotus Pennsylvanicus > Internal code: 175
+
+Old:
+Ex10. Camponotus Semitestaceus > Internal code: 30
 -->
