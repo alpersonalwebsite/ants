@@ -48,19 +48,53 @@ Basic template
 | 🦗 🍯 | Camponotus Hyatti | |
 | 🦗 🍯 | Camponotus Laevigatus | |
 | 🦗 🍯 | Camponotus Lateralis | |
+| 🦗 🍯 | Camponotus Maritimus | |
 | 🦗 💧 🍯 💦 | Camponotus Pennsylvanicus | |
 | 🦗 🍯 | Camponotus Sansabeanus | |
-| 🦗 🍯 ☠️ | Camponotus US-CA02 | |
+| 🦗 🍯 | Camponotus US-CA02 | |
 | 🦗 🍯 | Camponotus Vicinus (high) | |
 | 🦗 🍯 | Camponotus Vicinus (low) | |
-| 🦗 🍯 | Novomessor Cockerelli | |
+| 🦗 🍯 | Liometopum Occidentale  | |
+| 🦗 🍯 | Novomessor Cockerelli, Queen | |
+| 🦗 🍯 | Novomessor Cockerelli, Colony | |
 | 🦗 💧 🍯 💦 | Pogonomyrmex Californicus | |
+| 🦗 💧 🍯 | Pogonomyrmex Rugosus (2 colonies) | |
 | 🦗 🍯 | Veromessor Andrei | |
 
 -->
 
+### August 10, 2021
 
+<!-- 
+New colonies arrived:
+    1. Camponotus Maritimus
+    2. Pogonomyrmex Rugosus
+    3. Pogonomyrmex Rugosus
+    4. Novomessor Cockerelli
+    5. Liometopum Occidentale
+-->
 
+I plugged new test tubes to the `Camponotus Laevigatus` and `Camponotus US-CA02` ones, securing them with tape.
+Part of the new tubes are on the heating mats.
+
+### August 9, 2021
+
+| Care |  Colony | Notes |
+|---|---|---|
+| 🦐 🍯 ❗| Camponotus Fragilis | There are several eggs |
+| 🦐 🍯 | Camponotus Hyatti | |
+| 🦐 🍯 🧪 | Camponotus Laevigatus | I will try to move them to the new test tube this week |
+| 🦐 🍯 | Camponotus Lateralis | |
+| 🦐 💧 🍯 💦 | Camponotus Pennsylvanicus | |
+| 🦐 🍯 | Camponotus Sansabeanus | |
+| 🦐 🍯 🧪 | Camponotus US-CA02 | I will try to move them to the new test tube this week |
+| 🦐 🍯 | Camponotus Vicinus (high) | |
+| 🦐 🍯 | Camponotus Vicinus (low) | |
+| 🦐 🍯 | Novomessor Cockerelli | |
+| 🦐 💧 🍯 💦 | Pogonomyrmex Californicus | |
+| 🦐 🍯 | Veromessor Andrei | |
+
+---
 
 ### July 31, 2021:
 
