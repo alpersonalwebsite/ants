@@ -12,14 +12,18 @@ Trying to determine if versioned markdown would be a good approach to keep publi
 ##  My Ants
 
 Colonies:
-1. Camponotus Hyatti
+1. Camponotus Hyatti (2021)
 1. Camponotus Laevigatus (2021)
+1. Camponotus Maritimus (2021)
 1. Camponotus Pennsylvanicus (2020)
 1. Camponotus Sansabeanus (2021)
-1. Camponotus USA-CA02
+1. Camponotus USA-CA02 (2021)
 1. Camponotus Vicinus (high - 2021)
 1. Camponotus Vicinus (low - 2021)
+1. Liometopum Occidentale (2021)
+1. Novomessor Cockerelli (2021)
 1. Pogonomyrmex Californicus (2021)
+1. Pogonomyrmex Rugosus, 2 colonies (2021)
 1. Veromessor Andrei (2021)
 
 
@@ -66,12 +70,18 @@ Numbers based on tags.
 7 Camponotus Fragilis > Internal code: 00
 8. Camponotus Lateralis > Internal code: 20
 9. Camponotus Hyatti > Internal code: 15
+10. Camponotus Maritimus > Internal code: 00
 11. Camponotus USA-ca02 > Internal code: 30
+12. Pogonomyrmex Rugosus > Internal code: 10
+13. Pogonomyrmex Rugosus > Internal code: 10
+14. Novomessor Cockerelli > Internal code: 35
+15. Liometopum Occidentale > Internal code: 10
+
 
 Formicariums:
 Pogonomyrmex Californicus > Internal code: 25
 Camponotus Pennsylvanicus > Internal code: 175
 
 Old:
-Ex10. Camponotus Semitestaceus > Internal code: 30
+Ex 10. Camponotus Semitestaceus > Internal code: 30
 -->
