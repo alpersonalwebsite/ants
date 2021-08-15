@@ -63,7 +63,7 @@ Basic template
 
 -->
 
-### August 10, 2021
+### August 11, 2021
 
 <!-- 
 New colonies arrived:
@@ -72,7 +72,15 @@ New colonies arrived:
     3. Pogonomyrmex Rugosus
     4. Novomessor Cockerelli
     5. Liometopum Occidentale
+
+I feed them with shrimps and gave them nectar for the first time.
 -->
+
+Since the colonies were not moving to the new tubes, I exposed them to the later afternoon sun (around 4pm) and covered the new test tubes.
+The `Camponotus US-CA02` moved in less than 30 mins.
+The `Camponotus Laevigatus` moved in less than 2 hours.
+
+### August 10, 2021
 
 I plugged new test tubes to the `Camponotus Laevigatus` and `Camponotus US-CA02` ones, securing them with tape.
 Part of the new tubes are on the heating mats.
