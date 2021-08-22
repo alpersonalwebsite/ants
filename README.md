@@ -22,7 +22,6 @@ Colonies:
 1. Camponotus Vicinus (low - 2021)
 1. Liometopum Occidentale (2021)
 1. Novomessor Cockerelli (2021)
-1. Pogonomyrmex Californicus (2021)
 1. Pogonomyrmex Rugosus, 2 colonies (2021)
 1. Veromessor Andrei (2021)
 
@@ -37,6 +36,7 @@ Queens:
 Old dead colonies
 1. Camponotus Semitestaceus (2021-2021)
 1. Myrmecocystus mexicanus (2019-2021)
+1. Pogonomyrmex Californicus (2021-2021)
 -->
 
 ---
@@ -79,9 +79,9 @@ Numbers based on tags.
 
 
 Formicariums:
-Pogonomyrmex Californicus > Internal code: 25
 Camponotus Pennsylvanicus > Internal code: 175
 
 Old:
 Ex 10. Camponotus Semitestaceus > Internal code: 30
+Pogonomyrmex Californicus > Internal code: 25
 -->

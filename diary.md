@@ -57,11 +57,36 @@ Basic template
 | 🦗 🍯 | Liometopum Occidentale  | |
 | 🦗 🍯 | Novomessor Cockerelli, Queen | |
 | 🦗 🍯 | Novomessor Cockerelli, Colony | |
-| 🦗 💧 🍯 💦 | Pogonomyrmex Californicus | |
 | 🦗 💧 🍯 | Pogonomyrmex Rugosus (2 colonies) | |
 | 🦗 🍯 | Veromessor Andrei | |
 
 -->
+
+### August 21, 2021
+
+Today I made 2 nests using the acrylic containers and hydrostone.
+The proportion used was: 1 water x 3 hydrostone. 
+I prepared it in a plastic jug, mixing it for 2 minutes. I used warm water.
+After pouring the blend, I waited a couple of minutes and put down 2 empty test tubes (20 x 150); minutes later, I added the sand (when it still was not too dry). I have to remove the extra sand.
+
+Tomorrow, I will try to do the same but, pouring half of what I put in to reduce weight.
+Also, I will press the test tubes (maybe until I reach the bottom) so the ants could have more shadiness. 
+
+
+### August 19, 2021
+
+New colonies arrived:
+    1. Liometopum Cccidentale
+    2. Myrmecocystus Mimicus
+    3. Myrmecocystus Novajo
+    4. Pogonomyrmex Subnitidus
+
+### August 16, 2021
+
+I found the 2 remaining `Pogonomyrmex Californicus` Queen dead (👑☠️)
+It seems they overheated. 
+
+I added water and humidity to `Camponotus Pennsylvanicus`.
 
 ### August 11, 2021
 
