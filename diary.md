@@ -2,21 +2,29 @@
 
 # Diary of Ants
 
-|  Colony | Food | Temperature | Humidity | Hibernation/Diapause | Size | Stinging | Experience | Growth |
-|---|---|---|---|---|---|---|---|---|
-| Camponotus Fragilis | Shrimps, worm soup, mealworms, crickets chunks | 80 to 85F | Low |  | | | | |
-| Camponotus Hyatti | Shrimps, worm soup, mealworms, crickets chunks  | 80 to 85F | ??? | 55 to 65F | M | No | | Slow |
-| Camponotus Laevigatus |  |  |  |  | M/L | No | Beginner | |
-| Camponotus Lateralis |  |  |  |  | | | | |
-| Camponotus Pennsylvanicus | Shrimps, worm soup, crickets chunks | 75 to 80F |  | Yes || | | |
-| Camponotus Sansabeanus | Shrimps, worm soup, crickets chunks | 75 to 80F | Medium | Yes - November to March, 55 to 60F | M/L | No | Beginner | ??? |
-| Camponotus Semitestaceus (desert variant) | Shrimps, worm soup, mealworms, crickets chunks  | ??? | ??? | No | M/L | No | Beginner | ??? |
-| Camponotus US-CA02 | Shrimps, worm soup, crickets chunks | 80 to 85F | ???  | 55 to 65F | L | No | Beginner | Slow |
-| Camponotus Vicinus (high, larger) | Shrimps, worm soup, crickets chunks | 80 to 85F | Low | Yes | M/L | No | Intermediate |  |
-| Camponotus Vicinus (low) | Shrimps, worm soup, crickets chunks | 80 to 85F | Low | No | M/L | No | Beginner | |
-| Novomessor Cockerelli (desert) | Shrimps, worm soup, crickets chunks and seeds | 80 to 85F | Low | No | L | |  |  |
-| Pogonomyrmex Californicus | Shrimps, worm soup, crickets chunks and seeds | 80 to 85F | Low | No | M | YES | Beginner | Slow |
-| Veromessor Andrei | Shrimps, worm soup, mealworms, crickets chunks |  |  | No | S/M | No | Beginner | |
+|  Colony | Food | Temperature | Humidity | Hibernation/Diapause | Size | Stinging | Experience | Growth | Foundation |
+|---|---|---|---|---|---|---|---|---|---|
+| Camponotus Fragilis | Shrimps, worm soup, mealworms, crickets chunks | 80 to 85F - Desert | Low (% ???) | ??? | ??? | ??? | Beginner | | Fully Claustral |
+| Camponotus Hyatti | Shrimps, worm soup, mealworms, crickets chunks  | 80 to 85F | ??? | 55 to 65F | M | No | ??? | Slow | ??? |
+| Camponotus Laevigatus | Shrimps, worm soup, mealworms, crickets chunks | ??? | ??? | ??? | M/L | No | Beginner | ??? | ??? |
+| Camponotus Lateralis | Shrimps, worm soup, mealworms, crickets chunks | 70 to 75F | 40% - 50% | Yes - October to end of March, 45F | ??? | ??? | ??? | Beginner | Claustral |
+| Camponotus Maritimus | Shrimps, worm soup, mealworms, crickets chunks | 75 to 80F | ??? | Yes. November to March | ??? | ??? | ??? | ??? | Fully Claustral |
+| Camponotus Hyatti | Shrimps, worm soup, mealworms, crickets chunks  | 80 to 85F | ??? | 55 to 65F | M | No | ??? | Slow | ??? |
+| Camponotus Pennsylvanicus | Shrimps, worm soup, crickets chunks | 75 to 80F | 70% to 80% | Yes. November to March, 45F | ??? | No | Beginner | Slow | Fully claustral |
+| Camponotus Sansabeanus | Shrimps, worm soup, crickets chunks | 75 to 80F - Semi desert | 65% to 80% | Yes. November to March, 55 to 60F | M/L | No | Beginner | Slow | ??? |
+| Camponotus Semitestaceus (desert variant) | Shrimps, worm soup, mealworms, crickets chunks  | ??? | ??? | No | M/L | No | Beginner | ??? | ??? |
+| Camponotus US-CA02 | Shrimps, worm soup, crickets chunks | 80 to 85F | ???  | 55 to 65F | L | No | Beginner | Slow | ??? |
+| Camponotus Vicinus (high, larger) | Shrimps, worm soup, crickets chunks | 80 to 85F | ??? | Yes | M/L | No | Intermediate | ??? | Fully Claustral |
+| Camponotus Vicinus (low) | Shrimps, worm soup, crickets chunks | 80 to 85F | ??? | No | M/L | No | Beginner | ??? | Fully Claustral |
+| Liometopum Occidentale | ??? | 75 to 80F | ??? | ??? | ??? | ??? | Beginner | ??? | Fully Claustral |
+| Myrmecocystus Mimicus | Shrimps, worm soup, crickets chunks | 75 to 85F | 55% to 80% | No | ??? | ??? | ??? | Slow | ??? |
+| Myrmecocystus Novajo | Shrimps, worm soup, crickets chunks | ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? |
+| Novomessor Cockerelli | Shrimps, worm soup, crickets chunks and seeds | 80 to 85F - Desert | 50% to 75% | Yes. December to early March, 55F | L | No | ??? | ??? | Claustral |
+| Pogonomyrmex Californicus | Shrimps, worm soup, crickets chunks and seeds | 80 to 85F - Desert | 30% to 40% | No | M | Yes | Beginner | Slow | Semi-claustural |
+| Pogonomyrmex Rugosus | Shrimps, worm soup, crickets chunks and seeds | 80 to 85F | 60% to 80% | Yes. December to early March, 55F  | ??? | Yes. Venomous. Also bite. | ??? | ??? | Claustral |
+| Pogonomyrmex Subnitidus Polygynous | Shrimps, worm soup, crickets chunks and seeds | ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? |
+| Veromessor Andrei | Shrimps, worm soup, mealworms, crickets chunks | ??? | ??? | No | S/M | No | Beginner | ??? | ??? |
+
 
 
 ## Weekly care
@@ -49,18 +57,96 @@ Basic template
 | 🦗 🍯 | Camponotus Laevigatus | |
 | 🦗 🍯 | Camponotus Lateralis | |
 | 🦗 🍯 | Camponotus Maritimus | |
-| 🦗 💧 🍯 💦 | Camponotus Pennsylvanicus | |
+| 🦗 💧 🍯 | Camponotus Pennsylvanicus | |
 | 🦗 🍯 | Camponotus Sansabeanus | |
 | 🦗 🍯 | Camponotus US-CA02 | |
 | 🦗 🍯 | Camponotus Vicinus (high) | |
 | 🦗 🍯 | Camponotus Vicinus (low) | |
-| 🦗 🍯 | Liometopum Occidentale  | |
+| 🦗 🍯 | Liometopum Occidentale (2 colonies)  | |
+| 🦗 🍯 | Myrmecocystus Mimicus  | |
+| 🦗 🍯 | Myrmecocystus Novajo  | |
 | 🦗 🍯 | Novomessor Cockerelli, Queen | |
 | 🦗 🍯 | Novomessor Cockerelli, Colony | |
-| 🦗 💧 🍯 | Pogonomyrmex Rugosus (2 colonies) | |
+| 🦗 🍯 | Pogonomyrmex Rugosus (2 colonies) | |
+| 🦗 🍯 | Pogonomyrmex Subnitidus | |
 | 🦗 🍯 | Veromessor Andrei | |
 
 -->
+
+## August 27, 2021
+
+I raised the temperature of the top mat to `85F`. It was in 77F as the other one but it felt too low when I touched it.
+
+## August 26, 2021
+
+Both "formicariums" (`Pogonomyrmex Subnitidus` and `Camponotus Pennsylvanicus`) are still having condensation issues; however, I think it is getting better. I'm still cleaning daily the extra water on the walls. 
+
+## August 25, 2021
+
+Both new "formicariums" are having the issue of water condensed on the walls.
+I removed the cotton from the `Pogonomyrmex Subnitidus` nest. They were making a mess.
+Today I added some blue sponges and dried the walls.
+
+## August 24, 2021
+
+The `Camponotus Sansabeanus` moved during the night.
+
+I added 2 balls of cotton to the `Pogonomyrmex Subnitidus` colony to try to reduce humidity. I will check later and keep watching it.
+They found a space between one of the test tubes and the ground and they are putting the eggs and larvae there.
+
+I started the moving at 4.10 pm PT of the `Camponotus Pennsylvanicus` from the formicarium to the test tube. The moved before 5pm PT.
+
+## August 23, 2021
+
+The `Pogonomyrmex Subnitidus` colony seems fine. 
+For the next time, I should add less water.
+I will keep an eye on this and if the high humidity persists, I will replace the test tube with one with less water and add some strips of blotting paper.
+Also, I should replace the fluon which was washed. 
+
+I started the test moving at 3.10 pm PT of the following colonies.
+This time, since I did not see initial movement and the they was cloudy, I added some light.
+
+1. Camponotus Sansabeanus
+  Update 5.15 pm PT: They don't seem to be interested at all in the new nest
+2. Camponotus Vicinus (high) - Moved before 5pm PT
+3. Myrmecocystus mimicus - I forced the Queen (the only ant in this colony) to move around 5.15pm PT
+
+
+
+### August 22, 2021
+
+Today I made 3 nests.
+I followed the same recipe as yesterday but I poured just half. 
+They weight less and I think they are going to do better. The only complaint, I couldn't remove the test tubes as yesterday. Today, I have to broke them. Something to improve in the future.
+
+I placed the test tube of the `Pogonomyrmex Subnitidus` colony in one of the new formicariums.
+I added a new test tube with half of water.
+They were struggling and without water in the old test tube. They started to eat the eva rubber that was separating the water chamber (empty) in search of water.
+I also added 2 crickets and a little tower with nectar.
+I put a temporary roof.
+
+| Care |  Colony | Notes |
+|---|---|---|
+| 🦗 🍯 | Camponotus Fragilis | |
+| 🦗 🍯 | Camponotus Hyatti | |
+| 🦗 🍯 | |
+| 🦗 🍯 | Camponotus Lateralis | |
+| 🦗 🍯 | Camponotus Maritimus | |
+| 🦗 💧 🍯 🛖 | Camponotus Pennsylvanicus | I think they will do better if I moved them back to a test tube and I place them in one of the new DIY formicariums |
+| 🦗 🍯 🧪 | Camponotus Sansabeanus | The test tube has almost no water. I will try to move them to a new test tube this week |
+| 🦗 🍯 | Camponotus US-CA02 | |
+| 🦗 🍯 🧪 | Camponotus Vicinus (high) | The test tube has almost no water. I will try to move them to a new test tube this week |
+| 🦗 🍯 | Camponotus Vicinus (low) | |
+| 🦗 🍯 | Liometopum Occidentale (2 colonies)  | |
+| 🦗 🍯 🧪 | Myrmecocystus Mimicus  | There is not enough space in the tube. I will try to move them to a new test tube this week |
+| 🦗 🍯 | Myrmecocystus Novajo  | |
+| 🦗 🍯 | Novomessor Cockerelli, Queen | |
+| 🦗 🍯 | Novomessor Cockerelli, Colony | |
+| 🦗 🍯 | Pogonomyrmex Rugosus (2 colonies) | |
+| 🦗 🍯 🛖 | Pogonomyrmex Subnitidus | I moved them to a formicarium |
+| 🦗 🍯 | Veromessor Andrei | |
+
+---
 
 ### August 21, 2021
 
@@ -76,10 +162,10 @@ Also, I will press the test tubes (maybe until I reach the bottom) so the ants c
 ### August 19, 2021
 
 New colonies arrived:
-    1. Liometopum Cccidentale
-    2. Myrmecocystus Mimicus
-    3. Myrmecocystus Novajo
-    4. Pogonomyrmex Subnitidus
+1. Liometopum Occidentale
+2. Myrmecocystus Mimicus
+3. Myrmecocystus Novajo
+4. Pogonomyrmex Subnitidus
 
 ### August 16, 2021
 
