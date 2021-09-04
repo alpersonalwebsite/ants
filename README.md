@@ -20,9 +20,12 @@ Colonies:
 1. Camponotus USA-CA02 (2021)
 1. Camponotus Vicinus (high - 2021)
 1. Camponotus Vicinus (low - 2021)
-1. Liometopum Occidentale (2021)
+1. Liometopum Occidentale, 2 colonies (2021)
+1. Myrmecocystus Novajo (2021)
+1. Myrmecocystus Mimicus (2021)
 1. Novomessor Cockerelli (2021)
 1. Pogonomyrmex Rugosus, 2 colonies (2021)
+1. Pogonomyrmex Subnitidus Polygynous (???)
 1. Veromessor Andrei (2021)
 
 
@@ -35,9 +38,17 @@ Queens:
 <!--
 Old dead colonies
 1. Camponotus Semitestaceus (2021-2021)
-1. Myrmecocystus mexicanus (2019-2021)
+1. Myrmecocystus Mexicanus (2019-2021)
 1. Pogonomyrmex Californicus (2021-2021)
 -->
+
+Formicariums:
+Camponotus Pennsylvanicus > Internal code: 175
+Pogonomyrmex Subnitidus Polygynous (with 4 Queens???) > Internal code: 80
+
+Old:
+Ex 10. Camponotus Semitestaceus > Internal code: 30
+Pogonomyrmex Californicus > Internal code: 25
 
 ---
 
@@ -71,15 +82,22 @@ Numbers based on tags.
 8. Camponotus Lateralis > Internal code: 20
 9. Camponotus Hyatti > Internal code: 15
 10. Camponotus Maritimus > Internal code: 00
-11. Camponotus USA-ca02 > Internal code: 30
+11. Camponotus USA-CA02 > Internal code: 30
 12. Pogonomyrmex Rugosus > Internal code: 10
 13. Pogonomyrmex Rugosus > Internal code: 10
 14. Novomessor Cockerelli > Internal code: 35
 15. Liometopum Occidentale > Internal code: 10
+16. Liometopum Occidentale > Internal code: 00
+17. Myrmecocystus Novajo > Internal code: 30
+18. Myrmecocystus Mimicus > Internal code: 00
+19. Myrmecocystus Novajo > Internal code: 50
+20. Myrmecocystus Mexicanus > Internal code: 50
+21. Myrmecocystus Mexicanus > Internal code: 50
 
 
 Formicariums:
 Camponotus Pennsylvanicus > Internal code: 175
+Pogonomyrmex Subnitidus Polygynous (with 4 Queens???) > Internal code: 80
 
 Old:
 Ex 10. Camponotus Semitestaceus > Internal code: 30
