@@ -22,7 +22,7 @@
 | Novomessor Cockerelli | Shrimps, worm soup, crickets chunks and seeds | 80 to 85F - Desert | 50% to 75% | Yes. December to early March, 55F | L | No | ??? | ??? | Claustral |
 | Pogonomyrmex Californicus | Shrimps, worm soup, crickets chunks and seeds | 80 to 85F - Desert | 30% to 40% | No | M | Yes | Beginner | Slow | Semi-claustural |
 | Pogonomyrmex Rugosus | Shrimps, worm soup, crickets chunks and seeds | 80 to 85F | 60% to 80% | Yes. December to early March, 55F  | ??? | Yes. Venomous. Also bite. | ??? | ??? | Claustral |
-| Pogonomyrmex Subnitidus Polygynous | Shrimps, worm soup, crickets chunks and seeds | ??? | ??? | ??? | ??? | ??? | ??? | ??? | ??? |
+| Pogonomyrmex Subnitidus Polygynous | Shrimps, worm soup, crickets chunks and seeds | ??? | ??? | ??? | ??? | ??? | Yes. Venomous. Also bite. | ??? | ??? |
 | Veromessor Andrei | Shrimps, worm soup, mealworms, crickets chunks | ??? | ??? | No | S/M | No | Beginner | ??? | ??? |
 
 
@@ -44,6 +44,7 @@ Common EMOJIs combos
 🦐 Shrimps
 🦗 Crickets
 🐛 Mealworms
+🌱 Seeds
 
 
 Basic template
@@ -76,6 +77,37 @@ Basic template
 | 🦐 🍯 | Pogonomyrmex Subnitidus | |
 | 🦐 🍯 | Veromessor Andrei | |
 -->
+
+## September 5, 2021
+
+I feed the new colonies (September 1) for the first time (nectar and protein).
+I also gave seeds mix to some colonies for the first time.
+
+| Care |  Colony | Notes |
+|---|---|---|
+| 🦗 🍯 | Camponotus Fragilis | |
+| 🦗 🍯 | Camponotus Hyatti | |
+| 🦗 🍯 | Camponotus Laevigatus | |
+| 🦗 🍯 | Camponotus Lateralis | |
+| 🦗 🍯 | Camponotus Maritimus | |
+| 🦗    | Camponotus Pennsylvanicus | |
+| 🦗 🍯 | Camponotus Sansabeanus | |
+| 🦗 🍯 | Camponotus US-CA02 | |
+| 🦗 🍯 | Camponotus Vicinus (high) | |
+| 🦗 🍯 | Camponotus Vicinus (low) | |
+| 🦗 🍯 | Liometopum Occidentale | |
+| 🦗 🍯 | Liometopum Occidentale | |
+| 🦗 🍯 | Myrmecocystus Mexicanus | | 
+| 🦗 🍯 | Myrmecocystus Mexicanus | | 
+| 🦗 🍯 | Myrmecocystus Mimicus  | |
+| 🦗 🍯 | Myrmecocystus Novajo  | |
+| 🦗 🍯 | Myrmecocystus Novajo  | |
+| 🦗 🍯 🌱 | Novomessor Cockerelli, Queen | |
+| 🦗 🍯 🌱 | Novomessor Cockerelli, Colony | |
+| 🦗 🍯 🌱 | Pogonomyrmex Rugosus | |
+| 🦗 🍯 🌱 | Pogonomyrmex Rugosus | |
+| 🦗 🌱 | Pogonomyrmex Subnitidus | |
+| 🦗 🍯 | Veromessor Andrei | |
 
 ## September 1, 2021
 
