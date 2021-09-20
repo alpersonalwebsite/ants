@@ -42,6 +42,7 @@ Common EMOJIs combos
 🛖 formicarium
 🧪 test tube
 🦐 Shrimps
+🐟
 🦗 Crickets
 🐛 Mealworms
 🌱 Seeds
@@ -67,7 +68,6 @@ Basic template
 | 🦐 🍯 | Liometopum Occidentale | |
 | 🦐 🍯 | Myrmecocystus Mexicanus | | 
 | 🦐 🍯 | Myrmecocystus Mexicanus | | 
-| 🦐 🍯 | Myrmecocystus Mimicus  | |
 | 🦐 🍯 | Myrmecocystus Novajo  | |
 | 🦐 🍯 | Myrmecocystus Novajo  | |
 | 🦐 🍯 | Novomessor Cockerelli, Queen | |
@@ -77,6 +77,85 @@ Basic template
 | 🦐 🍯 | Pogonomyrmex Subnitidus | |
 | 🦐 🍯 | Veromessor Andrei | |
 -->
+
+## September 19, 2021
+
+I started the test moving at 2.50 pm PT of the following colonies.
+
+1. Veromessor Andrei
+2. Novomessor Cockerelli - - Moved before 5pm PT
+3. Camponotus Lateralis 
+4. Novomessor Cockerelli (Queen) - Moved before 3pm PT
+5. Myrmecocystus mimicus (this is one of the new colonies. The test tube was broken)
+
+Also, I made 6 new nests.
+
+| Care |  Colony | Notes |
+|---|---|---|
+|       | Acromyrmex versicolor | |
+| 🐟 🍯 | Camponotus Fragilis | |
+| 🐟 🍯 | Camponotus Hyatti | |
+| 👑☠️  | Camponotus Laevigatus | I found the Queen dead |
+| 🐟 🍯 | Camponotus Lateralis | |
+| 🐟 🍯 | Camponotus Maritimus | |
+| 🐟 🍯 | Camponotus Pennsylvanicus | |
+| 🐟 🍯 | Camponotus Sansabeanus | |
+| 🐟 🍯 | Camponotus US-CA02 | |
+| 🐟 🍯 | Camponotus Vicinus (high) | |
+| 🐟 🍯 | Camponotus Vicinus (low) | |
+| 👑☠️  | Liometopum Occidentale | I found the Queen dead |
+| 🐟 🍯 | Liometopum Occidentale | |
+| 🐟 🍯 | Myrmecocystus Mexicanus | | 
+| 🐟 🍯 | Myrmecocystus Mexicanus | | 
+| 🐟 🍯 | Myrmecocystus Mimicus  | |
+| 🐟 🍯 | Myrmecocystus Mimicus  | |
+| 🐟 🍯 | Myrmecocystus Novajo  | |
+| 🐟 🍯 | Myrmecocystus Novajo  | |
+| 🐟 🍯 | Novomessor Cockerelli, Queen | |
+| 🐟 🍯 | Novomessor Cockerelli, Colony | |
+| 🐟 🍯 | Pogonomyrmex Rugosus | |
+| 🐟 🍯 | Pogonomyrmex Rugosus | |
+| 🐟 🍯 | Pogonomyrmex Subnitidus | |
+| 🐟 🍯 | Veromessor Andrei | |
+
+## September 18, 2021
+
+New colonies arrived:
+1. Myrmecocystus Mimicus
+2. Myrmecocystus Mimicus
+3. Acromyrmex versicolor
+
+## September 12, 2021
+
+<!-- 
+Myrmecocystus Mimicus Queen died
+-->
+
+| Care |  Colony | Notes |
+|---|---|---|
+| 🦐 🍯 | Camponotus Fragilis | |
+| 🦐 🍯 | Camponotus Hyatti | |
+| 🦐 🍯 | Camponotus Laevigatus | |
+| 🦐 🍯 | Camponotus Lateralis | |
+| 🦐 🍯 | Camponotus Maritimus | |
+| 🦐    | Camponotus Pennsylvanicus | |
+| 🦐 🍯 | Camponotus Sansabeanus | |
+| 🦐 🍯 | Camponotus US-CA02 | |
+| 🦐 🍯 | Camponotus Vicinus (high) | |
+| 🦐 🍯 | Camponotus Vicinus (low) | |
+| 🦐 🍯 | Liometopum Occidentale | |
+| 🦐 🍯 | Liometopum Occidentale | |
+| 🦐 🍯 | Myrmecocystus Mexicanus | | 
+| 🦐 🍯 | Myrmecocystus Mexicanus | | 
+| 👑☠️ | Myrmecocystus Mimicus  | I found the Queen dead |
+| 🦐 🍯 | Myrmecocystus Novajo  | |
+| 🦐 🍯 | Myrmecocystus Novajo  | |
+| 🦐 🍯 | Novomessor Cockerelli, Queen | |
+| 🦐 🍯 | Novomessor Cockerelli, Colony | |
+| 🦐 🍯 | Pogonomyrmex Rugosus | |
+| 🦐 🍯 | Pogonomyrmex Rugosus | |
+| 🦐    | Pogonomyrmex Subnitidus | |
+| 🦐 🍯 | Veromessor Andrei | |
 
 ## September 5, 2021
 
