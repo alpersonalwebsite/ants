@@ -42,7 +42,7 @@ Common EMOJIs combos
 🛖 formicarium
 🧪 test tube
 🦐 Shrimps
-🐟
+🐟fish food
 🦗 Crickets
 🐛 Mealworms
 🌱 Seeds
@@ -54,45 +54,55 @@ Basic template
 
 | Care |  Colony | Notes |
 |---|---|---|
-| 🦐 🍯 | Camponotus Fragilis | |
-| 🦐 🍯 | Camponotus Hyatti | |
-| 🦐 🍯 | Camponotus Laevigatus | |
-| 🦐 🍯 | Camponotus Lateralis | |
-| 🦐 🍯 | Camponotus Maritimus | |
-| 🦐 🍯 | Camponotus Pennsylvanicus | |
-| 🦐 🍯 | Camponotus Sansabeanus | |
-| 🦐 🍯 | Camponotus US-CA02 | |
-| 🦐 🍯 | Camponotus Vicinus (high) | |
-| 🦐 🍯 | Camponotus Vicinus (low) | |
-| 🦐 🍯 | Liometopum Occidentale | |
-| 🦐 🍯 | Liometopum Occidentale | |
-| 🦐 🍯 | Myrmecocystus Mexicanus | | 
-| 🦐 🍯 | Myrmecocystus Mexicanus | | 
-| 🦐 🍯 | Myrmecocystus Novajo  | |
-| 🦐 🍯 | Myrmecocystus Novajo  | |
-| 🦐 🍯 | Novomessor Cockerelli, Queen | |
-| 🦐 🍯 | Novomessor Cockerelli, Colony | |
-| 🦐 🍯 | Pogonomyrmex Rugosus | |
-| 🦐 🍯 | Pogonomyrmex Rugosus | |
-| 🦐 🍯 | Pogonomyrmex Subnitidus | |
-| 🦐 🍯 | Veromessor Andrei | |
+|       | Acromyrmex Versicolor | |
+| 🐟 🍯 | Camponotus Fragilis | |
+| 🐟 🍯 | Camponotus Hyatti | |
+| 🐟 🍯 | Camponotus Lateralis | |
+| 🐟 🍯 | Camponotus Maritimus | |
+| 🐟 🍯 | Camponotus Pennsylvanicus | |
+| 🐟 🍯 | Camponotus Sansabeanus | |
+| 🐟 🍯 | Camponotus US-CA02 | |
+| 🐟 🍯 | Camponotus Vicinus (high) | |
+| 🐟 🍯 | Camponotus Vicinus (low) | |
+| 🐟 🍯 | Liometopum Occidentale | |
+| 🐟 🍯 | Myrmecocystus Mexicanus | | 
+| 🐟 🍯 | Myrmecocystus Mexicanus | | 
+| 🐟 🍯 | Myrmecocystus Mimicus  | |
+| 🐟 🍯 | Myrmecocystus Mimicus  | |
+| 🐟 🍯 | Myrmecocystus Novajo  | |
+| 🐟 🍯 | Myrmecocystus Novajo  | |
+| 🐟 🍯 | Novomessor Cockerelli, Queen | |
+| 🐟 🍯 | Novomessor Cockerelli, Colony | |
+| 🐟 🍯 | Pogonomyrmex Rugosus | |
+| 🐟 🍯 | Pogonomyrmex Rugosus | |
+| 🐟 🍯 | Pogonomyrmex Subnitidus | |
+| 🐟 🍯 | Veromessor Andrei | |
 -->
+
+## September 24, 2021
+
+I connected a secondary test tube to the `Acromyrmex Versicolor` tube and added flower's mix, nectar and shrimp.
+I did this because the fungus seemed to be decreasing. 
+
+## September 20, 2021
+
+Both `Queens`, `Myrmecocystus Mimicus` and `Camponotus Lateralis` end moving between 12 pm PT and 1.30 pm PT.
 
 ## September 19, 2021
 
 I started the test moving at 2.50 pm PT of the following colonies.
 
-1. Veromessor Andrei
-2. Novomessor Cockerelli - - Moved before 5pm PT
+1. Veromessor Andrei - Moved before 9pm PT
+2. Novomessor Cockerelli - Moved before 5pm PT
 3. Camponotus Lateralis 
 4. Novomessor Cockerelli (Queen) - Moved before 3pm PT
-5. Myrmecocystus mimicus (this is one of the new colonies. The test tube was broken)
+5. Myrmecocystus Mimicus (this is one of the new colonies. The test tube was broken)
 
 Also, I made 6 new nests.
 
 | Care |  Colony | Notes |
 |---|---|---|
-|       | Acromyrmex versicolor | |
+|       | Acromyrmex Versicolor | |
 | 🐟 🍯 | Camponotus Fragilis | |
 | 🐟 🍯 | Camponotus Hyatti | |
 | 👑☠️  | Camponotus Laevigatus | I found the Queen dead |
@@ -123,7 +133,7 @@ Also, I made 6 new nests.
 New colonies arrived:
 1. Myrmecocystus Mimicus
 2. Myrmecocystus Mimicus
-3. Acromyrmex versicolor
+3. Acromyrmex Versicolor
 
 ## September 12, 2021
 
