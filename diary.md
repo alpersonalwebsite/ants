@@ -55,29 +55,64 @@ Basic template
 | Care |  Colony | Notes |
 |---|---|---|
 |       | Acromyrmex Versicolor | |
-| 🐟 🍯 | Camponotus Fragilis | |
-| 🐟 🍯 | Camponotus Hyatti | |
-| 🐟 🍯 | Camponotus Lateralis | |
-| 🐟 🍯 | Camponotus Maritimus | |
-| 🐟 🍯 | Camponotus Pennsylvanicus | |
-| 🐟 🍯 | Camponotus Sansabeanus | |
-| 🐟 🍯 | Camponotus US-CA02 | |
-| 🐟 🍯 | Camponotus Vicinus (high) | |
-| 🐟 🍯 | Camponotus Vicinus (low) | |
-| 🐟 🍯 | Liometopum Occidentale | |
-| 🐟 🍯 | Myrmecocystus Mexicanus | | 
-| 🐟 🍯 | Myrmecocystus Mexicanus | | 
-| 🐟 🍯 | Myrmecocystus Mimicus  | |
-| 🐟 🍯 | Myrmecocystus Mimicus  | |
-| 🐟 🍯 | Myrmecocystus Novajo  | |
-| 🐟 🍯 | Myrmecocystus Novajo  | |
-| 🐟 🍯 | Novomessor Cockerelli, Queen | |
-| 🐟 🍯 | Novomessor Cockerelli, Colony | |
-| 🐟 🍯 | Pogonomyrmex Rugosus | |
-| 🐟 🍯 | Pogonomyrmex Rugosus | |
-| 🐟 🍯 | Pogonomyrmex Subnitidus | |
-| 🐟 🍯 | Veromessor Andrei | |
+| 🦗 🍯 | Camponotus Fragilis | |
+| 🦗 🍯 | Camponotus Hyatti | |
+| 🦗 🍯 | Camponotus Lateralis | |
+| 🦗 🍯 | Camponotus Maritimus | |
+| 🦗 🍯 | Camponotus Pennsylvanicus | |
+| 🦗 🍯 | Camponotus Sansabeanus | |
+| 🦗 🍯 | Camponotus US-CA02 | |
+| 🦗 🍯 | Camponotus Vicinus (high) | |
+| 🦗 🍯 | Camponotus Vicinus (low) | |
+| 🦗 🍯 | Liometopum Occidentale | |
+| 🦗 🍯 | Myrmecocystus Mexicanus | | 
+| 🦗 🍯 | Myrmecocystus Mexicanus | | 
+| 🦗 🍯 | Myrmecocystus Mimicus | |
+| 🦗 🍯 | Myrmecocystus Novajo | |
+| 🦗 🍯 | Novomessor Cockerelli, Queen | |
+| 🦗 🍯 | Novomessor Cockerelli, Colony | |
+| 🦗 🍯 | Pogonomyrmex Rugosus | |
+| 🦗 🍯 | Pogonomyrmex Rugosus | |
+| 🦗 🍯 | Pogonomyrmex Subnitidus | |
+| 🦗 🍯 | Veromessor Andrei | |
 -->
+
+## September 26, 2021
+
+<!-- 
+Myrmecocystus Mimicus Queen died
+Myrmecocystus Novajo Queen died
+-->
+
+| Care |  Colony | Notes |
+|---|---|---|
+|       | Acromyrmex Versicolor | |
+| 🦗 🍯 | Camponotus Fragilis | |
+| 🦗 🍯 | Camponotus Hyatti | |
+| 🦗 🍯 | Camponotus Lateralis | |
+| 🦗 🍯 | Camponotus Maritimus | |
+| 🦗 🍯 | Camponotus Pennsylvanicus | |
+| 🦗 🍯 | Camponotus Sansabeanus | |
+| 🦗 🍯 | Camponotus US-CA02 | |
+| 🦗 🍯 | Camponotus Vicinus (high) | |
+| 🦗 🍯 | Camponotus Vicinus (low) | |
+| 🦗 🍯 | Liometopum Occidentale | |
+| 🦗 🍯 | Myrmecocystus Mexicanus | | 
+| 🦗 🍯 | Myrmecocystus Mexicanus | | 
+| 🦗 🍯 | Myrmecocystus Mimicus | |
+| 👑☠️ | Myrmecocystus Mimicus | I found the Queen dead |
+| 👑☠️ | Myrmecocystus Novajo | I found the Queen dead |
+| 🦗 🍯 | Myrmecocystus Novajo | |
+| 🦗 🍯 | Novomessor Cockerelli, Queen | |
+| 🦗 🍯 | Novomessor Cockerelli, Colony | |
+| 🦗 🍯 | Pogonomyrmex Rugosus | |
+| 🦗 🍯 | Pogonomyrmex Rugosus | |
+| 🦗 🍯 | Pogonomyrmex Subnitidus | |
+| 🦗 🍯 | Veromessor Andrei | |
+
+## September 25, 2021
+
+I started using the `air filter`.
 
 ## September 24, 2021
 
@@ -89,6 +124,11 @@ I did this because the fungus seemed to be decreasing.
 Both `Queens`, `Myrmecocystus Mimicus` and `Camponotus Lateralis` end moving between 12 pm PT and 1.30 pm PT.
 
 ## September 19, 2021
+
+<!-- 
+Camponotus Laevigatus Queen died
+Liometopum Occidentale  Queen died
+-->
 
 I started the test moving at 2.50 pm PT of the following colonies.
 
