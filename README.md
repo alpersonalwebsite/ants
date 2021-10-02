@@ -87,12 +87,10 @@ Numbers based on tags.
 13. Pogonomyrmex Rugosus > Internal code: 10
 14. Novomessor Cockerelli > Internal code: 35
 15. Liometopum Occidentale > Internal code: 10
-17. Myrmecocystus Novajo > Internal code: 30
 19. Myrmecocystus Novajo > Internal code: 50
 20. Myrmecocystus Mexicanus > Internal code: 50
 21. Myrmecocystus Mexicanus > Internal code: 50
 22. Myrmecocystus Mimicus > Internal code: 25
-23. Myrmecocystus Mimicus > Internal code: 00
 24. Acromyrmex versicolor > Internal code: 50
 
 
@@ -106,4 +104,6 @@ Ex 10. Camponotus Semitestaceus > Internal code: 30
 Pogonomyrmex Californicus > Internal code: 25
 3. Camponotus Laevigatus > Internal code: 20
 16. Liometopum Occidentale > Internal code: 00
+17. Myrmecocystus Novajo > Internal code: 30
+23. Myrmecocystus Mimicus > Internal code: 00
 -->
