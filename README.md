@@ -77,7 +77,6 @@ Numbers based on tags.
 2. Camponotus Sansabeanus > Internal code: 30
 4. Camponotus Vicinus (high) > Internal code: 25
 5. Camponotus Vicinus (low) > Internal code: 00
-6. Novomessor Cockerelli > Internal code: 45
 7 Camponotus Fragilis > Internal code: 00
 8. Camponotus Lateralis > Internal code: 20
 9. Camponotus Hyatti > Internal code: 15
@@ -98,12 +97,16 @@ Formicariums:
 Camponotus Pennsylvanicus > Internal code: 175
 Pogonomyrmex Subnitidus Polygynous (with 4 Queens???) > Internal code: 80
 
+---
+
 Dead:
-Ex 10. Camponotus Semitestaceus > Internal code: 30
-18. Myrmecocystus Mimicus > Internal code: 00
-Pogonomyrmex Californicus > Internal code: 25
 3. Camponotus Laevigatus > Internal code: 20
+6. Novomessor Cockerelli > Internal code: 45
+Ex 10. Camponotus Semitestaceus > Internal code: 30
 16. Liometopum Occidentale > Internal code: 00
 17. Myrmecocystus Novajo > Internal code: 30
+18. Myrmecocystus Mimicus > Internal code: 00
 23. Myrmecocystus Mimicus > Internal code: 00
+
+Pogonomyrmex Californicus > Internal code: 25
 -->
