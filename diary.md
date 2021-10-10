@@ -69,13 +69,54 @@ Basic template
 | 🦗 🍯 | Myrmecocystus Mexicanus | | 
 | 🦗 🍯 | Myrmecocystus Mimicus | |
 | 🦗 🍯 | Myrmecocystus Novajo | |
-| 🦗 🍯 | Novomessor Cockerelli, Queen | |
 | 🦗 🍯 | Novomessor Cockerelli, Colony | |
 | 🦗 🍯 | Pogonomyrmex Rugosus | |
 | 🦗 🍯 | Pogonomyrmex Rugosus | |
 | 🦗 🍯 | Pogonomyrmex Subnitidus | |
 | 🦗 🍯 | Veromessor Andrei | |
 -->
+
+## October 4, 2021
+
+1. Camponotus Fragilis - Moved before 8am PT
+2. Camponotus Maritimus - Moved before 3pm PT
+3. Pogonomyrmex Rugosus - Moved before 12pm PT
+
+## October 3, 2021
+
+<!-- 
+Novomessor Cockerelli Queen died
+-->
+
+I started the test moving at 5.00 pm PT of the following colonies:
+
+1. Camponotus Fragilis
+2. Camponotus Maritimus
+3. Pogonomyrmex Rugosus
+
+| Care |  Colony | Notes |
+|---|---|---|
+|       | Acromyrmex Versicolor | |
+| 🦐 🍯 🧪 | Camponotus Fragilis | The test tube has almost no water. I will move them to a new tube. |
+| 🦐 🍯 | Camponotus Hyatti | |
+| 🦐 🍯 | Camponotus Lateralis | |
+| 🦐 🍯 🧪 | Camponotus Maritimus | The test tube has almost no water. I will move them to a new tube.  |
+| 🦐 🍯 | Camponotus Pennsylvanicus | |
+| 🦐 🍯 | Camponotus Sansabeanus | |
+| 🦐 🍯 | Camponotus US-CA02 | |
+| 🦐 🍯 | Camponotus Vicinus (high) | |
+| 🦐 🍯 | Camponotus Vicinus (low) | |
+| 🦐 🍯 | Liometopum Occidentale | |
+| 🦐 🍯 | Myrmecocystus Mexicanus | | 
+| 🦐 🍯 | Myrmecocystus Mexicanus | | 
+| 🦐 🍯 | Myrmecocystus Mimicus | |
+| 🦐 🍯 | Myrmecocystus Novajo | |
+| 👑☠️ | Novomessor Cockerelli, Queen | I found the Queen dead |
+| 🦐 🍯 | Novomessor Cockerelli, Colony | |
+| 🦐 🍯 🌱 🧪 | Pogonomyrmex Rugosus | The test tube has almost no water. I will move them to a new tube.  |
+| 🦐 🍯 | Pogonomyrmex Rugosus | |
+| 🦐 🍯 🌱 | Pogonomyrmex Subnitidus | |
+| 🦐 🍯 | Veromessor Andrei | |
 
 ## September 26, 2021
 
@@ -130,7 +171,7 @@ Camponotus Laevigatus Queen died
 Liometopum Occidentale  Queen died
 -->
 
-I started the test moving at 2.50 pm PT of the following colonies.
+I started the test moving at 2.50 pm PT of the following colonies:
 
 1. Veromessor Andrei - Moved before 9pm PT
 2. Novomessor Cockerelli - Moved before 5pm PT
