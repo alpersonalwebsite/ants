@@ -76,6 +76,54 @@ Basic template
 | 🦗 🍯 | Veromessor Andrei | |
 -->
 
+## October 13, 2021
+
+1. Camponotus Vicinus (high) - Moved before 8am PT
+
+## October 12, 2021
+
+I started the test moving at 5.00 pm PT of the following colonies:
+
+1. Camponotus Vicinus (high)
+
+I also changed the plugged test tube of the `Acromyrmex Versicolor`.
+I added:
+- Protein (worm and cricket)
+- Seeds
+- Nectar
+- A good amount of flower's mix
+I hope I can recover the fungus.
+
+## October 10, 2021
+
+During next week I will...
+1. Move the `Camponotus Vicinus (high)` to a new tube.
+2. Replace the food tube of the `Acromyrmex Versicolor`
+
+| Care |  Colony | Notes |
+|---|---|---|
+|       | Acromyrmex Versicolor | |
+| 🐛 🍯 | Camponotus Fragilis | |
+| 🐛 🍯 | Camponotus Hyatti | |
+| 🐛 🍯 | Camponotus Lateralis | |
+| 🐛 🍯 | Camponotus Maritimus | |
+| 🐛 🍯 | Camponotus Pennsylvanicus | |
+| 🐛 🍯 | Camponotus Sansabeanus | |
+| 🐛 🍯 | Camponotus US-CA02 | |
+| 🐛 🍯 🧪 | Camponotus Vicinus (high) | The test tube has almost no water. I will move them to a new tube. |
+| 🐛 🍯 | Camponotus Vicinus (low) | |
+| 🐛 🍯 | Liometopum Occidentale | |
+| 🐛 🍯 | Myrmecocystus Mexicanus | | 
+| 🐛 🍯 | Myrmecocystus Mexicanus | | 
+| 🐛 🍯 | Myrmecocystus Mimicus | |
+| 🐛 🍯 | Myrmecocystus Novajo | |
+| 🐛 🍯 | Novomessor Cockerelli, Colony | |
+| 🐛 🍯 | Pogonomyrmex Rugosus | |
+| 🐛 🍯 | Pogonomyrmex Rugosus | |
+| 🐛 🍯 | Pogonomyrmex Subnitidus | |
+| 🐛 🍯 | Veromessor Andrei | |
+
+
 ## October 4, 2021
 
 1. Camponotus Fragilis - Moved before 8am PT
