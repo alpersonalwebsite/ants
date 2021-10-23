@@ -12,19 +12,23 @@ Trying to determine if versioned markdown would be a good approach to keep publi
 ##  My Ants
 
 Colonies:
+1. Acromyrmex Versicolor (2021)
+1. Camponotus Fragilis (2021)
 1. Camponotus Hyatti (2021)
-1. Camponotus Laevigatus (2021)
+1. Camponotus Lateralis (2021)
 1. Camponotus Maritimus (2021)
 1. Camponotus Pennsylvanicus (2020)
 1. Camponotus Sansabeanus (2021)
 1. Camponotus USA-CA02 (2021)
 1. Camponotus Vicinus (high - 2021)
 1. Camponotus Vicinus (low - 2021)
+1. Dorymyrmex Insanus (2021)
 1. Liometopum Occidentale, 2 colonies (2021)
 1. Myrmecocystus Mexicanus, 2 colonies (2021)
 1. Myrmecocystus Mimicus (2021)
-1. Myrmecocystus Novajo, 2 colonies (2021)
+1. Myrmecocystus Navajo, 2 colonies (2021)
 1. Novomessor Cockerelli (2021)
+1. Pogonomyrmex Montanus (2021)
 1. Pogonomyrmex Rugosus, 2 colonies (2021)
 1. Pogonomyrmex Subnitidus Polygynous (???)
 1. Veromessor Andrei (2021)
@@ -34,12 +38,15 @@ Queens:
 
 1. Camponotus Fragilis (2019)
 1. Camponotus Lateralis (2020) - non fertilized Queen
-1. Novomessor Cockerelli (2019)
+
 
 <!--
 Old dead colonies
+1. Camponotus Laevigatus (2021)
 1. Camponotus Semitestaceus (2021-2021)
 1. Myrmecocystus Mexicanus (2019-2021)
+1. Myrmecocystus Navajo (2021)
+1. Novomessor Cockerelli (2019-2021)
 1. Pogonomyrmex Californicus (2021-2021)
 -->
 
@@ -86,11 +93,14 @@ Numbers based on tags.
 13. Pogonomyrmex Rugosus > Internal code: 10
 14. Novomessor Cockerelli > Internal code: 35
 15. Liometopum Occidentale > Internal code: 10
-19. Myrmecocystus Novajo > Internal code: 50
+19. Myrmecocystus Navajo > Internal code: 50
 20. Myrmecocystus Mexicanus > Internal code: 50
 21. Myrmecocystus Mexicanus > Internal code: 50
 22. Myrmecocystus Mimicus > Internal code: 25
-24. Acromyrmex versicolor > Internal code: 50
+24. Acromyrmex Versicolor > Internal code: 50
+25. Camponotus Fragilis > Internal code: 25
+26. Pogonomyrmex Montanus > Internal code: 25
+27. Dorymyrmex Insanus > Internal code: 10
 
 
 Formicariums:
@@ -104,7 +114,7 @@ Dead:
 6. Novomessor Cockerelli > Internal code: 45
 Ex 10. Camponotus Semitestaceus > Internal code: 30
 16. Liometopum Occidentale > Internal code: 00
-17. Myrmecocystus Novajo > Internal code: 30
+17. Myrmecocystus Navajo > Internal code: 30
 18. Myrmecocystus Mimicus > Internal code: 00
 23. Myrmecocystus Mimicus > Internal code: 00
 
