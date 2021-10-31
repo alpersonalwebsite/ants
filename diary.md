@@ -22,7 +22,7 @@
 | Myrmecocystus Mexicanus | Shrimps, worm soup, crickets chunks | ??? | ??? | No heat through winter | M/L | No | Advanced | Fast | ??? |
 | Myrmecocystus Mimicus | Shrimps, worm soup, crickets chunks | 75 to 85F | 55% to 80% | No heat through winter | S/M | No | Advanced | Slow | ??? |
 | Myrmecocystus Navajo | Shrimps, worm soup, crickets chunks | ??? | ??? | No | S/M | No | Advanced | Fast | ??? |
-| Novomessor Cockerelli | Seeds? Shrimps, worm soup, crickets chunks and seeds | 80 to 85F - Desert | 50% to 75% | Yes. December to early March, 55F | M/L | No | Beginner | ??? | Claustral |
+| Novomessor Cockerelli (desert) | Seeds? Shrimps, worm soup, crickets chunks and seeds | 80 to 85F - Desert | 50% to 75% | Yes. December to early March, 55F | M/L | No | Beginner | ??? | Claustral |
 | Pogonomyrmex Californicus | Seeds. Shrimps, worm soup, crickets chunks and seeds | 80 to 85F - Desert | 30% to 40% | No | S/M | Yes | Beginner | Fast | Semi-claustural |
 | Pogonomyrmex Montanus | Seeds | 3 | 4 | No | S | Yes | Beginner | Fast | 10 |
 | Pogonomyrmex Rugosus | Seeds. Shrimps, worm soup, crickets chunks and seeds | 80 to 85F | 60% to 80% | No | M/L | Yes. Venomous. Also bite. | Beginner | Fast | Claustral |
@@ -94,6 +94,7 @@ Basic template
 |---|---|---|
 |       | Acromyrmex Versicolor | |
 | 🦗 🍯 | Camponotus Fragilis | |
+| 🦗 🍯 | Camponotus Fragilis | |
 | 🦗 🍯 | Camponotus Hyatti | |
 | 🦗 🍯 | Camponotus Lateralis | |
 | 🦗 🍯 | Camponotus Maritimus | |
@@ -103,16 +104,65 @@ Basic template
 | 🦗 🍯 | Camponotus Vicinus (high) | |
 | 🦗 🍯 | Camponotus Vicinus (low) | |
 | 🦗 🍯 | Liometopum Occidentale | |
+| 🦗 🍯 | Dorymyrmex Insanus | |
 | 🦗 🍯 | Myrmecocystus Mexicanus | | 
 | 🦗 🍯 | Myrmecocystus Mexicanus | | 
 | 🦗 🍯 | Myrmecocystus Mimicus | |
 | 🦗 🍯 | Myrmecocystus Navajo | |
 | 🦗 🍯 | Novomessor Cockerelli, Colony | |
+| 🦗 🍯 | Pogonomyrmex Montanus | |
 | 🦗 🍯 | Pogonomyrmex Rugosus | |
 | 🦗 🍯 | Pogonomyrmex Rugosus | |
 | 🦗 🍯 | Pogonomyrmex Subnitidus | |
 | 🦗 🍯 | Veromessor Andrei | |
 -->
+
+## October 28, 2021
+
+I started the test moving at 4.00 pm PT of the following colonies:
+
+1. Camponotus Vicinus (low)
+2. Pogonomyrmex Rugosus
+
+Lately, I'm not having a great experience with cotton. I'm waiting for the blue PVA sponges from China. 
+
+I will try to move most of my colonies then.
+
+I should keep an eye -particularly- on:
+
+1. Veromessor Andrei
+2. Camponotus Sansabeanus
+3. Camponotus Hyatti
+
+## October 24, 2021
+
+I removed the sponges from `Camponotus Pennsylvanicus` and `Pogonomyrmex Subnitidus`. I should keep an eye on to avoid condensation issues (as before).
+
+| Care |  Colony | Notes |
+|---|---|---|
+|       | Acromyrmex Versicolor | |
+| 🦗 🍯 | Camponotus Fragilis | |
+| 🦗 🍯 | Camponotus Fragilis | |
+| 🦗 🍯 | Camponotus Hyatti | |
+| 🦗 🍯 | Camponotus Lateralis | |
+| 🦗 🍯 | Camponotus Maritimus | |
+| 🦗 🍯 | Camponotus Pennsylvanicus | |
+| 🦗 🍯 | Camponotus Sansabeanus | |
+| 🦗 🍯 | Camponotus US-CA02 | |
+| 🦗 🍯 | Camponotus Vicinus (high) | |
+| 🦗 🍯 | Camponotus Vicinus (low) | |
+| 🦗 🍯 | Liometopum Occidentale | |
+| 🦗 🍯 | Dorymyrmex Insanus | |
+| 🦗 🍯 | Myrmecocystus Mexicanus | | 
+| 🦗 🍯 | Myrmecocystus Mexicanus | | 
+| 🦗 🍯 | Myrmecocystus Mimicus | |
+| 🦗 🍯 | Myrmecocystus Navajo | |
+| 🦗 🍯 | Novomessor Cockerelli, Colony | |
+| 🦗 🍯 | Pogonomyrmex Montanus | |
+| 🦗 🍯 | Pogonomyrmex Rugosus | |
+| 🦗 🍯 | Pogonomyrmex Rugosus | |
+| 🦗 🍯 | Pogonomyrmex Subnitidus | |
+| 🦗 🍯 | Veromessor Andrei | |
 
 ## October 20, 2021
 
@@ -131,25 +181,25 @@ I should keep an eye on `Camponotus Vicinus (low)` (water).
 | Care |  Colony | Notes |
 |---|---|---|
 |       | Acromyrmex Versicolor | |
-| 🦗 🍯 | Camponotus Fragilis | |
-| 🦗 🍯 | Camponotus Hyatti | |
-| 🦗 🍯 | Camponotus Lateralis | |
-| 🦗 🍯 | Camponotus Maritimus | |
-| 🦗 🍯 | Camponotus Pennsylvanicus | |
-| 🦗 🍯 | Camponotus Sansabeanus | |
-| 🦗 🍯 | Camponotus US-CA02 | |
-| 🦗 🍯 | Camponotus Vicinus (high) | |
-| 🦗 🍯 | Camponotus Vicinus (low) | |
-| 🦗 🍯 | Liometopum Occidentale | |
-| 🦗 🍯 | Myrmecocystus Mexicanus | | 
-| 🦗 🍯 | Myrmecocystus Mexicanus | | 
-| 🦗 🍯 | Myrmecocystus Mimicus | |
-| 🦗 🍯 | Myrmecocystus Navajo | |
-| 🦗 🍯 | Novomessor Cockerelli, Colony | |
-| 🦗 🍯 | Pogonomyrmex Rugosus | |
-| 🦗 🍯 | Pogonomyrmex Rugosus | |
-| 🦗 🍯 | Pogonomyrmex Subnitidus | |
-| 🦗 🍯 | Veromessor Andrei | |
+| 🦐 🍯 | Camponotus Fragilis | |
+| 🦐 🍯 | Camponotus Hyatti | |
+| 🦐 🍯 | Camponotus Lateralis | |
+| 🦐 🍯 | Camponotus Maritimus | |
+| 🦐 🍯 | Camponotus Pennsylvanicus | |
+| 🦐 🍯 | Camponotus Sansabeanus | |
+| 🦐 🍯 | Camponotus US-CA02 | |
+| 🦐 🍯 | Camponotus Vicinus (high) | |
+| 🦐 🍯 | Camponotus Vicinus (low) | |
+| 🦐 🍯 | Liometopum Occidentale | |
+| 🦐 🍯 | Myrmecocystus Mexicanus | | 
+| 🦐 🍯 | Myrmecocystus Mexicanus | | 
+| 🦐 🍯 | Myrmecocystus Mimicus | |
+| 🦐 🍯 | Myrmecocystus Navajo | |
+| 🦐 🍯 | Novomessor Cockerelli, Colony | |
+| 🦐 🍯 | Pogonomyrmex Rugosus | |
+| 🦐 🍯 | Pogonomyrmex Rugosus | |
+| 🦐 🍯 | Pogonomyrmex Subnitidus | |
+| 🦐 🍯 | Veromessor Andrei | |
 
 ## October 13, 2021
 
