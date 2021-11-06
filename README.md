@@ -97,15 +97,27 @@ Numbers based on tags.
 20. Myrmecocystus Mexicanus > Internal code: 50
 21. Myrmecocystus Mexicanus > Internal code: 50
 22. Myrmecocystus Mimicus > Internal code: 25
-24. Acromyrmex Versicolor > Internal code: 50
 25. Camponotus Fragilis > Internal code: 25
 26. Pogonomyrmex Montanus > Internal code: 25
 27. Dorymyrmex Insanus > Internal code: 10
+28. Acromyrmex Versicolor > Internal code: 35
 
 
 Formicariums:
 Camponotus Pennsylvanicus > Internal code: 175
 Pogonomyrmex Subnitidus Polygynous (with 4 Queens???) > Internal code: 80
+Acromyrmex Versicolor (ex 24) > Internal code: 50
+Acromyrmex Versicolor > Internal code: 35
+
+
+Acr Fungus:
+V > Internal code: 105
+    F 1: 17
+    F 2: 18
+    Q 1 and F: 35
+    Q 2 and F: 35
+
+B > Internal code: 91
 
 ---
 
