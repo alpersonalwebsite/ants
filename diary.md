@@ -84,6 +84,7 @@ Common EMOJIs combos
 🦗 Crickets
 🐛 Mealworms
 🌱 Seeds
+🪲 Grasshoppers
 
 
 Basic template
@@ -93,6 +94,8 @@ Basic template
 | Care |  Colony | Notes |
 |---|---|---|
 |       | Acromyrmex Versicolor | |
+|       | Acromyrmex Versicolor | |
+|       | Acromyrmex Versicolor, Colony | |
 | 🦗 🍯 | Camponotus Fragilis | |
 | 🦗 🍯 | Camponotus Fragilis | |
 | 🦗 🍯 | Camponotus Hyatti | |
@@ -116,6 +119,66 @@ Basic template
 | 🦗 🍯 | Pogonomyrmex Subnitidus | |
 | 🦗 🍯 | Veromessor Andrei | |
 -->
+
+## November 4, 2021
+
+Today I received a fungus ball with 3 workers.
+The fungus in both formicariums is getting dark. I removed the formicariums from the heat mat.
+I cut the fungus and put half in each formicarium with 2 new ants in the main one and 1 in the nest that has one Queen.
+I didn't see condensation issues.
+
+## October 30, 2021
+
+New colonies arrived:
+  1. Acromyrmex Versicolor (Queen) - Formicarium
+  2. Acromyrmex Versicolor (Queen) - Test tube
+
+Also, I received fungus taht I used for the previos 2 Queens and for my current colony.
+
+I fed with the leaves the Queen in the test tube.
+For the other 2 (Queen and Colony) in Formicarium, I added:
+* Leaves
+* Protein
+* Seeds
+* Nectar
+
+Formicariums have 2 test tubes, one for the Colony/Queen and the other for the fungus.
+I should keep an eye in condensation issues (this happened to my other colonies in Formicariums).
+
+## October 30, 2021
+
+1. Pogonomyrmex Rugosus - Moved before 1pm PT (I tilted the tube a couple of times to incentivate the moving)
+
+| Care |  Colony | Notes |
+|---|---|---|
+|       | Acromyrmex Versicolor | |
+| 🪲 🍯 | Camponotus Fragilis | |
+| 🪲 🍯 | Camponotus Fragilis | |
+| 🪲 🍯 | Camponotus Hyatti | |
+| 🪲 🍯 | Camponotus Lateralis | |
+| 🪲 🍯 | Camponotus Maritimus | |
+| 🪲 🍯 | Camponotus Pennsylvanicus | I gave them a piece of Dubia Roaches non-dry (juicy) |
+| 🪲 🍯 | Camponotus Sansabeanus | |
+| 🪲 🍯 | Camponotus US-CA02 | |
+| 🪲 🍯 | Camponotus Vicinus (high) | |
+| 🪲 🍯 | Camponotus Vicinus (low) | |
+| 🪲 🍯 | Liometopum Occidentale | |
+| 🪲 🍯 | Dorymyrmex Insanus | |
+| 🪲 🍯 | Myrmecocystus Mexicanus | | 
+| 🪲 🍯 | Myrmecocystus Mexicanus | | 
+| 🪲 🍯 | Myrmecocystus Mimicus | |
+| 🪲 🍯 | Myrmecocystus Navajo | |
+| 🪲 🍯 | Novomessor Cockerelli, Colony | |
+| 🪲 🍯 | Pogonomyrmex Montanus | |
+| 🪲 🍯 | Pogonomyrmex Rugosus | |
+| 🪲 🍯 | Pogonomyrmex Rugosus | |
+| 🪲 🍯 | Pogonomyrmex Subnitidus | I gave them a piece of Dubia Roaches non-dry (juicy) |
+| 🪲 🍯 | Veromessor Andrei | |
+
+## October 29, 2021
+
+1. Camponotus Vicinus (low) - Moved before 12pm PT
+2. Pogonomyrmex Rugosus - Moved before 2pm PT BUT the test tube broke and I had to move them again.
 
 ## October 28, 2021
 
