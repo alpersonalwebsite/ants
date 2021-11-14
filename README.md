@@ -101,13 +101,16 @@ Numbers based on tags.
 26. Pogonomyrmex Montanus > Internal code: 25
 27. Dorymyrmex Insanus > Internal code: 10
 28. Acromyrmex Versicolor > Internal code: 35
+29. Myrmecocystus Kennedyi > Internal code: 50
+30. Myrmecocystus Romainei (Queen) > Internal code: 50
+31. Pogonomyrmex Californicus (3 Queens and workers) > Internal code: 00
 
 
 Formicariums:
 Camponotus Pennsylvanicus > Internal code: 175
 Pogonomyrmex Subnitidus Polygynous (with 4 Queens???) > Internal code: 80
 Acromyrmex Versicolor (ex 24) > Internal code: 50
-Acromyrmex Versicolor > Internal code: 35
+
 
 
 Acr Fungus:
@@ -122,13 +125,15 @@ B > Internal code: 91
 ---
 
 Dead:
-3. Camponotus Laevigatus > Internal code: 20
-6. Novomessor Cockerelli > Internal code: 45
-Ex 10. Camponotus Semitestaceus > Internal code: 30
-16. Liometopum Occidentale > Internal code: 00
-17. Myrmecocystus Navajo > Internal code: 30
-18. Myrmecocystus Mimicus > Internal code: 00
-23. Myrmecocystus Mimicus > Internal code: 00
+    3. Camponotus Laevigatus > Internal code: 20
+    6. Novomessor Cockerelli > Internal code: 45
+    Ex 10. Camponotus Semitestaceus > Internal code: 30
+    16. Liometopum Occidentale > Internal code: 00
+    17. Myrmecocystus Navajo > Internal code: 30
+    18. Myrmecocystus Mimicus > Internal code: 00
+    23. Myrmecocystus Mimicus > Internal code: 00
 
-Pogonomyrmex Californicus > Internal code: 25
+
+    Pogonomyrmex Californicus > Internal code: 25
+    Acromyrmex Versicolor > Internal code: 35
 -->
