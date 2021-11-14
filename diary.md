@@ -94,7 +94,6 @@ Basic template
 | Care |  Colony | Notes |
 |---|---|---|
 |       | Acromyrmex Versicolor | |
-|       | Acromyrmex Versicolor | |
 |       | Acromyrmex Versicolor, Colony | |
 | 🦗 🍯 | Camponotus Fragilis | |
 | 🦗 🍯 | Camponotus Fragilis | |
@@ -108,17 +107,149 @@ Basic template
 | 🦗 🍯 | Camponotus Vicinus (low) | |
 | 🦗 🍯 | Liometopum Occidentale | |
 | 🦗 🍯 | Dorymyrmex Insanus | |
+| 🦗 🍯 | Myrmecocystus Kennedyi | | 
 | 🦗 🍯 | Myrmecocystus Mexicanus | | 
 | 🦗 🍯 | Myrmecocystus Mexicanus | | 
 | 🦗 🍯 | Myrmecocystus Mimicus | |
 | 🦗 🍯 | Myrmecocystus Navajo | |
+| 🦗 🍯 | Myrmecocystus Romainei (Queen) | |
 | 🦗 🍯 | Novomessor Cockerelli, Colony | |
+| 🦗 🍯 | Pogonomyrmex Californicus (3 Queens) | |
 | 🦗 🍯 | Pogonomyrmex Montanus | |
 | 🦗 🍯 | Pogonomyrmex Rugosus | |
 | 🦗 🍯 | Pogonomyrmex Rugosus | |
 | 🦗 🍯 | Pogonomyrmex Subnitidus | |
 | 🦗 🍯 | Veromessor Andrei | |
 -->
+
+## November 14, 2021
+
+**ALL colonies** were fed.
+
+Colonies are still moving...
+
+  1. Camponotus Hyatti - Moved before 1pm PT
+  1. Camponotus Sansabeanus - Moved before 11am PT
+  1. Novomessor Cockerelli - Moved before 1pm PT
+  1. Pogonomyrmex Rugosus - Moved before 11am PT
+  1. Veromessor Andrei - Moved before 11am PT
+
+## November 13, 2021
+
+Colonies are still moving...
+
+  1. Camponotus Hyatti 
+  1. Camponotus Maritimus - Moved before 12pm PT
+  1. Camponotus Sansabeanus
+  1. Camponotus Vicinus (high) - Moved before 10am PT
+  1. Novomessor Cockerelli
+  1. Pogonomyrmex Rugosus
+  1. Veromessor Andrei
+
+---
+
+I will add the following colonies to the fridge...
+(Currently off, I am going to turn it on in a couple of days and decrease the temp slowly)
+
+  1. Camponotus Pennsylvanicus
+  1. Camponotus Maritimus
+  1. Camponotus Lateralis 
+  1. Camponotus Vicinus (high)
+  1. Camponotus Hyatti
+
+I turned off one of the heaters pads for the following colonies:
+
+  1. Camponotus Fragilis
+  1. Camponotus Fragilis
+  1. Camponotus Sansabeanus
+  1. Camponotus Vicinus (low)
+  1. Dorymyrmex Insanus
+  1. Novomessor Cockerelli
+  1. Pogonomyrmex Californicus (3 Queens)
+  1. Pogonomyrmex Montanus 
+  1. Pogonomyrmex Rugosus 
+  1. Pogonomyrmex Rugosus
+  1. Pogonomyrmex Subnitidus 
+  1. Veromessor Andrei
+
+The following colonies will remain in the other heating pad...
+
+  1. Acromyrmex Versicolor 
+  1. Acromyrmex Versicolor, Colony
+  1. Camponotus US-CA02
+  1. Liometopum Occidentale
+  1. Myrmecocystus Kennedyi
+  1. Myrmecocystus Mexicanus
+  1. Myrmecocystus Mexicanus
+  1. Myrmecocystus Mimicus
+  1. Myrmecocystus Navajo
+  1. Myrmecocystus Romainei (Queen)
+
+## November 12, 2021
+
+The blue sponges arrived today.
+
+I started moving the following colonies at 1.30 pm PT:
+
+  1. Camponotus Hyatti 
+  1. Camponotus Maritimus
+  1. Camponotus Sansabeanus
+  1. Camponotus USA-CA02  - Moved before 3pm PT
+  1. Camponotus Vicinus (high)
+  1. Novomessor Cockerelli
+  1. Pogonomyrmex Rugosus
+  1. Veromessor Andrei
+
+## November 11, 2021
+
+New colonies arrived:
+  1. Myrmecocystus Kennedyi
+  2. Myrmecocystus Romainei (Queen)
+  3. Pogonomyrmex Californicus (3 Queens and workers) 
+
+Also, the fridge for the diapause arrived today.
+
+## November 6, 2021
+
+<!--
+I found the Acro Queen in the formicarium dead.
+Maybe the 2 workers that I added killed her?
+-->
+
+There are some colonies that are practically without water. I'm waiting for the blue PVA sponges.
+I should keep an eye particularly in:
+* Camponotus Sansabeanus
+* Camponotus Hyatti
+* Camponotus USA-CA02
+
+| Care |  Colony | Notes |
+|---|---|---|
+| 🦐 🍯| Acromyrmex Versicolor | |
+| 👑☠️ | Acromyrmex Versicolor | I found the Queen dead |
+| 🦐 🍯 | Acromyrmex Versicolor, Colony | |
+| 🦐 🍯 | Camponotus Fragilis | |
+| 🦐 🍯 | Camponotus Fragilis | |
+| 🦐 🍯 | Camponotus Hyatti | |
+| 🦐 🍯 | Camponotus Lateralis | |
+| 🦐 🍯 | Camponotus Maritimus | |
+| 🦐 🍯 | Camponotus Pennsylvanicus | |
+| 🦐 🍯 | Camponotus Sansabeanus | |
+| 🦐 🍯 | Camponotus US-CA02 | |
+| 🦐 🍯 | Camponotus Vicinus (high) | |
+| 🦐 🍯 | Camponotus Vicinus (low) | |
+| 🦐 🍯 | Liometopum Occidentale | |
+| 🦐 🍯 | Dorymyrmex Insanus | |
+| 🦐 🍯 | Myrmecocystus Mexicanus | | 
+| 🦐 🍯 | Myrmecocystus Mexicanus | | 
+| 🦐 🍯 | Myrmecocystus Mimicus | |
+| 🦐 🍯 | Myrmecocystus Navajo | |
+| 🦐 🍯 | Novomessor Cockerelli, Colony | |
+| 🦐 🍯 | Pogonomyrmex Montanus | |
+| 🦐 🍯 | Pogonomyrmex Rugosus | |
+| 🦐 🍯 | Pogonomyrmex Rugosus | |
+| 🦐 🍯 | Pogonomyrmex Subnitidus | |
+| 🦐 🍯 | Veromessor Andrei | |
+
 
 ## November 4, 2021
 
