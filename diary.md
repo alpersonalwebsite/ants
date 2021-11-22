@@ -74,18 +74,18 @@ Common EMOJIs combos
 🦗💧🍯💦
 🐛💧🍯💦
 🪱💧🍯💦
-☠️ dead ant
-👑☠️ dead queen
-❗️for notes
-🛖 formicarium
-🧪 test tube
+☠️ Dead ant
+👑☠️ Dead queen
+❗️ For notes
+🛖 Formicarium
+🧪 Test tube
 🦐 Shrimps
-🐟fish food
+🐟 Fish food
 🦗 Crickets
 🐛 Mealworms
 🌱 Seeds
 🪲 Grasshoppers
-
+🪱 Bloodworm
 
 Basic template
 
@@ -122,6 +122,40 @@ Basic template
 | 🦗 🍯 | Veromessor Andrei | |
 -->
 
+## November 21, 2021
+
+I turned on the fridge. Currently is at 64F.
+
+| Care |  Colony | Notes |
+|---|---|---|
+| 🪱 🍯 | Acromyrmex Versicolor | |
+| 🪱 🍯 | Acromyrmex Versicolor, Colony | |
+| 🪱 🍯 | Camponotus Fragilis | |
+| 🪱 🍯 | Camponotus Fragilis | |
+| 🪱 🍯 | Camponotus Hyatti | |
+| 🪱 🍯 | Camponotus Lateralis | |
+| 🪱 🍯 | Camponotus Maritimus | |
+| 🪱 🍯 | Camponotus Pennsylvanicus | |
+| 🪱 🍯 | Camponotus Sansabeanus | |
+| 🪱 🍯 | Camponotus US-CA02 | |
+| 🪱 🍯 | Camponotus Vicinus (high) | |
+| 🪱 🍯 | Camponotus Vicinus (low) | |
+| 🪱 🍯 | Liometopum Occidentale | |
+| 🪱 🍯 | Dorymyrmex Insanus | |
+| 🪱 🍯 | Myrmecocystus Kennedyi | | 
+| 🪱 🍯 | Myrmecocystus Mexicanus | | 
+| 🪱 🍯 | Myrmecocystus Mexicanus | | 
+| 🪱 🍯 | Myrmecocystus Mimicus | |
+| 🪱 🍯 | Myrmecocystus Navajo | |
+| 🪱 🍯 | Myrmecocystus Romainei (Queen) | |
+| 🪱 🍯 | Novomessor Cockerelli, Colony | |
+| 🪱 🍯 | Pogonomyrmex Californicus (3 Queens) | |
+| 🪱 🍯 | Pogonomyrmex Montanus | |
+| 🪱 🍯 | Pogonomyrmex Rugosus | |
+| 🪱 🍯 | Pogonomyrmex Rugosus | |
+| 🪱 🍯 | Pogonomyrmex Subnitidus | |
+| 🪱 🍯 | Veromessor Andrei | |
+
 ## November 14, 2021
 
 **ALL colonies** were fed.
@@ -135,6 +169,8 @@ Colonies are still moving...
   1. Veromessor Andrei - Moved before 11am PT
 
 ## November 13, 2021
+
+**All the worker** of the `Myrmecocystus Romainei` colony were dead.
 
 Colonies are still moving...
 
