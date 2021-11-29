@@ -86,6 +86,8 @@ Common EMOJIs combos
 🌱 Seeds
 🪲 Grasshoppers
 🪱 Bloodworm
+💐 acromyrmex mix
+
 
 Basic template
 
@@ -122,9 +124,49 @@ Basic template
 | 🦗 🍯 | Veromessor Andrei | |
 -->
 
+## November 27, 2021
+
+I added sand to all the Myrmecocystus colonies.
+
+I put some eggs of the Fragilis colony in the test tube where I have just one Fragilis Queen.
+
+| Care |  Colony | Notes |
+|---|---|---|
+| 💐 🦗 🍯 | Acromyrmex Versicolor | |
+| 💐 🦗 🍯 | Acromyrmex Versicolor, Colony | |
+| 🦗 🍯 | Camponotus Fragilis | |
+| 🦗 🍯 | Camponotus Fragilis, Colony | |
+| 🦗 🍯 | Camponotus Hyatti | |
+| 🦗 🍯 | Camponotus Lateralis | |
+| 🦗 🍯 | Camponotus Maritimus | |
+| 🦗 🍯 | Camponotus Pennsylvanicus | |
+| 🦗 🍯 | Camponotus Sansabeanus | |
+| 🦗 🍯 | Camponotus US-CA02 | |
+| 🦗 🍯 | Camponotus Vicinus (high) | |
+| 🦗 🍯 | Camponotus Vicinus (low) | |
+| 🦗 🍯 | Liometopum Occidentale | |
+| 🦗 🍯 | Dorymyrmex Insanus | |
+| 🦗 🍯 | Myrmecocystus Kennedyi | | 
+| 🦗 🍯 | Myrmecocystus Mexicanus | | 
+| 🦗 🍯 | Myrmecocystus Mexicanus | | 
+| 🦗 🍯 | Myrmecocystus Mimicus | |
+| 🦗 🍯 | Myrmecocystus Navajo | |
+| 🦗 🍯 | Myrmecocystus Romainei (Queen) | |
+| 🦗 🍯 | Novomessor Cockerelli, Colony | |
+| 🦗 🍯 | Pogonomyrmex Californicus (3 Queens) | |
+| 🦗 🍯 | Pogonomyrmex Montanus | |
+| 🦗 🍯 | Pogonomyrmex Rugosus | |
+| 🦗 🍯 | Pogonomyrmex Rugosus | |
+| 🌱 🦗 🍯 | Pogonomyrmex Subnitidus | |
+| 🦗 🍯 | Veromessor Andrei | |
+
+## November 25, 2021
+
+I set the temperature of the fridge at `60F`.
+
 ## November 21, 2021
 
-I turned on the fridge. Currently is at 64F.
+I turned on the fridge. Currently is at `64F`.
 
 | Care |  Colony | Notes |
 |---|---|---|
