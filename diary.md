@@ -101,7 +101,10 @@ Basic template
 | 🦗 🍯 | Camponotus Fragilis | |
 | 🦗 🍯 | Camponotus Hyatti | |
 | 🦗 🍯 | Camponotus Lateralis | |
+| 🦗 🍯 | Camponotus Laevissimus | |
 | 🦗 🍯 | Camponotus Maritimus | |
+| 🦗 🍯 | Camponotus Modoc | |
+| 🦗 🍯 | Camponotus Modoc | |
 | 🦗 🍯 | Camponotus Pennsylvanicus | |
 | 🦗 🍯 | Camponotus Sansabeanus | |
 | 🦗 🍯 | Camponotus US-CA02 | |
@@ -123,6 +126,13 @@ Basic template
 | 🦗 🍯 | Pogonomyrmex Subnitidus | |
 | 🦗 🍯 | Veromessor Andrei | |
 -->
+
+## December 1, 2021
+
+New colonies arrived:
+  1. Camponotus Laevissimus
+  2. Camponotus Modoc
+  3. Camponotus Modoc
 
 ## November 27, 2021
 
