@@ -104,6 +104,9 @@ Numbers based on tags.
 29. Myrmecocystus Kennedyi > Internal code: 50
 30. Myrmecocystus Romainei (Queen) > Internal code: 50
 31. Pogonomyrmex Californicus (3 Queens and workers) > Internal code: 00
+32. Camponotus Laevissimus > Internal code: 20
+33. Camponotus Modoc > Internal code: 16
+34. Camponotus Modoc > Internal code: 16
 
 
 Formicariums:
