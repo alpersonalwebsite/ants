@@ -40,7 +40,6 @@ When a Queen/Colony died…
 1. Camponotus USA-CA02 (2021)
 1. Camponotus Vicinus (high - 2021)
 1. Camponotus Vicinus (low - 2021)
-1. Dorymyrmex Insanus (2021)
 1. Liometopum Occidentale (2021)
 1. Myrmecocystus Kennedyi (2021)
 1. Myrmecocystus Mexicanus, 2 colonies (2021)
@@ -73,6 +72,7 @@ Dead Queens/colonies
 1. Myrmecocystus Navajo, 2 colonies (2021-2021)
 1. Novomessor Cockerelli (2019-2021)
 1. Pogonomyrmex Californicus (2021-2021)
+1. Dorymyrmex Insanus (2021-2021)
 -->
 
 <!--
@@ -117,7 +117,6 @@ Numbers based on tags.
 22. Myrmecocystus Mimicus > Internal code: 25
 25. Camponotus Fragilis > Internal code: 25
 26. Pogonomyrmex Montanus > Internal code: 25
-27. Dorymyrmex Insanus > Internal code: 10
 28. Acromyrmex Versicolor > Internal code: 35
 29. Myrmecocystus Kennedyi > Internal code: 50
 30. Myrmecocystus Romainei (Queen) > Internal code: 50
@@ -154,7 +153,7 @@ Dead:
   18. Myrmecocystus Mimicus > Internal code: 00
   23. Myrmecocystus Mimicus > Internal code: 00
   13. Pogonomyrmex Rugosus > Internal code: 10
-
+  27. Dorymyrmex Insanus > Internal code: 10
 
   Pogonomyrmex Californicus > Internal code: 25
   Acromyrmex Versicolor > Internal code: 35
