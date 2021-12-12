@@ -23,7 +23,7 @@ Common EMOJIs combos
 🌱 Seeds
 🪲 Grasshoppers
 🪱 Bloodworm
-💐 acromyrmex mix
+💐 Acromyrmex mix
 
 
 Basic template
@@ -48,7 +48,6 @@ Basic template
 | 🦗 🍯 | Camponotus Vicinus (high) | |
 | 🦗 🍯 | Camponotus Vicinus (low) | |
 | 🦗 🍯 | Liometopum Occidentale | |
-| 🦗 🍯 | Dorymyrmex Insanus | |
 | 🦗 🍯 | Myrmecocystus Kennedyi | | 
 | 🦗 🍯 | Myrmecocystus Mexicanus | | 
 | 🦗 🍯 | Myrmecocystus Mexicanus | | 
@@ -62,6 +61,47 @@ Basic template
 | 🦗 🍯 | Pogonomyrmex Subnitidus | |
 | 🦗 🍯 | Veromessor Andrei | |
 -->
+
+## December 11, 2021
+
+I found the `Dorymyrmex Insanus` Queen dead. 
+It looks like she got stuck in the nectar. I should put less nectar for small Queens and ants.
+
+I should move the following colonies:
+* Liometopum Occidentale
+* Myrmecocystus Mimicus
+
+| Care |  Colony | Notes |
+|---|---|---|
+| 💐 🪲 🍯 | Acromyrmex Versicolor | |
+| 💐 🪲 | Acromyrmex Versicolor, Colony | |
+| 🪲 🍯 | Camponotus Fragilis | |
+| 🪲 🍯 | Camponotus Fragilis | |
+| 🪲 🍯 | Camponotus Hyatti | |
+| 🪲 🍯 | Camponotus Lateralis | |
+| 🪲 🍯 | Camponotus Laevissimus | |
+| 🪲 🍯 | Camponotus Maritimus | |
+| 🪲 🍯 | Camponotus Modoc | |
+| 🪲 🍯 | Camponotus Modoc | |
+| 🪲 🍯 | Camponotus Pennsylvanicus | |
+| 🪲 🍯 | Camponotus Sansabeanus | |
+| 🪲 🍯 | Camponotus US-CA02 | |
+| 🪲 🍯 | Camponotus Vicinus (high) | |
+| 🪲 🍯 | Camponotus Vicinus (low) | |
+| 🪲 🍯 | Liometopum Occidentale | |
+| 👑☠️ | Dorymyrmex Insanus | I found the Queen dead  |
+| 🪲 🍯 | Myrmecocystus Kennedyi | | 
+| 🪲 🍯 | Myrmecocystus Mexicanus | | 
+| 🪲 🍯 | Myrmecocystus Mexicanus | | 
+| 🪲 🍯 | Myrmecocystus Mimicus | |
+| 🪲 🍯 | Myrmecocystus Navajo | |
+| 🪲 🍯 | Myrmecocystus Romainei (Queen) | |
+| 🪲 🍯 | Novomessor Cockerelli, Colony | |
+| 🪲 🍯 | Pogonomyrmex Californicus (3 Queens) | |
+| 🪲 🍯 | Pogonomyrmex Montanus | |
+| 🪲 🍯 | Pogonomyrmex Rugosus | |
+| 🪲 🍯 | Pogonomyrmex Subnitidus | |
+| 🪲 🍯 | Veromessor Andrei | |
 
 
 ## December 4, 2021
