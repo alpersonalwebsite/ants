@@ -62,18 +62,20 @@ Basic template
 | 🦗 🍯 | Veromessor Andrei | |
 -->
 
-## December 11, 2021
+## December 23
 
-I found the `Dorymyrmex Insanus` Queen dead. 
-It looks like she got stuck in the nectar. I should put less nectar for small Queens and ants.
+I started moving the following colonies at 2.30 pm PT:
 
-I should move the following colonies:
-* Liometopum Occidentale
-* Myrmecocystus Mimicus
+  1. Liometopum Occidentale
+  1. Myrmecocystus Mimicus
+
+I moved `Pogonomyrmex Montanus` to a formicarium.
+I cleaned the formicarium of `Pogonomyrmex Subnitidus Polygynous` and replaced both test tubes.
+Check their health since I "dumped them".
 
 | Care |  Colony | Notes |
 |---|---|---|
-| 💐 🪲 🍯 | Acromyrmex Versicolor | |
+| | Acromyrmex Versicolor | |
 | 💐 🪲 | Acromyrmex Versicolor, Colony | |
 | 🪲 🍯 | Camponotus Fragilis | |
 | 🪲 🍯 | Camponotus Fragilis | |
@@ -89,7 +91,6 @@ I should move the following colonies:
 | 🪲 🍯 | Camponotus Vicinus (high) | |
 | 🪲 🍯 | Camponotus Vicinus (low) | |
 | 🪲 🍯 | Liometopum Occidentale | |
-| 👑☠️ | Dorymyrmex Insanus | I found the Queen dead  |
 | 🪲 🍯 | Myrmecocystus Kennedyi | | 
 | 🪲 🍯 | Myrmecocystus Mexicanus | | 
 | 🪲 🍯 | Myrmecocystus Mexicanus | | 
@@ -98,10 +99,51 @@ I should move the following colonies:
 | 🪲 🍯 | Myrmecocystus Romainei (Queen) | |
 | 🪲 🍯 | Novomessor Cockerelli, Colony | |
 | 🪲 🍯 | Pogonomyrmex Californicus (3 Queens) | |
-| 🪲 🍯 | Pogonomyrmex Montanus | |
+| 🪲 🍯 🛖 | Pogonomyrmex Montanus | Moved to formicarium. The test tube was small and pretty dirty. |
 | 🪲 🍯 | Pogonomyrmex Rugosus | |
-| 🪲 🍯 | Pogonomyrmex Subnitidus | |
+| 🪲 🍯 | Pogonomyrmex Subnitidus | Cleaned and replaced test tubes. |
 | 🪲 🍯 | Veromessor Andrei | |
+
+## December 11, 2021
+
+I found the `Dorymyrmex Insanus` Queen dead. 
+It looks like she got stuck in the nectar. I should put less nectar for small Queens and ants.
+
+I should move the following colonies:
+* Liometopum Occidentale
+* Myrmecocystus Mimicus
+
+| Care |  Colony | Notes |
+|---|---|---|
+| 💐 🦐 🍯 | Acromyrmex Versicolor | |
+| 💐 🦐 | Acromyrmex Versicolor, Colony | |
+| 🦐 🍯 | Camponotus Fragilis | |
+| 🦐 🍯 | Camponotus Fragilis | |
+| 🦐 🍯 | Camponotus Hyatti | |
+| 🦐 🍯 | Camponotus Lateralis | |
+| 🦐 🍯 | Camponotus Laevissimus | |
+| 🦐 🍯 | Camponotus Maritimus | |
+| 🦐 🍯 | Camponotus Modoc | |
+| 🦐 🍯 | Camponotus Modoc | |
+| 🦐 🍯 | Camponotus Pennsylvanicus | |
+| 🦐 🍯 | Camponotus Sansabeanus | |
+| 🦐 🍯 | Camponotus US-CA02 | |
+| 🦐 🍯 | Camponotus Vicinus (high) | |
+| 🦐 🍯 | Camponotus Vicinus (low) | |
+| 🦐 🍯 | Liometopum Occidentale | |
+| 👑☠️ | Dorymyrmex Insanus | I found the Queen dead  |
+| 🦐 🍯 | Myrmecocystus Kennedyi | | 
+| 🦐 🍯 | Myrmecocystus Mexicanus | | 
+| 🦐 🍯 | Myrmecocystus Mexicanus | | 
+| 🦐 🍯 | Myrmecocystus Mimicus | |
+| 🦐 🍯 | Myrmecocystus Navajo | |
+| 🦐 🍯 | Myrmecocystus Romainei (Queen) | |
+| 🦐 🍯 | Novomessor Cockerelli, Colony | |
+| 🦐 🍯 | Pogonomyrmex Californicus (3 Queens) | |
+| 🦐 🍯 | Pogonomyrmex Montanus | |
+| 🦐 🍯 | Pogonomyrmex Rugosus | |
+| 🦐 🍯 | Pogonomyrmex Subnitidus | |
+| 🦐 🍯 | Veromessor Andrei | |
 
 
 ## December 4, 2021
