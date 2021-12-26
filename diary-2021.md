@@ -62,6 +62,21 @@ Basic template
 | 🦗 🍯 | Veromessor Andrei | |
 -->
 
+## December, 25
+
+I pushed the `Myrmecocystus Mexicanus` larvae down the nest hole (11 pm PT). There are still several workers in the outworld.
+
+## December 24
+
+I dumped one of the colonies of `Myrmecocystus Mexicanus` into a THA Mini Hearth X (3.43 pm PT)
+A few ants went immediately to the nest. However, the Queen and most of the workers (plus the larvae) stay in the outworld.
+Later (around 5 pm PT) I started to stress the Queen expecting she was going to take the path to the nest. She didn't. At 5.30 pm PT I picked her and put her inside the nest. I fear I over-stressed her.
+Lesson learned: I should dump the entire colony into the nest NOT the outworld.
+I'm keeping the formicarium outside, under a lamp, forcing the workers to go down. 
+
+1. Liometopum Occidentale - Moved before 2pm PT
+2. Myrmecocystus Mimicus I "dumped them" into the new test tube at 3pm PT. It was particularly difficult to dump the replete.
+
 ## December 23
 
 I started moving the following colonies at 2.30 pm PT:
