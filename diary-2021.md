@@ -28,8 +28,6 @@ Common EMOJIs combos
 
 Basic template
 
-### ...
-
 | Care |  Colony | Notes |
 |---|---|---|
 | 💐 🦗 🍯 | Acromyrmex Versicolor | |
@@ -61,6 +59,42 @@ Basic template
 | 🦗 🍯 | Pogonomyrmex Subnitidus | |
 | 🦗 🍯 | Veromessor Andrei | |
 -->
+
+## December 31
+
+I dumped the `Novomessor Cockerelli` colony into a custom formicarium (10 am PT).
+I cut part of the fungus of the `Acromyrmex Versicolor` Queen and put it in the test tube of the `Acromyrmex Versicolor` colony that I have in the formicarium.
+
+| Care |  Colony | Notes |
+|---|---|---|
+| 💐 🦐 🍯 | Acromyrmex Versicolor | |
+| 💐 🦐 | Acromyrmex Versicolor, Colony | |
+| 🦐 🍯 | Camponotus Fragilis | |
+| 🦐 🍯 | Camponotus Fragilis | |
+| 🦐 🍯 | Camponotus Hyatti | |
+| 🦐 🍯 | Camponotus Lateralis | |
+| 🦐 🍯 | Camponotus Laevissimus | |
+| 🦐 🍯 | Camponotus Maritimus | |
+| 🦐 🍯 | Camponotus Modoc | |
+| 🦐 🍯 | Camponotus Modoc | |
+| 🦐 🍯 | Camponotus Pennsylvanicus | |
+| 🦐 🍯 | Camponotus Sansabeanus | |
+| 🦐 🍯 | Camponotus US-CA02 | |
+| 🦐 🍯 | Camponotus Vicinus (high) | |
+| 🦐 🍯 | Camponotus Vicinus (low) | |
+| 🦐 🍯 | Liometopum Occidentale | |
+| 🦐 🍯 | Myrmecocystus Kennedyi | | 
+| 🦐 🍯 | Myrmecocystus Mexicanus | | 
+| 🦐 🍯 | Myrmecocystus Mexicanus | | 
+| 🦐 🍯 | Myrmecocystus Mimicus | |
+| 🦐 🍯 | Myrmecocystus Navajo | |
+| 🦐 🍯 | Myrmecocystus Romainei (Queen) | |
+| 🌱 🦐 🍯 🛖 | Novomessor Cockerelli, Colony | Moved to formicarium. |
+| 🦐 🍯 | Pogonomyrmex Californicus (3 Queens) | |
+| 🦐 🍯 | Pogonomyrmex Montanus | |
+| 🦐 🍯 | Pogonomyrmex Rugosus | |
+| 💐 🦐 🍯 | Pogonomyrmex Subnitidus | |
+| 🦐 🍯 | Veromessor Andrei | |
 
 ## December, 25
 
