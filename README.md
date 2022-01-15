@@ -50,7 +50,6 @@ When a Queen/Colony died…
 1. Pogonomyrmex Montanus (2021)
 1. Pogonomyrmex Rugosus (2021)
 1. Pogonomyrmex Subnitidus Polygynous (???)
-1. Veromessor Andrei (2021)
 
 
 ### Queens
@@ -60,6 +59,7 @@ When a Queen/Colony died…
 1. Camponotus Lateralis (2020) - non fertilized Queen
 1. Myrmecocystus Romainei (2021)
 1. Pogonomyrmex Rugosus (2021)
+1. Veromessor Andrei (2021)
 
 <!--
 Dead Queens/colonies
@@ -141,6 +141,17 @@ V > Internal code: 105
     Q 2 and F: 35
 
 B > Internal code: 91
+
+---
+
+THA: 274
+5 Mini hearth XL:  5 x 55
+
+THA: 600
+5 Mini hearth XL: 190
+Mini hearth XXL: 135
+Mini Hearth bifucarted: 65
+Nucleus plus Mini hearth XL: 210
 
 ---
 
