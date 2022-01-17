@@ -63,10 +63,15 @@ Basic template
 
 -->
 
+## January 15
+
+I started moving the colony of `Camponotus Vicinus (low)` to a new test tube at 1.50 pm PT. The Queen moved 5 minutes later and all the ants were in the new tube at 2.10 pm PT. 
+
+
 ## January 14
 
 I should move the following colonies:
-* Camponotus Vicinus (low)
+* Camponotus Vicinus (low). The test tube is pretty dirty.
 
 | Care |  Colony | Notes |
 |---|---|---|
