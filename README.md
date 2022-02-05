@@ -28,7 +28,6 @@ When a Queen/Colony died…
 
 ### Colonies
 
-1. Acromyrmex Versicolor Polygynous (2021)
 1. Camponotus Fragilis (2021)
 1. Camponotus Hyatti (2021)
 1. Camponotus Laevissimus (2021)
@@ -64,6 +63,7 @@ When a Queen/Colony died…
 <!--
 Dead Queens/colonies
 1. Acromyrmex Versicolor (2021-2021)
+1. Acromyrmex Versicolor (ex 24) > Internal code: 50
 1. Camponotus Laevigatus (2021-2021)
 1. Camponotus Semitestaceus (2021-2021)
 1. Liometopum Occidentale (2021-2021)
@@ -128,7 +128,6 @@ Numbers based on tags.
 Formicariums:
 Camponotus Pennsylvanicus > Internal code: 175
 Pogonomyrmex Subnitidus Polygynous (with 4 Queens???) > Internal code: 80
-Acromyrmex Versicolor (ex 24) > Internal code: 50
 26. Pogonomyrmex Montanus > Internal code: 25
 
 
@@ -168,4 +167,5 @@ Dead:
 
   Pogonomyrmex Californicus > Internal code: 25
   Acromyrmex Versicolor > Internal code: 35
+  Acromyrmex Versicolor (ex 24) > Internal code: 50 - Killed by invasive ants
 -->
