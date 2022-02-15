@@ -103,7 +103,7 @@ Numbers based on tags.
 2. Camponotus Sansabeanus > Internal code: 30
 4. Camponotus Vicinus (high) > Internal code: 25
 5. Camponotus Vicinus (low) > Internal code: 00
-7 Camponotus Fragilis > Internal code: 00
+7. Camponotus Fragilis > Internal code: 00
 8. Camponotus Lateralis > Internal code: 20
 9. Camponotus Hyatti > Internal code: 15
 10. Camponotus Maritimus > Internal code: 00
