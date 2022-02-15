@@ -62,6 +62,55 @@ Basic template
 
 -->
 
+## February 13
+
+I turned on the heater (currently at 70 F) for the following colonies:
+1. Camponotus Fragilis
+1. Camponotus Fragilis
+1. Camponotus Sansabeanus
+1. Camponotus Vicinus (low)
+1. Pogonomyrmex Californicus (3 Queens)
+1. Pogonomyrmex Rugosus 
+1. Veromessor Andrei
+
+The following colonies are out of water:
+
+1. Camponotus Pennsylvanicus (which is in the fridge). I am going to wake them up and move them to a formicarium. 
+2. Myrmecocystus Navajo 
+3. Myrmecocystus Mexicanus 
+
+Note: I'm going to move both Myrmecocystus to the custom MM formicariums.
+
+| Care |  Colony | Notes |
+|---|---|---|
+| 💐 🦐 🍯 | Acromyrmex Versicolor | |
+| 🦐 🍯 | Camponotus Fragilis | |
+| 🦐 🍯 | Camponotus Fragilis | |
+| 🦐 🍯 | Camponotus Hyatti | |
+| 🦐 🍯 | Camponotus Lateralis | |
+| 🦐 🍯 | Camponotus Laevissimus | |
+| 🦐 🍯 | Camponotus Maritimus | |
+| 🦐 🍯 | Camponotus Modoc | |
+| 🦐 🍯 | Camponotus Modoc | |
+| 🦐 🍯 | Camponotus Pennsylvanicus | |
+| 🦐 🍯 | Camponotus Sansabeanus | |
+| 🦐 🍯 | Camponotus US-CA02 | I moved them to a new test tube. |
+| 🦐 🍯 | Camponotus Vicinus (high) | |
+| 🦐 🍯 | Camponotus Vicinus (low) | |
+| 🦐 🍯 | Liometopum Occidentale | |
+| 🦐 🍯 | Myrmecocystus Kennedyi | | 
+| 🦐 🍯 | Myrmecocystus Mexicanus | | 
+| 🦐 🍯 | Myrmecocystus Mexicanus | | 
+| 🦐 🍯 | Myrmecocystus Mimicus | |
+| 🦐 🍯 | Myrmecocystus Navajo | |
+| 🦐 🍯 | Myrmecocystus Romainei (Queen) | |
+| 🦐 🍯 | Novomessor Cockerelli, Colony | I cleaned the formicarium. |
+| 🦐 🍯 | Pogonomyrmex Californicus (3 Queens) | |
+| 🦐 🍯 | Pogonomyrmex Montanus | |
+| 🦐 🍯 | Pogonomyrmex Rugosus | |
+| 🦐 🍯 | Pogonomyrmex Subnitidus | I cleaned the formicarium. |
+| 🦐 🍯 | Veromessor Andrei | |
+
 ## February 5
 
 Invasive ants found the closet with the ant colonies and supplies.
