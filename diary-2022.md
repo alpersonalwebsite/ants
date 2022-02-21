@@ -62,6 +62,59 @@ Basic template
 
 -->
 
+## February 20
+
+I dumped the following colonies in their new nests:
+* Myrmecocystus Navajo 
+* Myrmecocystus Mexicanus
+
+| Care |  Colony | Notes |
+|---|---|---|
+| 💐 🦗 🍯 | Acromyrmex Versicolor | |
+| 🦗 🍯 | Camponotus Fragilis | |
+| 🦗 🍯 | Camponotus Fragilis | |
+| 🦗 🍯 | Camponotus Hyatti | |
+| 🦗 🍯 | Camponotus Lateralis | |
+| 🦗 🍯 | Camponotus Laevissimus | |
+| 🦗 🍯 | Camponotus Maritimus | |
+| 🦗 🍯 | Camponotus Modoc | |
+| 🦗 🍯 | Camponotus Modoc | |
+| 🦗 🍯 | Camponotus Pennsylvanicus | I moved them to a new DIY formicarium. |
+| 🦗 🍯 | Camponotus Sansabeanus | |
+| 🦗 🍯 | Camponotus US-CA02 | |
+| 🦗 🍯 | Camponotus Vicinus (high) | |
+| 🦗 🍯 | Camponotus Vicinus (low) | |
+| 🦗 🍯 | Liometopum Occidentale | |
+| 🦗 🍯 | Myrmecocystus Kennedyi | | 
+| 🦗 🍯 | Myrmecocystus Mexicanus | | 
+| 🦗 🍯 | Myrmecocystus Mexicanus | I moved them to a new formicarium. | 
+| 🦗 🍯 | Myrmecocystus Mimicus | |
+| 🦗 🍯 | Myrmecocystus Navajo | I moved them to a new formicarium. |
+| 🦗 🍯 | Myrmecocystus Romainei (Queen) | |
+| 🦗 🍯 | Novomessor Cockerelli, Colony | |
+| 🦗 🍯 | Pogonomyrmex Californicus (3 Queens) | |
+| 🦗 🍯 | Pogonomyrmex Montanus | |
+| 🦗 🍯 | Pogonomyrmex Rugosus | |
+| 🦗 🍯 | Pogonomyrmex Subnitidus | |
+| 🦗 🍯 | Veromessor Andrei | |
+
+
+## February 19
+
+I dumped the `Camponotus Pennsylvanicus` colony in a new DIY formicarium.
+
+## February 16
+
+I removed the following colonies from the fridge:
+
+1. Camponotus Pennsylvanicus
+1. Camponotus Maritimus
+1. Camponotus Lateralis 
+1. Camponotus Vicinus (high)
+1. Camponotus Hyatti
+
+I am going to keep them out of the heater for a while.
+
 ## February 13
 
 I turned on the heater (currently at 70 F) for the following colonies:
