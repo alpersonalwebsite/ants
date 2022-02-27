@@ -62,6 +62,52 @@ Basic template
 
 -->
 
+## February 26
+
+I should...
+* Add more sand to `Myrmecocystus Mimicus`
+* Move the following colonies to a new test tube:
+  * Pogonomyrmex Rugosus
+  * Myrmecocystus Kennedyi
+  * Pogonomyrmex Californicus (3 Queens and workers)
+
+I put the ants that were in the closet under the bed to slowly raise the temperature.
+
+I’m thinking about removing the remaining ants from the fridge next week:
+* Camponotus Laevissimus
+* Camponotus Modoc
+* Camponotus Modoc
+
+| Care |  Colony | Notes |
+|---|---|---|
+| 💐 🐛 🍯 | Acromyrmex Versicolor | |
+| 🐛 🍯 | Camponotus Fragilis | |
+| 🐛 🍯 | Camponotus Fragilis | |
+| 🐛 🍯 | Camponotus Hyatti | |
+| 🐛 🍯 | Camponotus Lateralis | |
+| 🐛 🍯 | Camponotus Laevissimus | |
+| 🐛 🍯 | Camponotus Maritimus | |
+| 🐛 🍯 | Camponotus Modoc | |
+| 🐛 🍯 | Camponotus Modoc | |
+| 🐛 🍯 | Camponotus Pennsylvanicus | |
+| 🐛 🍯 | Camponotus Sansabeanus | |
+| 🐛 🍯 | Camponotus US-CA02 | |
+| 🐛 🍯 | Camponotus Vicinus (high) | |
+| 🐛 🍯 | Camponotus Vicinus (low) | |
+| 🐛 🍯 | Liometopum Occidentale | |
+| 🐛 🍯 | Myrmecocystus Kennedyi | | 
+| 🐛 🍯 | Myrmecocystus Mexicanus | | 
+| 🐛 🍯 | Myrmecocystus Mexicanus | | 
+| 🐛 🍯 | Myrmecocystus Mimicus | |
+| 🐛 🍯 | Myrmecocystus Navajo | |
+| 🐛 🍯 | Myrmecocystus Romainei (Queen) | |
+| 🐛 🍯 | Novomessor Cockerelli, Colony | |
+| 🐛 🍯 | Pogonomyrmex Californicus (3 Queens) | |
+| 🐛 🍯 | Pogonomyrmex Montanus | |
+| 🐛 🍯 | Pogonomyrmex Rugosus | |
+| 🐛 🍯 | Pogonomyrmex Subnitidus | |
+| 🐛 🍯 | Veromessor Andrei | |
+
 ## February 20
 
 I dumped the following colonies in their new nests:
