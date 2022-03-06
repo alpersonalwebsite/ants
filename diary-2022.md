@@ -34,7 +34,7 @@ Basic template
 |---|---|---|
 | 💐 🦐 🍯 | Acromyrmex Versicolor | |
 | 🦐 🍯 | Camponotus Fragilis | |
-| 🦐 🍯 | Camponotus Fragilis | |I
+| 🦐 🍯 | Camponotus Fragilis | |
 | 🦐 🍯 | Camponotus Hyatti | |
 | 🦐 🍯 | Camponotus Lateralis | |
 | 🦐 🍯 | Camponotus Laevissimus | |
@@ -53,13 +53,47 @@ Basic template
 | 🦐 🍯 | Myrmecocystus Mimicus | |
 | 🦐 🍯 | Myrmecocystus Navajo | |
 | 🦐 🍯 | Myrmecocystus Romainei (Queen) | |
-| 🌱 🦐 🍯 🛖 | Novomessor Cockerelli, Colony | Moved to formicarium. |
+| 🌱 🦐 🍯 | Novomessor Cockerelli, Colony | |
 | 🌱 🦐 🍯 | Pogonomyrmex Californicus (3 Queens) | |
 | 🌱 🦐 🍯 | Pogonomyrmex Montanus | |
 | 🌱 🦐 🍯 | Pogonomyrmex Rugosus | |
 | 💐 🦐 🍯 | Pogonomyrmex Subnitidus | |
 | 🌱 🦐 🍯 | Veromessor Pergandei | |
 -->
+
+## March 5
+
+I added more sand to the `Myrmecocystus` colonies in test tubes.
+
+| Care |  Colony | Notes |
+|---|---|---|
+| 💐 🦐 🍯 | Acromyrmex Versicolor | |
+| 🦐 🍯 | Camponotus Fragilis | |
+| 🦐 🍯 | Camponotus Fragilis | |
+| 🦐 🍯 | Camponotus Hyatti | |
+| 🦐 🍯 | Camponotus Lateralis | |
+| 🦐 🍯 | Camponotus Laevissimus | |
+| 🦐 🍯 | Camponotus Maritimus | |
+| 🦐 🍯 | Camponotus Modoc | |
+| 🦐 🍯 | Camponotus Modoc | |
+| 🦐 🍯 | Camponotus Pennsylvanicus | |
+| 🦐 🍯 | Camponotus Sansabeanus | |
+| 🦐 🍯 | Camponotus US-CA02 | |
+| 🦐 🍯 | Camponotus Vicinus (high) | |
+| 🦐 🍯 | Camponotus Vicinus (low) | |
+| 🦐 🍯 | Liometopum Occidentale | |
+| 🦐 🍯 | Myrmecocystus Kennedyi | | 
+| 🦐 🍯 | Myrmecocystus Mexicanus | | 
+| 🦐 🍯 | Myrmecocystus Mexicanus | | 
+| 🦐 🍯 | Myrmecocystus Mimicus | |
+| 🦐 🍯 | Myrmecocystus Navajo | |
+| 🦐 🍯 | Myrmecocystus Romainei (Queen) | |
+| 🌱 🦐 🍯 | Novomessor Cockerelli, Colony | |
+| 🌱 🦐 🍯 | Pogonomyrmex Californicus (3 Queens) | |
+| 🌱 🦐 🍯 | Pogonomyrmex Montanus | |
+| 🌱 🦐 🍯 | Pogonomyrmex Rugosus | |
+| 💐 🦐 🍯 | Pogonomyrmex Subnitidus | |
+| 🌱 🦐 🍯 | Veromessor Pergandei | |
 
 ## March 4
 
@@ -84,12 +118,11 @@ I added the following colonies to the heat pad:
 1. Camponotus Hyatti
 
 I removed the following colonies from the fridge:
+(I am going to keep them out of the heater for a while.)
 
 * Camponotus Laevissimus
 * Camponotus Modoc
 * Camponotus Modoc
-
-I am going to keep them out of the heater for a while.
 
 ## February 26
 
