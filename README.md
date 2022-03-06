@@ -58,7 +58,7 @@ When a Queen/Colony died…
 1. Camponotus Lateralis (2020) - non fertilized Queen
 1. Myrmecocystus Romainei (2021)
 1. Pogonomyrmex Rugosus (2021)
-1. Veromessor Andrei (2021)
+1. Veromessor pergandei (2002)
 
 <!--
 Dead Queens/colonies
@@ -73,6 +73,7 @@ Dead Queens/colonies
 1. Novomessor Cockerelli (2019-2021)
 1. Pogonomyrmex Californicus (2021-2021)
 1. Dorymyrmex Insanus (2021-2021)
+1. Veromessor Andrei (2021-2022)
 -->
 
 <!--
@@ -99,7 +100,6 @@ Internal Codes
 DO NOT CHANGE ORDER.
 Numbers based on tags.
 
-1. Veromessor Andrei > Internal code: 30
 2. Camponotus Sansabeanus > Internal code: 30
 4. Camponotus Vicinus (high) > Internal code: 25
 5. Camponotus Vicinus (low) > Internal code: 00
@@ -123,6 +123,7 @@ Numbers based on tags.
 32. Camponotus Laevissimus > Internal code: 20
 33. Camponotus Modoc > Internal code: 16
 34. Camponotus Modoc > Internal code: 16
+35. Veromessor pergandei > Internal code: 25
 
 
 Formicariums:
@@ -164,6 +165,7 @@ Dead:
   23. Myrmecocystus Mimicus > Internal code: 00
   13. Pogonomyrmex Rugosus > Internal code: 10
   27. Dorymyrmex Insanus > Internal code: 10
+  1. Veromessor Andrei > Internal code: 30
 
   Pogonomyrmex Californicus > Internal code: 25
   Acromyrmex Versicolor > Internal code: 35
