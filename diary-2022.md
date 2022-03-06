@@ -54,18 +54,48 @@ Basic template
 | 🦐 🍯 | Myrmecocystus Navajo | |
 | 🦐 🍯 | Myrmecocystus Romainei (Queen) | |
 | 🌱 🦐 🍯 🛖 | Novomessor Cockerelli, Colony | Moved to formicarium. |
-| 🦐 🍯 | Pogonomyrmex Californicus (3 Queens) | |
-| 🦐 🍯 | Pogonomyrmex Montanus | |
-| 🦐 🍯 | Pogonomyrmex Rugosus | |
+| 🌱 🦐 🍯 | Pogonomyrmex Californicus (3 Queens) | |
+| 🌱 🦐 🍯 | Pogonomyrmex Montanus | |
+| 🌱 🦐 🍯 | Pogonomyrmex Rugosus | |
 | 💐 🦐 🍯 | Pogonomyrmex Subnitidus | |
-| 🦐 🍯 | Veromessor Andrei | |
-
+| 🌱 🦐 🍯 | Veromessor Pergandei | |
 -->
+
+## March 4
+
+I dumped the following colonies in their new test tubes:
+
+* Camponotus Fragilis
+* Myrmecocystus Kennedyi
+* Pogonomyrmex Californicus (3 Queens and workers)
+* Pogonomyrmex Rugosus
+
+## March 3
+
+I received the `Veromessor Pergandei` Queen. It came with a few eggs.
+
+I found the `Veromessor Andrei` Queen dead. 
+
+I added the following colonies to the heat pad:
+
+1. Camponotus Maritimus
+1. Camponotus Lateralis 
+1. Camponotus Vicinus (high)
+1. Camponotus Hyatti
+
+I removed the following colonies from the fridge:
+
+* Camponotus Laevissimus
+* Camponotus Modoc
+* Camponotus Modoc
+
+I am going to keep them out of the heater for a while.
 
 ## February 26
 
 I should...
 * Add more sand to `Myrmecocystus Mimicus`
+
 * Move the following colonies to a new test tube:
   * Pogonomyrmex Rugosus
   * Myrmecocystus Kennedyi
