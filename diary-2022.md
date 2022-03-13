@@ -33,6 +33,7 @@ Basic template
 | Care |  Colony | Notes |
 |---|---|---|
 | 💐 🦐 🍯 | Acromyrmex Versicolor | |
+| 💐 🦐 🍯 | Acromyrmex Versicolor | |
 | 🦐 🍯 | Camponotus Fragilis | |
 | 🦐 🍯 | Camponotus Fragilis | |
 | 🦐 🍯 | Camponotus Hyatti | |
@@ -52,7 +53,6 @@ Basic template
 | 🦐 🍯 | Myrmecocystus Mexicanus | | 
 | 🦐 🍯 | Myrmecocystus Mimicus | |
 | 🦐 🍯 | Myrmecocystus Navajo | |
-| 🦐 🍯 | Myrmecocystus Romainei (Queen) | |
 | 🌱 🦐 🍯 | Novomessor Cockerelli, Colony | |
 | 🌱 🦐 🍯 | Pogonomyrmex Californicus (3 Queens) | |
 | 🌱 🦐 🍯 | Pogonomyrmex Montanus | |
@@ -60,6 +60,52 @@ Basic template
 | 💐 🦐 🍯 | Pogonomyrmex Subnitidus | |
 | 🌱 🦐 🍯 | Veromessor Pergandei | |
 -->
+
+## March 12
+
+The following colonies are out of water:
+* Camponotus Sansabeanus 
+* Camponotus Fragilis, Queen
+* Camponotus Lateralis, Queen
+* Liometopum Occidentale
+
+| Care |  Colony | Notes |
+|---|---|---|
+| 💐 🦗 🍯 | Acromyrmex Versicolor | |
+| 💐 🦗 🍯 | Acromyrmex Versicolor | |
+| 🦗 🍯 | Camponotus Fragilis | |
+| 🦗 🍯 | Camponotus Fragilis | |
+| 🦗 🍯 | Camponotus Hyatti | |
+| 🦗 🍯 | Camponotus Lateralis | |
+| 🦗 🍯 | Camponotus Laevissimus | |
+| 🦗 🍯 | Camponotus Maritimus | |
+| 🦗 🍯 | Camponotus Modoc | |
+| 🦗 🍯 | Camponotus Modoc | |
+| 🦗 🍯 | Camponotus Pennsylvanicus | |
+| 🦗 🍯 | Camponotus Sansabeanus | |
+| 🦗 🍯 | Camponotus US-CA02 | |
+| 🦗 🍯 | Camponotus Vicinus (high) | |
+| 🦗 🍯 | Camponotus Vicinus (low) | |
+| 🦗 🍯 | Liometopum Occidentale | |
+| 🦗 🍯 | Myrmecocystus Kennedyi | | 
+| 🦗 🍯 | Myrmecocystus Mexicanus | | 
+| 🦗 🍯 | Myrmecocystus Mexicanus | | 
+| 🦗 🍯 | Myrmecocystus Mimicus | |
+| 🦗 🍯 | Myrmecocystus Navajo | |
+| 🌱 🦗 🍯 | Novomessor Cockerelli, Colony | |
+| 🌱 🦗 🍯 | Pogonomyrmex Californicus (3 Queens) | |
+| 🌱 🦗 🍯 | Pogonomyrmex Montanus | |
+| 🌱 🦗 🍯 | Pogonomyrmex Rugosus | |
+| 💐 🦗 🍯 | Pogonomyrmex Subnitidus | |
+| 🌱 🦗 🍯 | Veromessor Pergandei | |
+
+## March 9
+
+I received the new `Acromyrmex Versicolor` colony (it came in a test tube full of fungus)
+I place the colony with the fungus in the new Acro Formicarium (chamber with substrate) and add the food mix in the other chamber.
+I should monitor to see evolution of the colony and how they behave in this formicarium. It is the first time I have used it.
+
+I found the `Myrmecocystus Romainei` Queen dead.
 
 ## March 5
 
