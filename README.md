@@ -49,6 +49,7 @@ When a Queen/Colony died…
 1. Pogonomyrmex Montanus (2021)
 1. Pogonomyrmex Rugosus (2021)
 1. Pogonomyrmex Subnitidus Polygynous (???)
+1. Acromyrmex Versicolor (2021)
 
 
 ### Queens
@@ -56,7 +57,6 @@ When a Queen/Colony died…
 1. Acromyrmex Versicolor (2021)
 1. Camponotus Fragilis (2019)
 1. Camponotus Lateralis (2020) - non fertilized Queen
-1. Myrmecocystus Romainei (2021)
 1. Pogonomyrmex Rugosus (2021)
 1. Veromessor pergandei (2002)
 
@@ -74,6 +74,7 @@ Dead Queens/colonies
 1. Pogonomyrmex Californicus (2021-2021)
 1. Dorymyrmex Insanus (2021-2021)
 1. Veromessor Andrei (2021-2022)
+1. Myrmecocystus Romainei (2021-2022)
 -->
 
 <!--
@@ -118,12 +119,12 @@ Numbers based on tags.
 25. Camponotus Fragilis > Internal code: 25
 28. Acromyrmex Versicolor > Internal code: 35
 29. Myrmecocystus Kennedyi > Internal code: 50
-30. Myrmecocystus Romainei (Queen) > Internal code: 50
 31. Pogonomyrmex Californicus (3 Queens and workers) > Internal code: 00
 32. Camponotus Laevissimus > Internal code: 20
 33. Camponotus Modoc > Internal code: 16
 34. Camponotus Modoc > Internal code: 16
 35. Veromessor pergandei > Internal code: 25
+36. Acromyrmex Versicolor with Fungus > Internal code: 80
 
 
 Formicariums:
@@ -153,6 +154,8 @@ Mini hearth XXL: 135
 Mini Hearth bifucarted: 65
 Nucleus plus Mini hearth XL: 210
 
+Drew
+Formicarium with 1-chamber fungus-grower formicarium w/ substrate: 80
 ---
 
 Dead:
@@ -166,6 +169,7 @@ Dead:
   13. Pogonomyrmex Rugosus > Internal code: 10
   27. Dorymyrmex Insanus > Internal code: 10
   1. Veromessor Andrei > Internal code: 30
+  30. Myrmecocystus Romainei (Queen) > Internal code: 50
 
   Pogonomyrmex Californicus > Internal code: 25
   Acromyrmex Versicolor > Internal code: 35
