@@ -28,6 +28,8 @@ When a Queen/Colony died…
 
 ### Colonies
 
+1. Acromyrmex Versicolor (2021)
+1. Camponotus Festinatus (2020)
 1. Camponotus Fragilis (2021)
 1. Camponotus Hyatti (2021)
 1. Camponotus Laevissimus (2021)
@@ -40,16 +42,19 @@ When a Queen/Colony died…
 1. Camponotus Vicinus (high - 2021)
 1. Camponotus Vicinus (low - 2021)
 1. Liometopum Occidentale (2021)
+1. Monomorium Ergatogyna
+1. Monomorium Minimum (2021)
 1. Myrmecocystus Kennedyi (2021)
-1. Myrmecocystus Mexicanus, 2 colonies (2021)
+1. Myrmecocystus Mexicanus, 3 colonies (2021)
 1. Myrmecocystus Mimicus (2021)
 1. Myrmecocystus Navajo (2021)
 1. Novomessor Cockerelli (2021)
+1. Pheidole Californica (2021)
 1. Pogonomyrmex Californicus Polygynous (2021)
 1. Pogonomyrmex Montanus (2021)
 1. Pogonomyrmex Rugosus (2021)
 1. Pogonomyrmex Subnitidus Polygynous (???)
-1. Acromyrmex Versicolor (2021)
+1. Temnothorax Rugatulus
 
 
 ### Queens
@@ -58,7 +63,7 @@ When a Queen/Colony died…
 1. Camponotus Fragilis (2019)
 1. Camponotus Lateralis (2020) - non fertilized Queen
 1. Pogonomyrmex Rugosus (2021)
-1. Veromessor pergandei (2002)
+1. Veromessor Pergandei (2022)
 
 <!--
 Dead Queens/colonies
@@ -110,11 +115,7 @@ Numbers based on tags.
 10. Camponotus Maritimus > Internal code: 00
 11. Camponotus USA-CA02 > Internal code: 30
 12. Pogonomyrmex Rugosus > Internal code: 10
-14. Novomessor Cockerelli > Internal code: 35
 15. Liometopum Occidentale > Internal code: 10
-19. Myrmecocystus Navajo > Internal code: 50
-20. Myrmecocystus Mexicanus > Internal code: 50
-21. Myrmecocystus Mexicanus > Internal code: 50
 22. Myrmecocystus Mimicus > Internal code: 25
 25. Camponotus Fragilis > Internal code: 25
 28. Acromyrmex Versicolor > Internal code: 35
@@ -124,13 +125,25 @@ Numbers based on tags.
 33. Camponotus Modoc > Internal code: 16
 34. Camponotus Modoc > Internal code: 16
 35. Veromessor pergandei > Internal code: 25
-36. Acromyrmex Versicolor with Fungus > Internal code: 80
+37. Myrmecocystus Mimicus > Internal code: 20
+38. 
+39. Pheidole Californica > Internal code: 25
+40. Monomorium Minimum > Internal code: 10
+41. 
 
 
 Formicariums:
+Acromyrmex Versicolor with Fungus > Internal code: 80
+Camponotus Festinatus > Internal code: 40
 Camponotus Pennsylvanicus > Internal code: 175
+Myrmecocystus Mexicanus > Internal code: 50
+Myrmecocystus Mexicanus > Internal code: 50
+Myrmecocystus Navajo > Internal code: 50
+Novomessor Cockerelli > Internal code: 35
+Pogonomyrmex Montanus > Internal code: 25
 Pogonomyrmex Subnitidus Polygynous (with 4 Queens???) > Internal code: 80
-26. Pogonomyrmex Montanus > Internal code: 25
+
+
 
 
 
