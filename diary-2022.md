@@ -32,34 +32,115 @@ Basic template
 
 | Care |  Colony | Notes |
 |---|---|---|
+| 💐 🦐 🍯 | Acromyrmex Versicolor (28) | |
 | 💐 🦐 🍯 | Acromyrmex Versicolor | |
-| 💐 🦐 🍯 | Acromyrmex Versicolor | |
-| 🦐 🍯 | Camponotus Fragilis | |
-| 🦐 🍯 | Camponotus Fragilis | |
+| 🦐 🍯 | Camponotus Festinatus | |
+| 🦐 🍯 | Camponotus Fragilis (7) | |
+| 🦐 🍯 | Camponotus Fragilis (25) | |
 | 🦐 🍯 | Camponotus Hyatti | |
 | 🦐 🍯 | Camponotus Lateralis | |
 | 🦐 🍯 | Camponotus Laevissimus | |
 | 🦐 🍯 | Camponotus Maritimus | |
-| 🦐 🍯 | Camponotus Modoc | |
-| 🦐 🍯 | Camponotus Modoc | |
+| 🦐 🍯 | Camponotus Modoc (33) | |
+| 🦐 🍯 | Camponotus Modoc (34) | |
 | 🦐 🍯 | Camponotus Pennsylvanicus | |
 | 🦐 🍯 | Camponotus Sansabeanus | |
 | 🦐 🍯 | Camponotus US-CA02 | |
 | 🦐 🍯 | Camponotus Vicinus (high) | |
 | 🦐 🍯 | Camponotus Vicinus (low) | |
 | 🦐 🍯 | Liometopum Occidentale | |
+| 🦐 | Monomorium Ergatogyna (42) | | 
+| 🦐 | Monomorium Ergatogyna (43) | | 
+| 🦐 | Monomorium Minimum | | 
 | 🦐 🍯 | Myrmecocystus Kennedyi | | 
 | 🦐 🍯 | Myrmecocystus Mexicanus | | 
 | 🦐 🍯 | Myrmecocystus Mexicanus | | 
 | 🦐 🍯 | Myrmecocystus Mimicus | |
 | 🦐 🍯 | Myrmecocystus Navajo | |
 | 🌱 🦐 🍯 | Novomessor Cockerelli, Colony | |
+| 🌱 🦐 🍯 | Pheidole californica | |
 | 🌱 🦐 🍯 | Pogonomyrmex Californicus (3 Queens) | |
 | 🌱 🦐 🍯 | Pogonomyrmex Montanus | |
 | 🌱 🦐 🍯 | Pogonomyrmex Rugosus | |
 | 💐 🦐 🍯 | Pogonomyrmex Subnitidus | |
+| 🦐 🍯 | Temnothorax Rugatulus | |
 | 🌱 🦐 🍯 | Veromessor Pergandei | |
 -->
+
+## March 19
+
+| Care |  Colony | Notes |
+|---|---|---|
+| 💐 🦐 🍯 | Acromyrmex Versicolor (28) | |
+| 💐 🦐 🍯 | Acromyrmex Versicolor | |
+| 🦐 🍯 | Camponotus Festinatus | |
+| 🦐 🍯 | Camponotus Fragilis (7) | |
+| 🦐 🍯 | Camponotus Fragilis (25) | |
+| 🦐 🍯 | Camponotus Hyatti | |
+| 🦐 🍯 | Camponotus Lateralis | |
+| 🦐 🍯 | Camponotus Laevissimus | |
+| 🦐 🍯 | Camponotus Maritimus | |
+| 🦐 🍯 | Camponotus Modoc (33) | |
+| 🦐 🍯 | Camponotus Modoc (34) | |
+| 🦐 🍯 | Camponotus Pennsylvanicus | |
+| 🦐 🍯 | Camponotus Sansabeanus | |
+| 🦐 🍯 | Camponotus US-CA02 | |
+| 🦐 🍯 | Camponotus Vicinus (high) | |
+| 🦐 🍯 | Camponotus Vicinus (low) | |
+| 🦐 🍯 | Liometopum Occidentale | |
+| 🦐 | Monomorium Ergatogyna (42) | | 
+| 🦐 | Monomorium Ergatogyna (43) | | 
+| 🦐 | Monomorium Minimum | | 
+| 🦐 🍯 | Myrmecocystus Kennedyi | | 
+| 🦐 🍯 | Myrmecocystus Mexicanus | | 
+| 🦐 🍯 | Myrmecocystus Mexicanus | | 
+| 🦐 🍯 | Myrmecocystus Mimicus | |
+| 🦐 🍯 | Myrmecocystus Navajo | |
+| 🌱 🦐 🍯 | Novomessor Cockerelli, Colony | |
+| 🌱 🦐 🍯 | Pheidole californica | |
+| 🌱 🦐 🍯 | Pogonomyrmex Californicus (3 Queens) | |
+| 🌱 🦐 🍯 | Pogonomyrmex Montanus | |
+| 🌱 🦐 🍯 | Pogonomyrmex Rugosus | |
+| 💐 🦐 🍯 | Pogonomyrmex Subnitidus | |
+| 🦐 🍯 | Temnothorax Rugatulus | |
+| 🌱 🦐 🍯 | Veromessor Pergandei | |
+
+## March 18
+
+I found the new `Myrmecocystus Mimicus` Queen dead. Probably, the colony was stressed during shipping.
+
+## March 17
+
+New colonies arrived:
+
+1. Camponotus Festinatus
+2. Monomorium Ergatogyna
+3. Monomorium Minimum
+4. Myrmecocystus Mimicus
+5. Pheidole californica
+6. Temnothorax Rugatulus
+
+I moved the `Camponotus Festinatus` colony to a DIY formicarium. The test tube arrived broken and most of the ants were dead.
+
+I moved the `Monomorium Minimum` colony to a new test tube for easier handling. I add sand to the test tube.
+
+I put the following colonies that were in the closet under the bed to raise the temperature.
+
+* Camponotus Laevissimus
+* Camponotus Modoc
+* Camponotus Modoc
+
+## March 15
+
+I dumped the following colonies in their new test tubes:
+
+* Camponotus Sansabeanus 
+* Camponotus Fragilis, Queen
+* Camponotus Lateralis, Queen
+* Liometopum Occidentale
+* Camponotus Laevissimus
+* Camponotus Modoc
+* Camponotus Modoc
 
 ## March 12
 
