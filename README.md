@@ -42,7 +42,7 @@ When a Queen/Colony died…
 1. Camponotus Vicinus (high - 2021)
 1. Camponotus Vicinus (low - 2021)
 1. Liometopum Occidentale (2021)
-1. Monomorium Ergatogyna
+1. Monomorium Ergatogyna (2022)
 1. Monomorium Minimum (2021)
 1. Myrmecocystus Kennedyi (2021)
 1. Myrmecocystus Mexicanus, 3 colonies (2021)
@@ -54,7 +54,7 @@ When a Queen/Colony died…
 1. Pogonomyrmex Montanus (2021)
 1. Pogonomyrmex Rugosus (2021)
 1. Pogonomyrmex Subnitidus Polygynous (???)
-1. Temnothorax Rugatulus
+1. Temnothorax Rugatulus (2021)
 
 
 ### Queens
@@ -80,6 +80,7 @@ Dead Queens/colonies
 1. Dorymyrmex Insanus (2021-2021)
 1. Veromessor Andrei (2021-2022)
 1. Myrmecocystus Romainei (2021-2022)
+1. Myrmecocystus Mimicus (2022-2022)
 -->
 
 <!--
@@ -125,11 +126,11 @@ Numbers based on tags.
 33. Camponotus Modoc > Internal code: 16
 34. Camponotus Modoc > Internal code: 16
 35. Veromessor pergandei > Internal code: 25
-37. Myrmecocystus Mimicus > Internal code: 20
-38. 
+38. Temnothorax Rugatulus > Internal code: 43
 39. Pheidole Californica > Internal code: 25
 40. Monomorium Minimum > Internal code: 10
-41. 
+42. Monomorium Ergatogyna Internal code: 15
+43. Monomorium Ergatogyna > Internal code: 00
 
 
 Formicariums:
@@ -183,6 +184,7 @@ Dead:
   27. Dorymyrmex Insanus > Internal code: 10
   1. Veromessor Andrei > Internal code: 30
   30. Myrmecocystus Romainei (Queen) > Internal code: 50
+  37. Myrmecocystus Mimicus > Internal code: 20
 
   Pogonomyrmex Californicus > Internal code: 25
   Acromyrmex Versicolor > Internal code: 35
