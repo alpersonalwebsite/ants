@@ -5,6 +5,7 @@
 |  Colony | Food | Temperature | Humidity | Hibernation/Diapause | Size | Stinging | Experience | Growth | Foundation |
 |---|---|---|---|---|---|---|---|---|---|
 | Acromyrmex versicolor | Fungus | ??? | ??? | No | S/M | No | Advanced | Slow | ??? |
+| Camponotus Festinatus | Shrimps, worm soup, mealworms, crickets chunks | ??? | ??? | ??? | ??? | No | Beginner | ??? | ??? |
 | Camponotus Fragilis | Shrimps, worm soup, mealworms, crickets chunks | 80 to 85F - Desert | Low (% ???) | No | M | No | Beginner | | Fully Claustral |
 | Camponotus Hyatti | Shrimps, worm soup, mealworms, crickets chunks  | 80 to 85F | ??? | Yes | M | No | ??? | Slow | ??? |
 | Camponotus Laevigatus | Shrimps, worm soup, mealworms, crickets chunks | ??? | ??? | ??? | M/L | No | Beginner | ??? | ??? |
@@ -19,15 +20,18 @@
 | Camponotus Vicinus (low, smaller) | Shrimps, worm soup, crickets chunks | 80 to 85F | ??? | No | M/L | No | Beginner | ??? | Fully Claustral |
 | Dorymyrmex insanus | Shrimps, worm soup, mealworms, crickets chunks | 3 | 4 | No | S | No | Beginner | 9 | 10 |
 | Liometopum Occidentale | ??? | 75 to 80F | ??? | No | S/M | No | Hard | Really fast | Fully Claustral |
+| Monomorium Minimum | Shrimps, worm soup, crickets chunks | 75 to 85F | 70 to 80% | ??? | S | No | Beginner | ??? | Fully claustral, Polygynous |
 | Myrmecocystus Mexicanus | Shrimps, worm soup, crickets chunks | ??? | ??? | No heat through winter | M/L | No | Advanced | Fast | ??? |
 | Myrmecocystus Mimicus | Shrimps, worm soup, crickets chunks | 75 to 85F | 55% to 80% | No heat through winter | S/M | No | Advanced | Slow | ??? |
 | Myrmecocystus Navajo | Shrimps, worm soup, crickets chunks | ??? | ??? | No | S/M | No | Advanced | Fast | ??? |
 | Novomessor Cockerelli (desert) | Seeds? Shrimps, worm soup, crickets chunks and seeds | 80 to 85F - Desert | 50% to 75% | Yes. December to early March, 55F | M/L | No | Beginner | ??? | Claustral |
+| Pheidole Californica | Seeds. Shrimps, worm soup, mealworms, crickets chunks | 80 to 85F | 65% | No | S | No | Beginner | Fast | and polygynous |
 | Pogonomyrmex Californicus | Seeds. Shrimps, worm soup, crickets chunks and seeds | 80 to 85F - Desert | 30% to 40% | No | S/M | Yes | Beginner | Fast | Semi-claustural |
 | Pogonomyrmex Montanus | Seeds | 3 | 4 | No | S | Yes | Beginner | Fast | 10 |
 | Pogonomyrmex Rugosus | Seeds. Shrimps, worm soup, crickets chunks and seeds | 80 to 85F | 60% to 80% | No | M/L | Yes. Venomous. Also bite. | Beginner | Fast | Claustral |
 | Pogonomyrmex Subnitidus Polygynous | Seeds. Shrimps, worm soup, crickets chunks and seeds | ??? | ??? | No | M | Yes. Venomous. Also bite. | ??? | ??? |
-| Veromessor Andrei | Shrimps, worm soup, mealworms, crickets chunks | ??? | ??? | No | M | No | Beginner | ??? | ??? |
+| Veromessor Andrei | Seeds. Shrimps, worm soup, crickets chunks and seeds  | ??? | ??? | No | M | No | Beginner | ??? | ??? |
+| Veromessor Pergandei | Seeds. Shrimps, worm soup, crickets chunks and seeds | ??? | ??? | ??? | ??? | ??? | Beginner | ??? | ??? |
 
 
 
