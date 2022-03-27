@@ -67,7 +67,7 @@ Basic template
 | 🌱 🦐 🍯 | Veromessor Pergandei | |
 -->
 
-## March 19
+## March 26
 
 | Care |  Colony | Notes |
 |---|---|---|
@@ -88,9 +88,9 @@ Basic template
 | 🦐 🍯 | Camponotus Vicinus (high) | |
 | 🦐 🍯 | Camponotus Vicinus (low) | |
 | 🦐 🍯 | Liometopum Occidentale | |
-| 🦐 | Monomorium Ergatogyna (42) | | 
-| 🦐 | Monomorium Ergatogyna (43) | | 
-| 🦐 | Monomorium Minimum | | 
+| | Monomorium Ergatogyna (42) | | 
+| | Monomorium Ergatogyna (43) | | 
+| | Monomorium Minimum | | 
 | 🦐 🍯 | Myrmecocystus Kennedyi | | 
 | 🦐 🍯 | Myrmecocystus Mexicanus | | 
 | 🦐 🍯 | Myrmecocystus Mexicanus | | 
@@ -104,6 +104,44 @@ Basic template
 | 💐 🦐 🍯 | Pogonomyrmex Subnitidus | |
 | 🦐 🍯 | Temnothorax Rugatulus | |
 | 🌱 🦐 🍯 | Veromessor Pergandei | |
+
+## March 19
+
+| Care |  Colony | Notes |
+|---|---|---|
+| 💐 🪲 🍯 | Acromyrmex Versicolor (28) | |
+| 💐 🪲 🍯 | Acromyrmex Versicolor | |
+| 🪲 🍯 | Camponotus Festinatus | |
+| 🪲 🍯 | Camponotus Fragilis (7) | |
+| 🪲 🍯 | Camponotus Fragilis (25) | |
+| 🪲 🍯 | Camponotus Hyatti | |
+| 🪲 🍯 | Camponotus Lateralis | |
+| 🪲 🍯 | Camponotus Laevissimus | |
+| 🪲 🍯 | Camponotus Maritimus | |
+| 🪲 🍯 | Camponotus Modoc (33) | |
+| 🪲 🍯 | Camponotus Modoc (34) | |
+| 🪲 🍯 | Camponotus Pennsylvanicus | |
+| 🪲 🍯 | Camponotus Sansabeanus | |
+| 🪲 🍯 | Camponotus US-CA02 | |
+| 🪲 🍯 | Camponotus Vicinus (high) | |
+| 🪲 🍯 | Camponotus Vicinus (low) | |
+| 🪲 🍯 | Liometopum Occidentale | |
+| 🪲 | Monomorium Ergatogyna (42) | | 
+| 🪲 | Monomorium Ergatogyna (43) | | 
+| 🪲 | Monomorium Minimum | | 
+| 🪲 🍯 | Myrmecocystus Kennedyi | | 
+| 🪲 🍯 | Myrmecocystus Mexicanus | | 
+| 🪲 🍯 | Myrmecocystus Mexicanus | | 
+| 🪲 🍯 | Myrmecocystus Mimicus | |
+| 🪲 🍯 | Myrmecocystus Navajo | |
+| 🌱 🪲 🍯 | Novomessor Cockerelli, Colony | |
+| 🌱 🪲 🍯 | Pheidole californica | |
+| 🌱 🪲 🍯 | Pogonomyrmex Californicus (3 Queens) | |
+| 🌱 🪲 🍯 | Pogonomyrmex Montanus | |
+| 🌱 🪲 🍯 | Pogonomyrmex Rugosus | |
+| 💐 🪲 🍯 | Pogonomyrmex Subnitidus | |
+| 🪲 🍯 | Temnothorax Rugatulus | |
+| 🌱 🪲 🍯 | Veromessor Pergandei | |
 
 ## March 18
 
