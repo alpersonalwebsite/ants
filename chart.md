@@ -5,9 +5,7 @@
 |  Colony | Food | Temperature | Humidity | Hibernation/Diapause | Size | Stinging | Experience | Growth | Foundation |
 |---|---|---|---|---|---|---|---|---|---|
 | Acromyrmex Versicolor | Fungus | ??? | ??? | No | S/M | No | Advanced | Slow | ??? |
-
 | Camponotus Anthrax | Shrimps, worm soup, mealworms, crickets chunks | 3 | 4 | No | M | No | Beginner | 9 | 10 |
-
 | Camponotus Essigi | Shrimps, worm soup, mealworms, crickets chunks | 77 to 82F | Low, 30 to 50% | No | S/M | No | Beginner | Slow | 10 |
 | Camponotus Festinatus | Shrimps, worm soup, mealworms, crickets chunks | ??? | ??? | ??? | ??? | No | Beginner | ??? | ??? |
 | Camponotus Fragilis | Shrimps, worm soup, mealworms, crickets chunks | 80 to 85F - Desert | Low (% ???) | No | M | No | Beginner | | Fully Claustral |
