@@ -29,6 +29,7 @@ When a Queen/Colony died…
 ### Colonies
 
 1. Acromyrmex Versicolor (2021)
+1. Aphaenogaster Occidentalis (2021)
 1. Camponotus Festinatus (2020)
 1. Camponotus Fragilis (2021)
 1. Camponotus Hyatti (2021)
@@ -41,6 +42,9 @@ When a Queen/Colony died…
 1. Camponotus USA-CA02 (2021)
 1. Camponotus Vicinus (high - 2021)
 1. Camponotus Vicinus (low - 2021)
+1. Camponotus Yogi (2022)
+1. Crematogaster species (2020)
+1. Lasius Alienus (2021)
 1. Liometopum Occidentale (2021)
 1. Monomorium Ergatogyna (2022)
 1. Monomorium Minimum (2021)
@@ -60,9 +64,14 @@ When a Queen/Colony died…
 ### Queens
 
 1. Acromyrmex Versicolor (2021)
+1. Camponotus Anthrax, 2 colonies (2022)
 1. Camponotus Fragilis (2019)
+1. Camponotus Hyatti (2022)
+1. Camponotus Laevigatus (2022)
 1. Camponotus Lateralis (2020) - non fertilized Queen
 1. Pogonomyrmex Rugosus (2021)
+1. Prenolepis Imparis (...)
+1. Veromessor Pergandei (2022)
 1. Veromessor Pergandei (2022)
 
 <!--
@@ -131,6 +140,21 @@ Numbers based on tags.
 40. Monomorium Minimum > Internal code: 10
 42. Monomorium Ergatogyna Internal code: 15
 43. Monomorium Ergatogyna > Internal code: 00
+44. Camponotus Hyatti > Internal code: 00
+45. Veromessor Pergandei > Internal code: 00
+46. Lasius Alienus > Internal code: 20
+47. Prenolepis Imparis > Internal code: 00
+48. Crematogaster species > Internal code: 33
+49. Aphaenogaster Occidentalis > Internal code: 00
+50. Camponotus Yogi > Internal code: 35
+51. Camponotus Laevigatus > Internal code: 13
+52. Camponotus Anthrax > Internal code: 13
+53. Camponotus Anthrax > Internal code: 13
+54. Camponotus USA-CA02 > Internal code: 36
+55. Camponotus Vicinus > Internal code: 16
+56. Camponotus Sansabeanus > Internal code: 21
+57. Camponotus Essigi > Internal code: 16
+58. Camponotus Essigi > Internal code: 16
 
 
 Formicariums:
@@ -140,7 +164,7 @@ Camponotus Pennsylvanicus > Internal code: 175
 Myrmecocystus Mexicanus > Internal code: 50
 Myrmecocystus Mexicanus > Internal code: 50
 Myrmecocystus Navajo > Internal code: 50
-Novomessor Cockerelli > Internal code: 35
+Novomessor Cockerelli > Internal code: 37
 Pogonomyrmex Montanus > Internal code: 25
 Pogonomyrmex Subnitidus Polygynous (with 4 Queens???) > Internal code: 80
 
