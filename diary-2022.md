@@ -34,11 +34,16 @@ Basic template
 |---|---|---|
 | 💐 🦐 🍯 | Acromyrmex Versicolor (28) | |
 | 💐 🦐 🍯 | Acromyrmex Versicolor | |
+| ... | Aphaenogaster Occidentalis | |
+| ... | Camponotus Anthrax (52) | |
+| ... | Camponotus Anthrax (53) | |
 | 🦐 🍯 | Camponotus Festinatus | |
 | 🦐 🍯 | Camponotus Fragilis (7) | |
 | 🦐 🍯 | Camponotus Fragilis (25) | |
-| 🦐 🍯 | Camponotus Hyatti | |
+| 🦐 🍯 | Camponotus Hyatti (...) | |
+| 🦐 🍯 | Camponotus Hyatti (44) | |
 | 🦐 🍯 | Camponotus Lateralis | |
+| ... | Camponotus Laevigatus | |
 | 🦐 🍯 | Camponotus Laevissimus | |
 | 🦐 🍯 | Camponotus Maritimus | |
 | 🦐 🍯 | Camponotus Modoc (33) | |
@@ -48,6 +53,9 @@ Basic template
 | 🦐 🍯 | Camponotus US-CA02 | |
 | 🦐 🍯 | Camponotus Vicinus (high) | |
 | 🦐 🍯 | Camponotus Vicinus (low) | |
+| ... | Camponotus Yogi | |
+| ... | Crematogaster species | |
+| ... | Lasius Alienus | |
 | 🦐 🍯 | Liometopum Occidentale | |
 | 🦐 | Monomorium Ergatogyna (42) | | 
 | 🦐 | Monomorium Ergatogyna (43) | | 
@@ -63,9 +71,22 @@ Basic template
 | 🌱 🦐 🍯 | Pogonomyrmex Montanus | |
 | 🌱 🦐 🍯 | Pogonomyrmex Rugosus | |
 | 💐 🦐 🍯 | Pogonomyrmex Subnitidus | |
+| ... | Prenolepis Imparis | |
 | 🦐 🍯 | Temnothorax Rugatulus | |
 | 🌱 🦐 🍯 | Veromessor Pergandei | |
+| 🌱 🦐 🍯 | Veromessor Pergandei (...) | |
 -->
+
+## March 30
+
+Today I received the following colonies:
+
+1. Camponotus Hyatti
+1. Veromessor Pergandei
+1. Lasius Alienus
+1. Prenolepis Imparis
+1. Crematogaster species
+1. Aphaenogaster Occidentalis
 
 ## March 26
 
