@@ -34,28 +34,30 @@ Basic template
 |---|---|---|
 | 💐 🦐 🍯 | Acromyrmex Versicolor (28) | |
 | 💐 🦐 🍯 | Acromyrmex Versicolor | |
-| ... | Aphaenogaster Occidentalis | |
-| ... | Camponotus Anthrax (52) | |
-| ... | Camponotus Anthrax (53) | |
+| 🦐 🍯 | Camponotus Anthrax (52) | |
+| 🦐 🍯 | Camponotus Anthrax (53) | |
 | 🦐 🍯 | Camponotus Festinatus | |
 | 🦐 🍯 | Camponotus Fragilis (7) | |
 | 🦐 🍯 | Camponotus Fragilis (25) | |
-| 🦐 🍯 | Camponotus Hyatti (...) | |
+| 🦐 🍯 | Camponotus Hyatti (9) | |
 | 🦐 🍯 | Camponotus Hyatti (44) | |
 | 🦐 🍯 | Camponotus Lateralis | |
-| ... | Camponotus Laevigatus | |
+| 🦐 🍯 | Camponotus Laevigatus | |
 | 🦐 🍯 | Camponotus Laevissimus | |
 | 🦐 🍯 | Camponotus Maritimus | |
 | 🦐 🍯 | Camponotus Modoc (33) | |
 | 🦐 🍯 | Camponotus Modoc (34) | |
 | 🦐 🍯 | Camponotus Pennsylvanicus | |
-| 🦐 🍯 | Camponotus Sansabeanus | |
-| 🦐 🍯 | Camponotus US-CA02 | |
+| 🦐 🍯 | Camponotus Sansabeanus (2) | |
+| 🦐 🍯 | Camponotus Sansabeanus (56) | |
+| 🦐 🍯 | Camponotus US-CA02 (11) | |
+| 🦐 🍯 | Camponotus US-CA02 (54) | |
 | 🦐 🍯 | Camponotus Vicinus (high) | |
 | 🦐 🍯 | Camponotus Vicinus (low) | |
-| ... | Camponotus Yogi | |
-| ... | Crematogaster species | |
-| ... | Lasius Alienus | |
+| 🦐 🍯 | Camponotus Vicinus | |
+| 🦐 🍯 | Camponotus Yogi | |
+| 🦐 🍯 | Crematogaster species | |
+| 🦐 🍯 | Lasius Alienus | |
 | 🦐 🍯 | Liometopum Occidentale | |
 | 🦐 | Monomorium Ergatogyna (42) | | 
 | 🦐 | Monomorium Ergatogyna (43) | | 
@@ -71,21 +73,157 @@ Basic template
 | 🌱 🦐 🍯 | Pogonomyrmex Montanus | |
 | 🌱 🦐 🍯 | Pogonomyrmex Rugosus | |
 | 💐 🦐 🍯 | Pogonomyrmex Subnitidus | |
-| ... | Prenolepis Imparis | |
+| 🦐 🍯 | Prenolepis Imparis | |
 | 🦐 🍯 | Temnothorax Rugatulus | |
-| 🌱 🦐 🍯 | Veromessor Pergandei | |
-| 🌱 🦐 🍯 | Veromessor Pergandei (...) | |
+| 🌱 🦐 🍯 | Veromessor Pergandei (35) | |
 -->
+
+## April 10
+
+I found the following Queen dead...
+1. Veromessor Pergandei 
+1. Aphaenogaster Occidentalis
+
+I dumped the `Pogonomyrmex Rugosus` colony into a DIY formicarium.
+
+| Care |  Colony | Notes |
+|---|---|---|
+| 💐 🦐 🍯 | Acromyrmex Versicolor (28) | |
+| 💐 🦐 🍯 | Acromyrmex Versicolor | |
+| 🦐 🍯 | Aphaenogaster Occidentalis | ☠️️️️️️️️️️️️ |
+| 🦐 🍯 | Camponotus Anthrax (52) | |
+| 🦐 🍯 | Camponotus Anthrax (53) | |
+| 🦐 🍯 | Camponotus Festinatus | |
+| 🦐 🍯 | Camponotus Fragilis (7) | |
+| 🦐 🍯 | Camponotus Fragilis (25) | |
+| 🦐 🍯 | Camponotus Hyatti (9) | |
+| 🦐 🍯 | Camponotus Hyatti (44) | |
+| 🦐 🍯 | Camponotus Lateralis | |
+| 🦐 🍯 | Camponotus Laevigatus | |
+| 🦐 🍯 | Camponotus Laevissimus | |
+| 🦐 🍯 | Camponotus Maritimus | |
+| 🦐 🍯 | Camponotus Modoc (33) | |
+| 🦐 🍯 | Camponotus Modoc (34) | |
+| 🦐 🍯 | Camponotus Pennsylvanicus | |
+| 🦐 🍯 | Camponotus Sansabeanus (2) | |
+| 🦐 🍯 | Camponotus Sansabeanus (56) | |
+| 🦐 🍯 | Camponotus US-CA02 (11) | |
+| 🦐 🍯 | Camponotus US-CA02 (54) | |
+| 🦐 🍯 | Camponotus Vicinus (high) | |
+| 🦐 🍯 | Camponotus Vicinus (low) | |
+| 🦐 🍯 | Camponotus Vicinus | |
+| 🦐 🍯 | Camponotus Yogi | |
+| 🦐 🍯 | Crematogaster species | |
+| 🦐 🍯 | Lasius Alienus | |
+| 🦐 🍯 | Liometopum Occidentale | |
+| 🦐 | Monomorium Ergatogyna (42) | | 
+| 🦐 | Monomorium Ergatogyna (43) | | 
+| 🦐 | Monomorium Minimum | | 
+| 🦐 🍯 | Myrmecocystus Kennedyi | | 
+| 🦐 🍯 | Myrmecocystus Mexicanus | | 
+| 🦐 🍯 | Myrmecocystus Mexicanus | | 
+| 🦐 🍯 | Myrmecocystus Mimicus | |
+| 🦐 🍯 | Myrmecocystus Navajo | |
+| 🌱 🦐 🍯 | Novomessor Cockerelli, Colony | |
+| 🌱 🦐 🍯 | Pheidole californica | |
+| 🌱 🦐 🍯 | Pogonomyrmex Californicus (3 Queens) | |
+| 🌱 🦐 🍯 | Pogonomyrmex Montanus | |
+| 🌱 🦐 🍯 | Pogonomyrmex Rugosus | |
+| 💐 🦐 🍯 | Pogonomyrmex Subnitidus | |
+| 🦐 🍯 | Prenolepis Imparis | |
+| 🦐 🍯 | Temnothorax Rugatulus | |
+| 🌱 🦐 🍯 | Veromessor Pergandei (35) | |
+| 🌱 🦐 🍯 | Veromessor Pergandei (45) | ☠️️️️️️️️️️️️ |
+
+## April 3
+
+I dumped the following colonies in their new test tubes:
+
+1. Veromessor Pergandei 
+1. Prenolepis Imparis
+
+I dumped the `Crematogaster species` into a DIY formicarium.
+
+2 of 3 `Prenolepis Imparis` were dead (☠️️️️️️️️️️️️)
+
+Several of the `Monomorium Ergatogyna` Queens were dead (☠️️️️️️️️️️️️)
+
+| Care |  Colony | Notes |
+|---|---|---|
+| 💐 🦐 🍯 | Acromyrmex Versicolor (28) | |
+| 💐 🦐 🍯 | Acromyrmex Versicolor | |
+| 🦐 🍯 | Aphaenogaster Occidentalis | |
+| 🦐 🍯 | Camponotus Anthrax (52) | |
+| 🦐 🍯 | Camponotus Anthrax (53) | |
+| 🦐 🍯 | Camponotus Essigi | |
+| 🦐 🍯 | Camponotus Festinatus | |
+| 🦐 🍯 | Camponotus Fragilis (7) | |
+| 🦐 🍯 | Camponotus Fragilis (25) | |
+| 🦐 🍯 | Camponotus Hyatti (9) | |
+| 🦐 🍯 | Camponotus Hyatti (44) | |
+| 🦐 🍯 | Camponotus Lateralis | |
+| 🦐 🍯 | Camponotus Laevigatus | |
+| 🦐 🍯 | Camponotus Laevissimus | |
+| 🦐 🍯 | Camponotus Maritimus | |
+| 🦐 🍯 | Camponotus Modoc (33) | |
+| 🦐 🍯 | Camponotus Modoc (34) | |
+| 🦐 🍯 | Camponotus Pennsylvanicus | |
+| 🦐 🍯 | Camponotus Sansabeanus (2) | |
+| 🦐 🍯 | Camponotus Sansabeanus (56) | |
+| 🦐 🍯 | Camponotus US-CA02 (11) | |
+| 🦐 🍯 | Camponotus US-CA02 (54) | |
+| 🦐 🍯 | Camponotus Vicinus (high) | |
+| 🦐 🍯 | Camponotus Vicinus (low) | |
+| 🦐 🍯 | Camponotus Vicinus | |
+| 🦐 🍯 | Camponotus Yogi | |
+| 🦐 🍯 | Crematogaster species | |
+| 🦐 🍯 | Lasius Alienus | |
+| 🦐 🍯 | Liometopum Occidentale | |
+| 🦐 | Monomorium Ergatogyna (42) | | 
+| 🦐 | Monomorium Ergatogyna (43) | | 
+| 🦐 | Monomorium Minimum | | 
+| 🦐 🍯 | Myrmecocystus Kennedyi | | 
+| 🦐 🍯 | Myrmecocystus Mexicanus | | 
+| 🦐 🍯 | Myrmecocystus Mexicanus | | 
+| 🦐 🍯 | Myrmecocystus Mimicus | |
+| 🦐 🍯 | Myrmecocystus Navajo | |
+| 🌱 🦐 🍯 | Novomessor Cockerelli, Colony | |
+| 🌱 🦐 🍯 | Pheidole californica | |
+| 🌱 🦐 🍯 | Pogonomyrmex Californicus (3 Queens) | |
+| 🌱 🦐 🍯 | Pogonomyrmex Montanus | |
+| 🌱 🦐 🍯 | Pogonomyrmex Rugosus | |
+| 💐 🦐 🍯 | Pogonomyrmex Subnitidus | |
+| 🦐 🍯 | Prenolepis Imparis | |
+| 🦐 🍯 | Temnothorax Rugatulus | |
+| 🌱 🦐 🍯 | Veromessor Pergandei (35) | |
+| 🌱 🦐 🍯 | Veromessor Pergandei (45) | |
+
+## April 2
+
+Today I received the following colony:
+
+1. Camponotus Essigi
+
+## April 1
+
+Today I received the following colonies:
+
+1. Camponotus Laevigatus 
+1. Camponotus Sansabeanus
+1. Camponotus US-CA02
+1. Camponotus Vicinus
+1. Camponotus Yogi
 
 ## March 30
 
 Today I received the following colonies:
 
+1. Camponotus Anthrax
 1. Camponotus Hyatti
 1. Veromessor Pergandei
 1. Lasius Alienus
 1. Prenolepis Imparis
-1. Crematogaster species
+1. Crematogaster Species
 1. Aphaenogaster Occidentalis
 
 ## March 26
@@ -176,7 +314,7 @@ New colonies arrived:
 2. Monomorium Ergatogyna
 3. Monomorium Minimum
 4. Myrmecocystus Mimicus
-5. Pheidole californica
+5. Pheidole Californica
 6. Temnothorax Rugatulus
 
 I moved the `Camponotus Festinatus` colony to a DIY formicarium. The test tube arrived broken and most of the ants were dead.
