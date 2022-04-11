@@ -29,7 +29,6 @@ When a Queen/Colony died…
 ### Colonies
 
 1. Acromyrmex Versicolor (2021)
-1. Aphaenogaster Occidentalis (2021)
 1. Camponotus Festinatus (2020)
 1. Camponotus Fragilis (2021)
 1. Camponotus Hyatti (2021)
@@ -72,7 +71,7 @@ When a Queen/Colony died…
 1. Pogonomyrmex Rugosus (2021)
 1. Prenolepis Imparis (...)
 1. Veromessor Pergandei (2022)
-1. Veromessor Pergandei (2022)
+
 
 <!--
 Dead Queens/colonies
@@ -90,6 +89,8 @@ Dead Queens/colonies
 1. Veromessor Andrei (2021-2022)
 1. Myrmecocystus Romainei (2021-2022)
 1. Myrmecocystus Mimicus (2022-2022)
+1. Aphaenogaster Occidentalis (2021-2022)
+1. Veromessor Pergandei (2022-2022)
 -->
 
 <!--
@@ -116,84 +117,81 @@ Internal Codes
 DO NOT CHANGE ORDER.
 Numbers based on tags.
 
-2. Camponotus Sansabeanus > Internal code: 30
-4. Camponotus Vicinus (high) > Internal code: 25
-5. Camponotus Vicinus (low) > Internal code: 00
-7. Camponotus Fragilis > Internal code: 00
-8. Camponotus Lateralis > Internal code: 20
-9. Camponotus Hyatti > Internal code: 15
-10. Camponotus Maritimus > Internal code: 00
-11. Camponotus USA-CA02 > Internal code: 30
-12. Pogonomyrmex Rugosus > Internal code: 10
-15. Liometopum Occidentale > Internal code: 10
-22. Myrmecocystus Mimicus > Internal code: 25
-25. Camponotus Fragilis > Internal code: 25
-28. Acromyrmex Versicolor > Internal code: 35
-29. Myrmecocystus Kennedyi > Internal code: 50
-31. Pogonomyrmex Californicus (3 Queens and workers) > Internal code: 00
-32. Camponotus Laevissimus > Internal code: 20
-33. Camponotus Modoc > Internal code: 16
-34. Camponotus Modoc > Internal code: 16
-35. Veromessor pergandei > Internal code: 25
-38. Temnothorax Rugatulus > Internal code: 43
-39. Pheidole Californica > Internal code: 25
-40. Monomorium Minimum > Internal code: 10
-42. Monomorium Ergatogyna Internal code: 15
-43. Monomorium Ergatogyna > Internal code: 00
-44. Camponotus Hyatti > Internal code: 00
-45. Veromessor Pergandei > Internal code: 00
-46. Lasius Alienus > Internal code: 20
-47. Prenolepis Imparis > Internal code: 00
-48. Crematogaster species > Internal code: 33
-49. Aphaenogaster Occidentalis > Internal code: 00
-50. Camponotus Yogi > Internal code: 35
-51. Camponotus Laevigatus > Internal code: 13
-52. Camponotus Anthrax > Internal code: 13
-53. Camponotus Anthrax > Internal code: 13
-54. Camponotus USA-CA02 > Internal code: 36
-55. Camponotus Vicinus > Internal code: 16
-56. Camponotus Sansabeanus > Internal code: 21
-57. Camponotus Essigi > Internal code: 16
-58. Camponotus Essigi > Internal code: 16
+  2. Camponotus Sansabeanus > Internal code: 30
+  4. Camponotus Vicinus (high) > Internal code: 25
+  5. Camponotus Vicinus (low) > Internal code: 00
+  7. Camponotus Fragilis > Internal code: 00
+  8. Camponotus Lateralis > Internal code: 20
+  9. Camponotus Hyatti > Internal code: 15
+  10. Camponotus Maritimus > Internal code: 00
+  11. Camponotus USA-CA02 > Internal code: 30
+  12. Pogonomyrmex Rugosus > Internal code: 10
+  15. Liometopum Occidentale > Internal code: 10
+  22. Myrmecocystus Mimicus > Internal code: 25
+  25. Camponotus Fragilis > Internal code: 25
+  28. Acromyrmex Versicolor > Internal code: 35
+  29. Myrmecocystus Kennedyi > Internal code: 50
+  31. Pogonomyrmex Californicus (3 Queens and workers) > Internal code: 00
+  32. Camponotus Laevissimus > Internal code: 20
+  33. Camponotus Modoc > Internal code: 16
+  34. Camponotus Modoc > Internal code: 16
+  35. Veromessor Pergandei > Internal code: 25
+  38. Temnothorax Rugatulus > Internal code: 43
+  39. Pheidole Californica > Internal code: 25
+  40. Monomorium Minimum > Internal code: 10
+  42. Monomorium Ergatogyna > Internal code: 15
+  43. Monomorium Ergatogyna > Internal code: 00
+  44. Camponotus Hyatti > Internal code: 00
+  46. Lasius Alienus > Internal code: 20
+  47. Prenolepis Imparis > Internal code: 00
+  48. Crematogaster species > Internal code: 33
+  50. Camponotus Yogi > Internal code: 35
+  51. Camponotus Laevigatus > Internal code: 13
+  52. Camponotus Anthrax > Internal code: 13
+  53. Camponotus Anthrax > Internal code: 13
+  54. Camponotus USA-CA02 > Internal code: 36
+  55. Camponotus Vicinus > Internal code: 16
+  56. Camponotus Sansabeanus > Internal code: 21
+  57. Camponotus Essigi > Internal code: 16
+  58. Camponotus Essigi > Internal code: 16
 
 
 Formicariums:
-Acromyrmex Versicolor with Fungus > Internal code: 80
-Camponotus Festinatus > Internal code: 40
-Camponotus Pennsylvanicus > Internal code: 175
-Myrmecocystus Mexicanus > Internal code: 50
-Myrmecocystus Mexicanus > Internal code: 50
-Myrmecocystus Navajo > Internal code: 50
-Novomessor Cockerelli > Internal code: 37
-Pogonomyrmex Montanus > Internal code: 25
-Pogonomyrmex Subnitidus Polygynous (with 4 Queens???) > Internal code: 80
-
+  Acromyrmex Versicolor with Fungus > Internal code: 80
+  Camponotus Festinatus > Internal code: 40
+  Camponotus Pennsylvanicus > Internal code: 175
+  Myrmecocystus Mexicanus > Internal code: 50
+  Myrmecocystus Mexicanus > Internal code: 50
+  Myrmecocystus Navajo > Internal code: 50
+  Novomessor Cockerelli > Internal code: 37
+  Pogonomyrmex Montanus > Internal code: 25
+  Pogonomyrmex Subnitidus Polygynous (with 4 Queens???) > Internal code: 80
 
 
 
 
 Acr Fungus:
 V > Internal code: 105
-    F 1: 17
-    F 2: 18
-    Q 1 and F: 35
-    Q 2 and F: 35
+  F 1: 17
+  F 2: 18
+  Q 1 and F: 35
+  Q 2 and F: 35
 
 B > Internal code: 91
 
 ---
 
 THA: 274
-5 Mini hearth XL:  5 x 55
+  5 Mini hearth XL:  5 x 55
 
 THA: 600
-5 Mini hearth XL: 190
-Mini hearth XXL: 135
-Mini Hearth bifucarted: 65
-Nucleus plus Mini hearth XL: 210
+  5 Mini hearth XL: 190
+  Mini hearth XXL: 135
+  Mini Hearth bifucarted: 65
+  Nucleus plus Mini hearth XL: 210
 
 Drew
-Formicarium with 1-chamber fungus-grower formicarium w/ substrate: 80
+  Formicarium with 1-chamber fungus-grower formicarium w/ substrate: 80
 ---
 
 Dead:
@@ -209,6 +207,8 @@ Dead:
   1. Veromessor Andrei > Internal code: 30
   30. Myrmecocystus Romainei (Queen) > Internal code: 50
   37. Myrmecocystus Mimicus > Internal code: 20
+  49. Aphaenogaster Occidentalis > Internal code: 00
+  45. Veromessor Pergandei > Internal code: 00
 
   Pogonomyrmex Californicus > Internal code: 25
   Acromyrmex Versicolor > Internal code: 35
