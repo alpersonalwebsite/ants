@@ -29,6 +29,7 @@ When a Queen/Colony died…
 ### Colonies
 
 1. Acromyrmex Versicolor (2021)
+1. Aphaenogaster Occidentalis (2021)
 1. Camponotus Festinatus (2020)
 1. Camponotus Fragilis (2021)
 1. Camponotus Hyatti (2021)
@@ -36,6 +37,7 @@ When a Queen/Colony died…
 1. Camponotus Lateralis (2021)
 1. Camponotus Maritimus (2021)
 1. Camponotus Modoc, 2 colonies (2021)
+1. Camponotus Ocreatus (2020)
 1. Camponotus Pennsylvanicus (2020)
 1. Camponotus Sansabeanus (2021)
 1. Camponotus USA-CA02 (2021)
@@ -43,7 +45,9 @@ When a Queen/Colony died…
 1. Camponotus Vicinus (low - 2021)
 1. Camponotus Yogi (2022)
 1. Crematogaster species (2020)
+1. Dorymyrmex Insanus (2021)
 1. Lasius Alienus (2021)
+1. Lasius possibly brevicornis (2021)
 1. Liometopum Occidentale (2021)
 1. Monomorium Ergatogyna (2022)
 1. Monomorium Minimum (2021)
@@ -70,6 +74,7 @@ When a Queen/Colony died…
 1. Camponotus Lateralis (2020) - non fertilized Queen
 1. Pogonomyrmex Rugosus (2021)
 1. Prenolepis Imparis (...)
+1. Veromessor Pergandei (2022)
 1. Veromessor Pergandei (2022)
 
 
@@ -154,6 +159,10 @@ Numbers based on tags.
   56. Camponotus Sansabeanus > Internal code: 21
   57. Camponotus Essigi > Internal code: 16
   58. Camponotus Essigi > Internal code: 16
+  59. Veromessor Pergandei > Internal code: 00
+  60. Aphaenogaster Occidentalis >  Internal code: 21
+  61. Lasius possibly brevicornis > Internal code: 00
+  62. Dorymyrmex Insanus >  Internal code: 16
 
 
 Formicariums:
@@ -166,6 +175,7 @@ Formicariums:
   Novomessor Cockerelli > Internal code: 37
   Pogonomyrmex Montanus > Internal code: 25
   Pogonomyrmex Subnitidus Polygynous (with 4 Queens???) > Internal code: 80
+  Camponotus Ocreatus >  Internal code: 45
 
 
 
