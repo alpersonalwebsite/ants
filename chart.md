@@ -5,6 +5,7 @@
 |  Colony | Food | Temperature | Humidity | Hibernation/Diapause | Size | Stinging | Experience | Growth | Foundation |
 |---|---|---|---|---|---|---|---|---|---|
 | Acromyrmex Versicolor | Fungus | ??? | ??? | No | S/M | No | Advanced | Slow | ??? |
+| Aphaenogaster Occidentalis | Shrimps, worm soup, mealworms, crickets chunks | 70 to 75F | High |??? | ??? | ??? | Beginner | ??? | Fully Claustral |
 | Camponotus Anthrax | Shrimps, worm soup, mealworms, crickets chunks | 3 | 4 | No | M | No | Beginner | 9 | 10 |
 | Camponotus Essigi | Shrimps, worm soup, mealworms, crickets chunks | 77 to 82F | Low, 30 to 50% | No | S/M | No | Beginner | Slow | 10 |
 | Camponotus Festinatus | Shrimps, worm soup, mealworms, crickets chunks | ??? | ??? | ??? | ??? | No | Beginner | ??? | ??? |
@@ -22,6 +23,7 @@
 | Camponotus Vicinus (low, smaller) | Shrimps, worm soup, crickets chunks | 80 to 85F | ??? | No | M/L | No | Beginner | ??? | Fully Claustral |
 | Cremetogaster species | Shrimps, worm soup, crickets chunks | 77 to 80F | 50% to 60% | No | S | No | Beginner | Fast with heat | Fully Claustral |
 | Dorymyrmex insanus | Shrimps, worm soup, mealworms, crickets chunks | 3 | 4 | No | S | No | Beginner | 9 | 10 |
+| Lasius Alienus | Shrimps, worm soup, mealworms, crickets chunks | 3 | 4 | Yes | S | No | Intermediate | 9 | 10 |
 | Liometopum Occidentale | ??? | 75 to 80F | ??? | No | S/M | No | Hard | Really fast | Fully Claustral |
 | Monomorium Minimum | Shrimps, worm soup, crickets chunks | 75 to 85F | 70 to 80% | ??? | S | No | Beginner | ??? | Fully claustral, Polygynous |
 | Myrmecocystus Mexicanus | Shrimps, worm soup, crickets chunks | ??? | ??? | No heat through winter | M/L | No | Advanced | Fast | ??? |
