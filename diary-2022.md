@@ -78,6 +78,16 @@ Basic template
 | 🌱 🦐 🍯 | Veromessor Pergandei (35) | |
 -->
 
+## April 15
+
+Today I received the following colonies:
+
+1. Aphaenogaster Occidentalis
+1. Camponotus Ocreatus
+1. Dorymyrmex Insanus
+1. Lasius possibly brevicornis 
+1. Veromessor Pergandei
+
 ## April 10
 
 I found the following Queen dead...
