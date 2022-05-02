@@ -18,7 +18,7 @@ Common EMOJIs combos
 ❗️ For notes
 🛖 Formicarium
 🧪 Test tube
-🦐 Shrimps
+🦐 Shrimps or river shrimps
 🐟 Fish food
 🦗 Crickets
 🐛 Mealworms or worms
@@ -82,12 +82,87 @@ Basic template
 | 🌱 🦐 🍯 | Veromessor Pergandei (59) | |
 -->
 
+## May 1
+
+I dumped the `Temnothorax Rugatulus` colony in a DIY formicarium.
+
+## April 30
+
+In relation to: `Acromyrmex Versicolor`
+I found dozens of ants dead. The Queen is still alive. 
+
+I dumped the following colonies in new test tubes:
+
+1. Camponotus Vicinus (low)
+1. Aphaenogaster Occidentalis
+1. Lasius possibly brevicornis
+1. Dorymyrmex Insanus
+
+| Care |  Colony | Notes |
+|---|---|---|
+| 💐 🦐 🍯 | Acromyrmex Versicolor (28) | |
+| 💐 🦐 🍯 | Acromyrmex Versicolor | |
+| 🦐 🍯 | Aphaenogaster Occidentalis | |
+| 🦐 🍯 | Camponotus Anthrax (52) | |
+| 🦐 🍯 | Camponotus Anthrax (53) | |
+| 🦐 🍯 | Camponotus Festinatus | |
+| 🦐 🍯 | Camponotus Fragilis (7) | |
+| 🦐 🍯 | Camponotus Fragilis (25) | |
+| 🦐 🍯 | Camponotus Hyatti (9) | |
+| 🦐 🍯 | Camponotus Hyatti (44) | |
+| 🦐 🍯 | Camponotus Lateralis | |
+| 🦐 🍯 | Camponotus Laevigatus | |
+| 🦐 🍯 | Camponotus Laevissimus | |
+| 🦐 🍯 | Camponotus Maritimus | |
+| 🦐 🍯 | Camponotus Modoc (33) | |
+| 🦐 🍯 | Camponotus Modoc (34) | |
+| 🦐 🍯 | Camponotus Ocreatus | |
+| 🦐 🍯 | Camponotus Pennsylvanicus | |
+| 🦐 🍯 | Camponotus Sansabeanus (2) | |
+| 🦐 🍯 | Camponotus Sansabeanus (56) | |
+| 🦐 🍯 | Camponotus US-CA02 (11) | |
+| 🦐 🍯 | Camponotus US-CA02 (54) | |
+| 🦐 🍯 | Camponotus Vicinus (high) | |
+| 🦐 🍯 | Camponotus Vicinus (low) | |
+| 🦐 🍯 | Camponotus Vicinus | |
+| 🦐 🍯 | Camponotus Yogi | |
+| 🦐 🍯 | Crematogaster species | |
+| 🦐 🍯 | Dorymyrmex Insanus | |
+| 🦐 🍯 | Lasius Alienus | |
+| 🦐 🍯 | Lasius possibly Brevicornis  | |
+| 🦐 🍯 | Liometopum Occidentale | |
+| 🦐 | Monomorium Ergatogyna (43) | | 
+| 🦐 | Monomorium Minimum | | 
+| 🦐 🍯 | Myrmecocystus Kennedyi | | 
+| 🦐 🍯 | Myrmecocystus Mexicanus | | 
+| 🦐 🍯 | Myrmecocystus Mexicanus | | 
+| 🦐 🍯 | Myrmecocystus Mimicus | |
+| 🦐 🍯 | Myrmecocystus Navajo | |
+| 🌱 🦐 🍯 | Novomessor Cockerelli, Colony | |
+| 🌱 🦐 🍯 | Pheidole californica | |
+| 🌱 🦐 🍯 | Pogonomyrmex Californicus (3 Queens) | |
+| 🌱 🦐 🍯 | Pogonomyrmex Montanus | |
+| 🌱 🦐 🍯 | Pogonomyrmex Rugosus | |
+| 💐 🦐 🍯 | Pogonomyrmex Subnitidus | |
+| 🦐 🍯 | Prenolepis Imparis | |
+| 🦐 🍯 | Temnothorax Rugatulus | |
+| 🌱 🦐 🍯 | Veromessor Pergandei (35) | |
+| 🌱 🦐 🍯 | Veromessor Pergandei (59) | |
+
+## April 26
+
+In relation to: `Acromyrmex Versicolor`
+I bought fungus from another myrmecologist.
+It arrived today. Also, a used formicarium that worked well for him. I dumped the colony in the new nest.
+
 ## April 24
+
+`Acromyrmex Versicolor` in DIY formicarium: `Fungus was dead`.
 
 | Care |  Colony | Notes |
 |---|---|---|
 | 💐 🐛 🍯 | Acromyrmex Versicolor (28) | |
-| | Acromyrmex Versicolor | |
+| | Acromyrmex Versicolor | Fungus was dead |
 | 🐛 🍯 | Aphaenogaster Occidentalis | |
 | 🐛 🍯 | Camponotus Anthrax (52) | |
 | 🐛 🍯 | Camponotus Anthrax (53) | |
