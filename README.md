@@ -29,7 +29,7 @@ When a Queen/Colony died…
 ### Colonies
 
 1. Acromyrmex Versicolor (2021)
-1. Aphaenogaster Occidentalis (2021)
+1. Aphaenogaster Occidentalis, 2 colonies (2021)
 1. Camponotus Festinatus (2020)
 1. Camponotus Fragilis (2021)
 1. Camponotus Hyatti (2021)
@@ -53,7 +53,7 @@ When a Queen/Colony died…
 1. Monomorium Minimum (2021)
 1. Myrmecocystus Kennedyi (2021)
 1. Myrmecocystus Mexicanus, 3 colonies (2021)
-1. Myrmecocystus Mimicus (2021)
+1. Myrmecocystus Mimicus, 2 colonies (2021)
 1. Myrmecocystus Navajo (2021)
 1. Novomessor Cockerelli (2021)
 1. Pheidole Californica (2021)
@@ -161,9 +161,10 @@ Numbers based on tags.
   58. Camponotus Essigi > Internal code: 16
   59. Veromessor Pergandei > Internal code: 00
   60. Aphaenogaster Occidentalis >  Internal code: 21
-  61. Lasius possibly brevicornis > Internal code: 00
   62. Dorymyrmex Insanus >  Internal code: 16
-
+  63. Aphaenogaster Occidentalis > Internal code: 22
+  64. Myrmecocystus Mimicus (dark red heads) > Internal code: 35
+  65. Acromyrmex Versicolor
 
 Formicariums:
   Acromyrmex Versicolor with Fungus > Internal code: 80
@@ -181,13 +182,18 @@ Formicariums:
 
 
 Acr Fungus:
-V > Internal code: 105
-  F 1: 17
-  F 2: 18
-  Q 1 and F: 35
-  Q 2 and F: 35
+Vic > Internal code: 105
+  Fungus 1: 17
+  Fungus 2: 18
+  Queen 1 and F: 35
+  Queen 2 and F: 35
 
 B > Internal code: 91
+
+Vic > Internal code: 125
+  Fungus: 40
+  Used formicarium: 10
+  Shipping: 75
 
 ---
 
@@ -202,6 +208,7 @@ THA: 600
 
 Drew
   Formicarium with 1-chamber fungus-grower formicarium w/ substrate: 80
+  
 ---
 
 Dead:
@@ -219,6 +226,7 @@ Dead:
   37. Myrmecocystus Mimicus > Internal code: 20
   49. Aphaenogaster Occidentalis > Internal code: 00
   45. Veromessor Pergandei > Internal code: 00
+  61. Lasius possibly brevicornis > Internal code: 00
 
   Pogonomyrmex Californicus > Internal code: 25
   Acromyrmex Versicolor > Internal code: 35
