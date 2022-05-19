@@ -29,7 +29,7 @@ When a Queen/Colony died…
 ### Colonies
 
 1. Acromyrmex Versicolor (2021)
-1. Aphaenogaster Occidentalis, 2 colonies (2021)
+1. Aphaenogaster Occidentalis (2021)
 1. Camponotus Festinatus (2020)
 1. Camponotus Fragilis (2021)
 1. Camponotus Hyatti (2021)
@@ -49,11 +49,10 @@ When a Queen/Colony died…
 1. Lasius Alienus (2021)
 1. Lasius possibly brevicornis (2021)
 1. Liometopum Occidentale (2021)
-1. Monomorium Ergatogyna (2022)
 1. Monomorium Minimum (2021)
 1. Myrmecocystus Kennedyi (2021)
 1. Myrmecocystus Mexicanus, 3 colonies (2021)
-1. Myrmecocystus Mimicus, 2 colonies (2021)
+1. Myrmecocystus Mimicus (2021)
 1. Myrmecocystus Navajo (2021)
 1. Novomessor Cockerelli (2021)
 1. Pheidole Californica (2021)
@@ -132,7 +131,6 @@ Numbers based on tags.
   11. Camponotus USA-CA02 > Internal code: 30
   12. Pogonomyrmex Rugosus > Internal code: 10
   15. Liometopum Occidentale > Internal code: 10
-  22. Myrmecocystus Mimicus > Internal code: 25
   25. Camponotus Fragilis > Internal code: 25
   28. Acromyrmex Versicolor > Internal code: 35
   29. Myrmecocystus Kennedyi > Internal code: 50
@@ -144,8 +142,6 @@ Numbers based on tags.
   38. Temnothorax Rugatulus > Internal code: 43
   39. Pheidole Californica > Internal code: 25
   40. Monomorium Minimum > Internal code: 10
-  42. Monomorium Ergatogyna > Internal code: 15
-  43. Monomorium Ergatogyna > Internal code: 00
   44. Camponotus Hyatti > Internal code: 00
   46. Lasius Alienus > Internal code: 20
   47. Prenolepis Imparis > Internal code: 00
@@ -162,7 +158,6 @@ Numbers based on tags.
   59. Veromessor Pergandei > Internal code: 00
   60. Aphaenogaster Occidentalis >  Internal code: 21
   62. Dorymyrmex Insanus >  Internal code: 16
-  63. Aphaenogaster Occidentalis > Internal code: 22
   64. Myrmecocystus Mimicus (dark red heads) > Internal code: 35
   65. Acromyrmex Versicolor
 
@@ -227,6 +222,10 @@ Dead:
   49. Aphaenogaster Occidentalis > Internal code: 00
   45. Veromessor Pergandei > Internal code: 00
   61. Lasius possibly brevicornis > Internal code: 00
+  42. Monomorium Ergatogyna > Internal code: 15
+  43. Monomorium Ergatogyna > Internal code: 00
+  63. Aphaenogaster Occidentalis > Internal code: 22
+  22. Myrmecocystus Mimicus > Internal code: 25
 
   Pogonomyrmex Californicus > Internal code: 25
   Acromyrmex Versicolor > Internal code: 35
