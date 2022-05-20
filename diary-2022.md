@@ -35,7 +35,6 @@ Basic template
 | 💐 🦐 🍯 | Acromyrmex Versicolor (28) | |
 | 💐 🦐 🍯 | Acromyrmex Versicolor | |
 | 🦐 🍯 | Aphaenogaster Occidentalis (60) | |
-| 🦐 🍯 | Aphaenogaster Occidentalis (63) | |
 | 🦐 🍯 | Camponotus Anthrax (52) | |
 | 🦐 🍯 | Camponotus Anthrax (53) | |
 | 🦐 🍯 | Camponotus Festinatus | |
@@ -63,12 +62,10 @@ Basic template
 | 🦐 🍯 | Dorymyrmex Insanus | |
 | 🦐 🍯 | Lasius Alienus | |
 | 🦐 🍯 | Liometopum Occidentale | |
-| 🦐 | Monomorium Ergatogyna (43) | | 
 | 🦐 | Monomorium Minimum | | 
 | 🦐 🍯 | Myrmecocystus Kennedyi | | 
 | 🦐 🍯 | Myrmecocystus Mexicanus | | 
 | 🦐 🍯 | Myrmecocystus Mexicanus | | 
-| 🦐 🍯 | Myrmecocystus Mimicus (22) | |
 | 🦐 🍯 | Myrmecocystus Mimicus (64) | |
 | 🦐 🍯 | Myrmecocystus Navajo | |
 | 🌱 🦐 🍯 | Novomessor Cockerelli, Colony | |
@@ -83,6 +80,83 @@ Basic template
 | 🌱 🦐 🍯 | Veromessor Pergandei (59) | |
 -->
 
+## May 16
+
+I found the whole colony of `Myrmecocystus Mimicus (22)` dead.
+
+I dumped the following colonies into new test tubes (they ran out of water):
+
+* Liometopum Occidentale
+* Myrmecocystus Kennedyi
+* Camponotus Modoc (33)
+* Camponotus Hyatti (44)
+* Camponotus Yogi
+
+## May 14
+
+I found the following Queens dead...
+1. Monomorium Ergatogyna (43)
+1. Aphaenogaster Occidentalis (63)
+
+| Care |  Colony | Notes |
+|---|---|---|
+| 💐 🦗 🍯 | Acromyrmex Versicolor (28) | |
+| 💐 🦗 🍯 | Acromyrmex Versicolor | |
+| 🦗 🍯 | Aphaenogaster Occidentalis (60) | |
+| 🦗 🍯 | Aphaenogaster Occidentalis (63) | 👑☠️ |
+| 🦗 🍯 | Camponotus Anthrax (52) | |
+| 🦗 🍯 | Camponotus Anthrax (53) | |
+| 🦗 🍯 | Camponotus Festinatus | |
+| 🦗 🍯 | Camponotus Fragilis (7) | |
+| 🦗 🍯 | Camponotus Fragilis (25) | |
+| 🦗 🍯 | Camponotus Hyatti (9) | |
+| 🦗 🍯 | Camponotus Hyatti (44) | |
+| 🦗 🍯 | Camponotus Lateralis | |
+| 🦗 🍯 | Camponotus Laevigatus | |
+| 🦗 🍯 | Camponotus Laevissimus | |
+| 🦗 🍯 | Camponotus Maritimus | |
+| 🦗 🍯 | Camponotus Modoc (33) | |
+| 🦗 🍯 | Camponotus Modoc (34) | |
+| 🦗 🍯 | Camponotus Ocreatus | |
+| 🦗 🍯 | Camponotus Pennsylvanicus | |
+| 🦗 🍯 | Camponotus Sansabeanus (2) | |
+| 🦗 🍯 | Camponotus Sansabeanus (56) | |
+| 🦗 🍯 | Camponotus US-CA02 (11) | |
+| 🦗 🍯 | Camponotus US-CA02 (54) | |
+| 🦗 🍯 | Camponotus Vicinus (high) | |
+| 🦗 🍯 | Camponotus Vicinus (low) | |
+| 🦗 🍯 | Camponotus Vicinus | |
+| 🦗 🍯 | Camponotus Yogi | |
+| 🦗 🍯 | Crematogaster species | |
+| 🦗 🍯 | Dorymyrmex Insanus | |
+| 🦗 🍯 | Lasius Alienus | |
+| 🦗 🍯 | Liometopum Occidentale | |
+| 🦗 | Monomorium Ergatogyna (43) | 👑☠️ | 
+| 🦗 | Monomorium Minimum | | 
+| 🦗 🍯 | Myrmecocystus Kennedyi | | 
+| 🦗 🍯 | Myrmecocystus Mexicanus | | 
+| 🦗 🍯 | Myrmecocystus Mexicanus | | 
+| 🦗 🍯 | Myrmecocystus Mimicus (22) | |
+| 🦗 🍯 | Myrmecocystus Mimicus (64) | |
+| 🦗 🍯 | Myrmecocystus Navajo | |
+| 🌱 🦗 🍯 | Novomessor Cockerelli, Colony | |
+| 🌱 🦗 🍯 | Pheidole Californica | |
+| 🌱 🦗 🍯 | Pogonomyrmex Californicus (3 Queens) | |
+| 🌱 🦗 🍯 | Pogonomyrmex Montanus | |
+| 🌱 🦗 🍯 | Pogonomyrmex Rugosus | |
+| 💐 🦗 🍯 | Pogonomyrmex Subnitidus | |
+| 🦗 🍯 | Prenolepis Imparis | |
+| 🦗 🍯 | Temnothorax Rugatulus | |
+| 🌱 🦗 🍯 | Veromessor Pergandei (35) | |
+| 🌱 🦗 🍯 | Veromessor Pergandei (59) | |
+
+## May 12
+
+I dumped the following colonies in new test tubes:
+
+1. Camponotus Hyatti
+1. Camponotus USA-CA02
+
 ## May 7
 
 I found the Queen `Lasius possibly Brevicornis ` dead.
@@ -92,8 +166,8 @@ I found dozens of more ants dead. The Queen is still alive.
 I dumped the fungus and the remaining ants (around 4) to a test tube.
 
 The following colonies are running out of water. I should move them during the week:
-* Camponotus Hyatti > Internal code: 15
-* Camponotus USA-CA02 > Internal code: 30
+* Camponotus Hyatti
+* Camponotus USA-CA02
 
 | Care |  Colony | Notes |
 |---|---|---|
