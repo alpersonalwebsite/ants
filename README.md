@@ -45,7 +45,6 @@ When a Queen/Colony died…
 1. Camponotus Vicinus (low - 2021)
 1. Camponotus Yogi (2022)
 1. Crematogaster species (2020)
-1. Dorymyrmex Insanus (2021)
 1. Lasius Alienus (2021)
 1. Lasius possibly brevicornis (2021)
 1. Liometopum Occidentale (2021)
@@ -95,6 +94,7 @@ Dead Queens/colonies
 1. Myrmecocystus Mimicus (2022-2022)
 1. Aphaenogaster Occidentalis (2021-2022)
 1. Veromessor Pergandei (2022-2022)
+1. Dorymyrmex Insanus (2021-2022)
 -->
 
 <!--
@@ -157,7 +157,6 @@ Numbers based on tags.
   58. Camponotus Essigi > Internal code: 16
   59. Veromessor Pergandei > Internal code: 00
   60. Aphaenogaster Occidentalis >  Internal code: 21
-  62. Dorymyrmex Insanus >  Internal code: 16
   64. Myrmecocystus Mimicus (dark red heads) > Internal code: 35
   65. Acromyrmex Versicolor
 
@@ -226,6 +225,7 @@ Dead:
   43. Monomorium Ergatogyna > Internal code: 00
   63. Aphaenogaster Occidentalis > Internal code: 22
   22. Myrmecocystus Mimicus > Internal code: 25
+  62. Dorymyrmex Insanus >  Internal code: 16
 
   Pogonomyrmex Californicus > Internal code: 25
   Acromyrmex Versicolor > Internal code: 35
