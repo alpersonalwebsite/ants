@@ -34,7 +34,7 @@ Basic template
 |---|---|---|
 | 💐 🦐 🍯 | Acromyrmex Versicolor (28) | |
 | 💐 🦐 🍯 | Acromyrmex Versicolor | |
-| 🦐 🍯 | Aphaenogaster Occidentalis (60) | |
+| 🦐 🍯 | Aphaenogaster Occidentalis | |
 | 🦐 🍯 | Camponotus Anthrax (52) | |
 | 🦐 🍯 | Camponotus Anthrax (53) | |
 | 🦐 🍯 | Camponotus Festinatus | |
@@ -59,7 +59,6 @@ Basic template
 | 🦐 🍯 | Camponotus Vicinus | |
 | 🦐 🍯 | Camponotus Yogi | |
 | 🦐 🍯 | Crematogaster species | |
-| 🦐 🍯 | Dorymyrmex Insanus | |
 | 🦐 🍯 | Lasius Alienus | |
 | 🦐 🍯 | Liometopum Occidentale | |
 | 🦐 | Monomorium Minimum | | 
@@ -79,6 +78,63 @@ Basic template
 | 🌱 🦐 🍯 | Veromessor Pergandei (35) | |
 | 🌱 🦐 🍯 | Veromessor Pergandei (59) | |
 -->
+
+## May 23
+
+I moved the following colonies to DIY formicariums:
+* Camponotus Fragilis (25)
+* Pogonomyrmex Californicus (3 Queens and workers)
+
+I moved the following colony to THA MH formicarium:
+* Camponotus Vicinus (high)
+
+| Care |  Colony | Notes |
+|---|---|---|
+| 💐 🦐 🍯 | Acromyrmex Versicolor (28) | |
+| 💐 🦐 🍯 | Acromyrmex Versicolor | |
+| 🦐 🍯 | Aphaenogaster Occidentalis | |
+| 🦐 🍯 | Camponotus Anthrax (52) | |
+| 🦐 🍯 | Camponotus Anthrax (53) | |
+| 🦐 🍯 | Camponotus Festinatus | |
+| 🦐 🍯 | Camponotus Fragilis (7) | |
+| 🦐 🍯 | Camponotus Fragilis (25) | |
+| 🦐 🍯 | Camponotus Hyatti (9) | |
+| 🦐 🍯 | Camponotus Hyatti (44) | |
+| 🦐 🍯 | Camponotus Lateralis | |
+| 🦐 🍯 | Camponotus Laevigatus | |
+| 🦐 🍯 | Camponotus Laevissimus | |
+| 🦐 🍯 | Camponotus Maritimus | |
+| 🦐 🍯 | Camponotus Modoc (33) | |
+| 🦐 🍯 | Camponotus Modoc (34) | |
+| 🦐 🍯 | Camponotus Ocreatus | |
+| 🦐 🍯 | Camponotus Pennsylvanicus | |
+| 🦐 🍯 | Camponotus Sansabeanus (2) | |
+| 🦐 🍯 | Camponotus Sansabeanus (56) | |
+| 🦐 🍯 | Camponotus US-CA02 (11) | |
+| 🦐 🍯 | Camponotus US-CA02 (54) | |
+| 🦐 🍯 | Camponotus Vicinus (high) | |
+| 🦐 🍯 | Camponotus Vicinus (low) | |
+| 🦐 🍯 | Camponotus Vicinus | |
+| 🦐 🍯 | Camponotus Yogi | |
+| 🦐 🍯 | Crematogaster species | |
+| 🦐 🍯 | Lasius Alienus | |
+| 🦐 🍯 | Liometopum Occidentale | |
+| 🦐 | Monomorium Minimum | | 
+| 🦐 🍯 | Myrmecocystus Kennedyi | | 
+| 🦐 🍯 | Myrmecocystus Mexicanus | | 
+| 🦐 🍯 | Myrmecocystus Mexicanus | | 
+| 🦐 🍯 | Myrmecocystus Mimicus (64) | |
+| 🦐 🍯 | Myrmecocystus Navajo | |
+| 🌱 🦐 🍯 | Novomessor Cockerelli, Colony | |
+| 🌱 🦐 🍯 | Pheidole Californica | |
+| 🌱 🦐 🍯 | Pogonomyrmex Californicus (3 Queens) | |
+| 🌱 🦐 🍯 | Pogonomyrmex Montanus | |
+| 🌱 🦐 🍯 | Pogonomyrmex Rugosus | |
+| 💐 🦐 🍯 | Pogonomyrmex Subnitidus | |
+| 🦐 🍯 | Prenolepis Imparis | |
+| 🦐 🍯 | Temnothorax Rugatulus | |
+| 🌱 🦐 🍯 | Veromessor Pergandei (35) | |
+| 🌱 🦐 🍯 | Veromessor Pergandei (59) | |
 
 ## May 16
 
