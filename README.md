@@ -71,8 +71,6 @@ When a Queen/Colony died…
 1. Camponotus Laevigatus (2022)
 1. Camponotus Lateralis (2020) - non fertilized Queen
 1. Pogonomyrmex Rugosus (2021)
-1. Prenolepis Imparis (...)
-1. Veromessor Pergandei (2022)
 1. Veromessor Pergandei (2022)
 
 
@@ -95,6 +93,8 @@ Dead Queens/colonies
 1. Aphaenogaster Occidentalis (2021-2022)
 1. Veromessor Pergandei (2022-2022)
 1. Dorymyrmex Insanus (2021-2022)
+1. Prenolepis Imparis (... - 2022)
+1. Veromessor Pergandei (2022-2022)
 -->
 
 <!--
@@ -131,7 +131,6 @@ Numbers based on tags.
   11. Camponotus USA-CA02 > Internal code: 30
   12. Pogonomyrmex Rugosus > Internal code: 10
   15. Liometopum Occidentale > Internal code: 10
-  25. Camponotus Fragilis > Internal code: 25
   28. Acromyrmex Versicolor > Internal code: 35
   29. Myrmecocystus Kennedyi > Internal code: 50
   31. Pogonomyrmex Californicus (3 Queens and workers) > Internal code: 00
@@ -144,7 +143,6 @@ Numbers based on tags.
   40. Monomorium Minimum > Internal code: 10
   44. Camponotus Hyatti > Internal code: 00
   46. Lasius Alienus > Internal code: 20
-  47. Prenolepis Imparis > Internal code: 00
   48. Crematogaster species > Internal code: 33
   50. Camponotus Yogi > Internal code: 35
   51. Camponotus Laevigatus > Internal code: 13
@@ -155,10 +153,10 @@ Numbers based on tags.
   56. Camponotus Sansabeanus > Internal code: 21
   57. Camponotus Essigi > Internal code: 16
   58. Camponotus Essigi > Internal code: 16
-  59. Veromessor Pergandei > Internal code: 00
   60. Aphaenogaster Occidentalis >  Internal code: 21
   64. Myrmecocystus Mimicus (dark red heads) > Internal code: 35
   65. Acromyrmex Versicolor
+  66. Pogonomyrmex Montanus > Internal code: 25
 
 Formicariums:
   Acromyrmex Versicolor with Fungus > Internal code: 80
@@ -168,7 +166,6 @@ Formicariums:
   Myrmecocystus Mexicanus > Internal code: 50
   Myrmecocystus Navajo > Internal code: 50
   Novomessor Cockerelli > Internal code: 37
-  Pogonomyrmex Montanus > Internal code: 25
   Pogonomyrmex Subnitidus Polygynous (with 4 Queens???) > Internal code: 80
   Camponotus Ocreatus >  Internal code: 45
 
@@ -226,8 +223,11 @@ Dead:
   63. Aphaenogaster Occidentalis > Internal code: 22
   22. Myrmecocystus Mimicus > Internal code: 25
   62. Dorymyrmex Insanus >  Internal code: 16
+  47. Prenolepis Imparis > Internal code: 00
+  59. Veromessor Pergandei > Internal code: 00
 
   Pogonomyrmex Californicus > Internal code: 25
   Acromyrmex Versicolor > Internal code: 35
   Acromyrmex Versicolor (ex 24) > Internal code: 50 - Killed by invasive ants
+  Camponotus Fragilis > Internal code: 25
 -->
