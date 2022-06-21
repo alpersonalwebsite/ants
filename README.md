@@ -140,7 +140,6 @@ Numbers based on tags.
   35. Veromessor Pergandei > Internal code: 25
   38. Temnothorax Rugatulus > Internal code: 43
   39. Pheidole Californica > Internal code: 25
-  40. Monomorium Minimum > Internal code: 10
   44. Camponotus Hyatti > Internal code: 00
   46. Lasius Alienus > Internal code: 20
   48. Crematogaster species > Internal code: 33
@@ -168,6 +167,7 @@ Formicariums:
   Novomessor Cockerelli > Internal code: 37
   Pogonomyrmex Subnitidus Polygynous (with 4 Queens???) > Internal code: 80
   Camponotus Ocreatus >  Internal code: 45
+  Monomorium Minimum > Internal code: 10
 
 
 
