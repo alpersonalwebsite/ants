@@ -47,11 +47,9 @@ When a Queen/Colony died…
 1. Crematogaster species (2020)
 1. Lasius Alienus (2021)
 1. Lasius possibly brevicornis (2021)
-1. Liometopum Occidentale (2021)
 1. Monomorium Minimum (2021)
 1. Myrmecocystus Kennedyi (2021)
 1. Myrmecocystus Mexicanus, 3 colonies (2021)
-1. Myrmecocystus Mimicus (2021)
 1. Myrmecocystus Navajo (2021)
 1. Novomessor Cockerelli (2021)
 1. Pheidole Californica (2021)
@@ -64,14 +62,12 @@ When a Queen/Colony died…
 
 ### Queens
 
-1. Acromyrmex Versicolor (2021)
 1. Camponotus Anthrax, 2 colonies (2022)
 1. Camponotus Fragilis (2019)
 1. Camponotus Hyatti (2022)
 1. Camponotus Laevigatus (2022)
 1. Camponotus Lateralis (2020) - non fertilized Queen
 1. Pogonomyrmex Rugosus (2021)
-1. Veromessor Pergandei (2022)
 
 
 <!--
@@ -94,6 +90,10 @@ Dead Queens/colonies
 1. Veromessor Pergandei (2022-2022)
 1. Dorymyrmex Insanus (2021-2022)
 1. Prenolepis Imparis (... - 2022)
+1. Veromessor Pergandei (2022-2022)
+1. Acromyrmex Versicolor (2021-2022)
+1. Liometopum Occidentale (2021-2022)
+1. Myrmecocystus Mimicus (2021-2022)
 1. Veromessor Pergandei (2022-2022)
 -->
 
@@ -130,14 +130,12 @@ Numbers based on tags.
   10. Camponotus Maritimus > Internal code: 00
   11. Camponotus USA-CA02 > Internal code: 30
   12. Pogonomyrmex Rugosus > Internal code: 10
-  15. Liometopum Occidentale > Internal code: 10
   28. Acromyrmex Versicolor > Internal code: 35
   29. Myrmecocystus Kennedyi > Internal code: 50
   31. Pogonomyrmex Californicus (3 Queens and workers) > Internal code: 00
   32. Camponotus Laevissimus > Internal code: 20
   33. Camponotus Modoc > Internal code: 16
   34. Camponotus Modoc > Internal code: 16
-  35. Veromessor Pergandei > Internal code: 25
   38. Temnothorax Rugatulus > Internal code: 43
   39. Pheidole Californica > Internal code: 25
   44. Camponotus Hyatti > Internal code: 00
@@ -153,8 +151,6 @@ Numbers based on tags.
   57. Camponotus Essigi > Internal code: 16
   58. Camponotus Essigi > Internal code: 16
   60. Aphaenogaster Occidentalis >  Internal code: 21
-  64. Myrmecocystus Mimicus (dark red heads) > Internal code: 35
-  65. Acromyrmex Versicolor
   66. Pogonomyrmex Montanus > Internal code: 25
 
 Formicariums:
@@ -225,6 +221,10 @@ Dead:
   62. Dorymyrmex Insanus >  Internal code: 16
   47. Prenolepis Imparis > Internal code: 00
   59. Veromessor Pergandei > Internal code: 00
+  15. Liometopum Occidentale > Internal code: 10
+  35. Veromessor Pergandei > Internal code: 25
+  64. Myrmecocystus Mimicus (dark red heads) > Internal code: 35
+  65. Acromyrmex Versicolor
 
   Pogonomyrmex Californicus > Internal code: 25
   Acromyrmex Versicolor > Internal code: 35
