@@ -41,7 +41,6 @@ When a Queen/Colony died…
 1. Camponotus Pennsylvanicus (2020)
 1. Camponotus Sansabeanus (2021)
 1. Camponotus USA-CA02 (2021)
-1. Camponotus Vicinus (high - 2021)
 1. Camponotus Vicinus (low - 2021)
 1. Camponotus Yogi (2022)
 1. Crematogaster species (2020)
@@ -95,6 +94,7 @@ Dead Queens/colonies
 1. Liometopum Occidentale (2021-2022)
 1. Myrmecocystus Mimicus (2021-2022)
 1. Veromessor Pergandei (2022-2022)
+1. Camponotus Vicinus (high - 2021 - 2022)
 -->
 
 <!--
@@ -122,7 +122,6 @@ DO NOT CHANGE ORDER.
 Numbers based on tags.
 
   2. Camponotus Sansabeanus > Internal code: 30
-  4. Camponotus Vicinus (high) > Internal code: 25
   5. Camponotus Vicinus (low) > Internal code: 00
   7. Camponotus Fragilis > Internal code: 00
   8. Camponotus Lateralis > Internal code: 20
@@ -230,4 +229,5 @@ Dead:
   Acromyrmex Versicolor > Internal code: 35
   Acromyrmex Versicolor (ex 24) > Internal code: 50 - Killed by invasive ants
   Camponotus Fragilis > Internal code: 25
+  Camponotus Vicinus (high) (ex 4) > Internal code: 25
 -->
