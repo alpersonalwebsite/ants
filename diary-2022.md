@@ -52,7 +52,6 @@ Basic template
 | 🦗 🍯 | Camponotus Sansabeanus (56) | |
 | 🦗 🍯 | Camponotus US-CA02 (11) | |
 | 🦗 🍯 | Camponotus US-CA02 (54) | |
-| 🦗 🍯 | Camponotus Vicinus (high) | |
 | 🦗 🍯 | Camponotus Vicinus (low) | |
 | 🦗 🍯 | Camponotus Vicinus | |
 | 🦗 🍯 | Camponotus Yogi | |
@@ -71,6 +70,50 @@ Basic template
 | 💐 🦗 🍯 | Pogonomyrmex Subnitidus | |
 | 🦗 🍯 | Temnothorax Rugatulus | |
 -->
+
+## July 11
+
+I found the `Camponotus Vicinus (high)` Queen dead.
+
+| Care |  Colony | Notes |
+|---|---|---|
+| 💐 🦐 🍯 | Acromyrmex Versicolor | |
+| 🦐 🍯 | Aphaenogaster Occidentalis | |
+| 🦐 🍯 | Camponotus Anthrax (52) | |
+| 🦐 🍯 | Camponotus Anthrax (53) | |
+| 🦐 🍯 | Camponotus Festinatus | |
+| 🦐 🍯 | Camponotus Fragilis (7) | |
+| 🦐 🍯 | Camponotus Hyatti (9) | |
+| 🦐 🍯 | Camponotus Hyatti (44) | |
+| 🦐 🍯 | Camponotus Lateralis | |
+| 🦐 🍯 | Camponotus Laevigatus | |
+| 🦐 🍯 | Camponotus Laevissimus | |
+| 🦐 🍯 | Camponotus Maritimus | |
+| 🦐 🍯 | Camponotus Modoc (33) | |
+| 🦐 🍯 | Camponotus Modoc (34) | |
+| 🦐 🍯 | Camponotus Ocreatus | |
+| 🦐 🍯 | Camponotus Pennsylvanicus | |
+| 🦐 🍯 | Camponotus Sansabeanus (2) | |
+| 🦐 🍯 | Camponotus Sansabeanus (56) | |
+| 🦐 🍯 | Camponotus US-CA02 (11) | |
+| 🦐 🍯 | Camponotus US-CA02 (54) | |
+| 🦐 🍯 | Camponotus Vicinus (low) | |
+| 🦐 🍯 | Camponotus Vicinus | |
+| 🦐 🍯 | Camponotus Yogi | |
+| 🦐 🍯 | Crematogaster species | |
+| 🦐 🍯 | Lasius Alienus | |
+| 🦐 | Monomorium Minimum | | 
+| 🦐 🍯 | Myrmecocystus Kennedyi | | 
+| 🦐 🍯 | Myrmecocystus Mexicanus | | 
+| 🦐 🍯 | Myrmecocystus Mexicanus | | 
+| 🦐 🍯 | Myrmecocystus Navajo | |
+| 🌱 🦐 🍯 | Novomessor Cockerelli, Colony | |
+| 🌱 🦐 🍯 | Pheidole Californica | |
+| 🌱 🦐 🍯 | Pogonomyrmex Californicus (3 Queens) | |
+| 🌱 🦐 🍯 | Pogonomyrmex Montanus | |
+| 🌱 🦐 🍯 | Pogonomyrmex Rugosus | |
+| 💐 🦐 🍯 | Pogonomyrmex Subnitidus | |
+| 🦐 🍯 | Temnothorax Rugatulus | |
 
 ## July 3
 
