@@ -47,7 +47,6 @@ When a Queen/Colony died…
 1. Lasius Alienus (2021)
 1. Lasius possibly brevicornis (2021)
 1. Monomorium Minimum (2021)
-1. Myrmecocystus Kennedyi (2021)
 1. Myrmecocystus Mexicanus, 3 colonies (2021)
 1. Myrmecocystus Navajo (2021)
 1. Novomessor Cockerelli (2021)
@@ -95,6 +94,7 @@ Dead Queens/colonies
 1. Myrmecocystus Mimicus (2021-2022)
 1. Veromessor Pergandei (2022-2022)
 1. Camponotus Vicinus (high - 2021 - 2022)
+1. Myrmecocystus Kennedyi (2021 - 2022)
 -->
 
 <!--
@@ -130,7 +130,6 @@ Numbers based on tags.
   11. Camponotus USA-CA02 > Internal code: 30
   12. Pogonomyrmex Rugosus > Internal code: 10
   28. Acromyrmex Versicolor > Internal code: 35
-  29. Myrmecocystus Kennedyi > Internal code: 50
   31. Pogonomyrmex Californicus (3 Queens and workers) > Internal code: 00
   32. Camponotus Laevissimus > Internal code: 20
   33. Camponotus Modoc > Internal code: 16
@@ -145,12 +144,11 @@ Numbers based on tags.
   52. Camponotus Anthrax > Internal code: 13
   53. Camponotus Anthrax > Internal code: 13
   54. Camponotus USA-CA02 > Internal code: 36
-  55. Camponotus Vicinus > Internal code: 16
-  56. Camponotus Sansabeanus > Internal code: 21
   57. Camponotus Essigi > Internal code: 16
   58. Camponotus Essigi > Internal code: 16
   60. Aphaenogaster Occidentalis >  Internal code: 21
   66. Pogonomyrmex Montanus > Internal code: 25
+
 
 Formicariums:
   Acromyrmex Versicolor with Fungus > Internal code: 80
@@ -163,7 +161,8 @@ Formicariums:
   Pogonomyrmex Subnitidus Polygynous (with 4 Queens???) > Internal code: 80
   Camponotus Ocreatus >  Internal code: 45
   Monomorium Minimum > Internal code: 10
-
+  55. Camponotus Vicinus > Internal code: 16
+  56. Camponotus Sansabeanus > Internal code: 21
 
 
 
@@ -224,6 +223,7 @@ Dead:
   35. Veromessor Pergandei > Internal code: 25
   64. Myrmecocystus Mimicus (dark red heads) > Internal code: 35
   65. Acromyrmex Versicolor
+  29. Myrmecocystus Kennedyi > Internal code: 50
 
   Pogonomyrmex Californicus > Internal code: 25
   Acromyrmex Versicolor > Internal code: 35
