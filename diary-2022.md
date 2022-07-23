@@ -70,13 +70,23 @@ Basic template
 | 🦗 🍯 | Temnothorax Rugatulus | |
 -->
 
+## July 22
+
+I moved the `Acromyrmex Versicolor` Queen to a new test tube. It was low in water and the fungus was practically death. I don't think it will succeed.
+
+## July 20
+
+I moved the colony `Pheidole Californica (39)` to a DIY formicarium.
+
+I moved the colony `Lasius Alienus ` to a new test tube (there were out of water).
+
 ## July 17
 
-I moved the following colony to THA MH formicarium:
+I moved the following colony to `THA MH formicarium`:
 * Camponotus Vicinus
 * Camponotus Sansabeanus
 
-Note: They were running out of water.
+*Note*: They were running out of water.
 
 | Care |  Colony | Notes |
 |---|---|---|
