@@ -70,6 +70,49 @@ Basic template
 | 🦗 🍯 | Temnothorax Rugatulus | |
 -->
 
+## July 24
+
+| Care |  Colony | Notes |
+|---|---|---|
+| 💐 🪲 🍯 | Acromyrmex Versicolor | |
+| 🪲 🍯 | Aphaenogaster Occidentalis | |
+| 🪲 🍯 | Camponotus Anthrax (52) | |
+| 🪲 🍯 | Camponotus Anthrax (53) | |
+| 🪲 🍯 | Camponotus Festinatus | |
+| 🪲 🍯 | Camponotus Fragilis (7) | |
+| 🪲 🍯 | Camponotus Hyatti (9) | |
+| 🪲 🍯 | Camponotus Hyatti (44) | |
+| 🪲 🍯 | Camponotus Lateralis | |
+| 🪲 🍯 | Camponotus Laevigatus | |
+| 🪲 🍯 | Camponotus Laevissimus | |
+| 🪲 🍯 | Camponotus Maritimus | |
+| 🪲 🍯 | Camponotus Modoc (33) | |
+| 🪲 🍯 | Camponotus Modoc (34) | |
+| 🪲 🍯 | Camponotus Ocreatus | |
+| 🪲 🍯 | Camponotus Pennsylvanicus | |
+| 🪲 🍯 | Camponotus Sansabeanus (2) | |
+| 🪲 🍯 | Camponotus Sansabeanus (56) | |
+| 🪲 🍯 | Camponotus US-CA02 (11) | |
+| 🪲 🍯 | Camponotus US-CA02 (54) | |
+| 🪲 🍯 | Camponotus Vicinus (low) | |
+| 🪲 🍯 | Camponotus Vicinus | |
+| 🪲 🍯 | Camponotus Yogi | |
+| 🪲 🍯 | Crematogaster species | |
+| 🪲 🍯 | Lasius Alienus | |
+| 🪲 | Monomorium Minimum | | 
+| 🪲 🍯 | Myrmecocystus Mexicanus | | 
+| 🪲 🍯 | Myrmecocystus Mexicanus | | 
+| 🪲 🍯 | Myrmecocystus Navajo | |
+| 🌱 🪲 🍯 | Novomessor Cockerelli, Colony | |
+| 🌱 🪲 🍯 | Pheidole Californica | |
+| 🌱 🪲 🍯 | Pogonomyrmex Californicus (3 Queens) | |
+| 🌱 🪲 🍯 | Pogonomyrmex Montanus | |
+| 🌱 🪲 🍯 | Pogonomyrmex Rugosus | |
+| 💐 🪲 🍯 | Pogonomyrmex Subnitidus | |
+| 🪲 🍯 | Temnothorax Rugatulus | |
+
+I used the small vacuum to clean the formicariums.
+
 ## July 22
 
 I moved the `Acromyrmex Versicolor` Queen to a new test tube. It was low in water and the fungus was practically death. I don't think it will succeed.
