@@ -28,10 +28,8 @@ When a Queen/Colony died…
 
 ### Colonies
 
-1. Acromyrmex Versicolor (2021)
 1. Aphaenogaster Occidentalis (2021)
 1. Camponotus Festinatus (2020)
-1. Camponotus Fragilis (2021)
 1. Camponotus Hyatti (2021)
 1. Camponotus Laevissimus (2021)
 1. Camponotus Lateralis (2021)
@@ -94,7 +92,9 @@ Dead Queens/colonies
 1. Myrmecocystus Mimicus (2021-2022)
 1. Veromessor Pergandei (2022-2022)
 1. Camponotus Vicinus (high - 2021 - 2022)
+1. Camponotus Fragilis (2021 - 2022)
 1. Myrmecocystus Kennedyi (2021 - 2022)
+1. Acromyrmex Versicolor (2021 - 2022)
 -->
 
 <!--
@@ -129,7 +129,6 @@ Numbers based on tags.
   10. Camponotus Maritimus > Internal code: 00
   11. Camponotus USA-CA02 > Internal code: 30
   12. Pogonomyrmex Rugosus > Internal code: 10
-  28. Acromyrmex Versicolor > Internal code: 35
   31. Pogonomyrmex Californicus (3 Queens and workers) > Internal code: 00
   32. Camponotus Laevissimus > Internal code: 20
   33. Camponotus Modoc > Internal code: 16
@@ -163,6 +162,7 @@ Formicariums:
   Monomorium Minimum > Internal code: 10
   55. Camponotus Vicinus > Internal code: 16
   56. Camponotus Sansabeanus > Internal code: 21
+  28. Acromyrmex Versicolor > Internal code: 35
 
 
 
