@@ -70,6 +70,57 @@ Basic template
 | 🦗 🍯 | Temnothorax Rugatulus | |
 -->
 
+## August 7
+
+I dumped the following colonies into new test tubes:
+
+1. Camponotus Vicinus (low)
+1. Camponotus USA-CA02
+1. Camponotus Laevissimus
+1. Camponotus Yogi
+1. Camponotus Laevigatus
+1. Camponotus Essigi
+1. Camponotus Essigi
+
+
+| Care |  Colony | Notes |
+|---|---|---|
+| 🐛  🍯 | Aphaenogaster Occidentalis | |
+| 🐛  🍯 | Camponotus Anthrax (52) | |
+| 🐛  🍯 | Camponotus Anthrax (53) | |
+| 🐛  🍯 | Camponotus Festinatus | |
+| 🐛  🍯 | Camponotus Fragilis (7) | |
+| 🐛  🍯 | Camponotus Hyatti (9) | |
+| 🐛  🍯 | Camponotus Hyatti (44) | |
+| 🐛  🍯 | Camponotus Lateralis | |
+| 🐛  🍯 | Camponotus Laevigatus | |
+| 🐛  🍯 | Camponotus Laevissimus | |
+| 🐛  🍯 | Camponotus Maritimus | |
+| 🐛  🍯 | Camponotus Modoc (33) | |
+| 🐛  🍯 | Camponotus Modoc (34) | |
+| 🐛  🍯 | Camponotus Ocreatus | |
+| 🐛  🍯 | Camponotus Pennsylvanicus | |
+| 🐛  🍯 | Camponotus Sansabeanus (2) | |
+| 🐛  🍯 | Camponotus Sansabeanus (56) | |
+| 🐛  🍯 | Camponotus US-CA02 (11) | |
+| 🐛  🍯 | Camponotus US-CA02 (54) | |
+| 🐛  🍯 | Camponotus Vicinus (low) | |
+| 🐛  🍯 | Camponotus Vicinus | |
+| 🐛  🍯 | Camponotus Yogi | |
+| 🐛  🍯 | Crematogaster species | |
+| 🐛  🍯 | Lasius Alienus | |
+| 🐛  | Monomorium Minimum | | 
+| 🐛  🍯 | Myrmecocystus Mexicanus | | 
+| 🐛  🍯 | Myrmecocystus Mexicanus | | 
+| 🐛  🍯 | Myrmecocystus Navajo | |
+| 🌱 🐛  🍯 | Novomessor Cockerelli, Colony | |
+| 🌱 🐛  🍯 | Pheidole Californica | |
+| 🌱 🐛  🍯 | Pogonomyrmex Californicus (3 Queens) | |
+| 🌱 🐛  🍯 | Pogonomyrmex Montanus | |
+| 🌱 🐛  🍯 | Pogonomyrmex Rugosus | |
+| 💐 🐛  🍯 | Pogonomyrmex Subnitidus | |
+| 🐛  🍯 | Temnothorax Rugatulus | |
+
 ## July 30
 
 I found the `Acromyrmex Versicolor` Queen dead.
