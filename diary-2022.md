@@ -34,10 +34,12 @@ Basic template
 |---|---|---|
 | 💐 | Acromyrmex Versicolor, colony | |
 | 💐 | Acromyrmex Versicolor, 6 Queens | |
-| 🐛 🍯 | Aphaenogaster Occidentalis | |
+| 🐛 🍯 | Aphaenogaster Occidentalis (60) | |
+| 🐛 🍯 | Aphaenogaster Occidentalis (80) | |
 | 🐛 🍯 | Camponotus Anthrax (52) | |
 | 🐛 🍯 | Camponotus Anthrax (53) | |
-| 🐛 🍯 | Camponotus Casteneus | |
+| 🐛 🍯 | Camponotus Casteneus (69) | |
+| 🐛 🍯 | Camponotus Casteneus (87) | |
 | 🐛 🍯 | Camponotus Festinatus | |
 | 🐛 🍯 | Camponotus Fragilis (7) | |
 | 🐛 🍯 | Camponotus Hyatti (9) | |
@@ -60,23 +62,66 @@ Basic template
 | 🐛 🍯 | Camponotus Vicinus | |
 | 🐛 🍯 | Camponotus Yogi | |
 | 🐛 🍯 | Crematogaster species | |
+| 🐛 🍯 | Ectomomyrmex Leeuwenhoeki | |
 | 🐛 🍯 | Lasius Alienus | |
 | 🐛  | Monomorium Minimum | | 
 | 🐛 🍯 | Myrmecocystus Depilis | | 
+| 🐛 🍯 | Myrmecocystus Kennedyi, 2 Queens | | 
 | 🐛 🍯 | Myrmecocystus Mexicanus | | 
 | 🐛 🍯 | Myrmecocystus Mexicanus | | 
 | 🐛 🍯 | Myrmecocystus Milinger | | 
-| 🐛 🍯 | Myrmecocystus Mimicus | | 
+| 🐛 🍯 | Myrmecocystus Mimicus (70) | | 
+| 🐛 🍯 | Myrmecocystus Mimicus (86) | | 
 | 🐛 🍯 | Myrmecocystus Navajo | |
+| 🐛 🍯 | Myrmecocystus Placodops, 3 Queens | |
 | 🐛 🍯 | Myrmecocystus Semirufus | |
 | 🌱 🐛 🍯 | Novomessor Cockerelli, Colony | |
+| 🐛 🍯 | Odontomachus Clarus (trap-jaw) | |
+| 🌱 🐛 🍯 | Pheidole Bicarinata | |
 | 🌱 🐛 🍯 | Pheidole Californica | |
+| 🌱 🐛 🍯 | Pogonomyrmex Barbatus | |
 | 🌱 🐛 🍯 | Pogonomyrmex Californicus (3 Queens) | |
 | 🌱 🐛 🍯 | Pogonomyrmex Montanus | |
 | 🌱 🐛 🍯 | Pogonomyrmex Rugosus | |
 | 🐛 🍯 | Pogonomyrmex Subnitidus | |
 | 🐛 🍯 | Temnothorax Rugatulus | |
 -->
+
+## August 24
+
+I found the `Myrmecocystus Yuma` Queen dead.
+
+Most of the `Pheidole Bicarinata` workers died because of excess of heat. The Queen is still alive. We will see if she can make it.
+
+I moved the following Queens/Colonies to new test tubes:
+* Pogonomyrmex Montanus
+* Camponotus Casteneus (87)
+
+I moved the colony `Camponotus Hyatti` to a `THA MH formicarium`.
+
+I saw a `male` in the colony `Pheidole Californica`.
+
+## August 23
+
+I received the following Queens and Colonies:
+
+* Myrmecocystus Placodops
+* Myrmecocystus Placodops
+* Myrmecocystus Placodops
+* Odontomachus Clarus (trap-jaw)
+* Aphaenogaster Occidentalis
+* Ectomomyrmex Leeuwenhoeki
+* Pheidole Bicarinata
+* Pogonomyrmex Barbatus
+* Myrmecocystus Kennedyi
+* Myrmecocystus Kennedyi
+* Myrmecocystus Mimicus
+* Camponotus Casteneus
+* Myrmecocystus Yuma
+
+I moved the following colonies to DIY formicariums:
+* Ectomomyrmex Leeuwenhoeki
+* Odontomachus Clarus (trap-jaw)
 
 ## August 20
 
@@ -179,7 +224,6 @@ I moved the `Camponotus Casteneus` Queen to a new test tube (reason: out of wate
 | 🌱 🪲 🍯 | Pogonomyrmex Rugosus | |
 | 🪲 🍯 | Pogonomyrmex Subnitidus | |
 | 🪲 🍯 | Temnothorax Rugatulus | |
-
 
 ## August 12
 
