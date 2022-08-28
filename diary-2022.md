@@ -89,6 +89,11 @@ Basic template
 
 ## August 27
 
+I dumped the colony `Aphaenogaster Occidentalis` (80) into a DIY formicarium.
+
+
+## August 26
+
 | Care |  Colony | Notes |
 |---|---|---|
 | 💐 | Acromyrmex Versicolor, colony | |
