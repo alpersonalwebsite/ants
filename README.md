@@ -55,7 +55,6 @@ When a Queen/Colony died…
 1. Myrmecocystus Mimicus (2022)
 1. Myrmecocystus Mimicus (2022)
 1. Myrmecocystus Navajo (2021)
-1. Myrmecocystus Semirufus(2022)
 1. Novomessor Cockerelli (2021)
 1. Odontomachus Clarus (trap-jaw) (???)
 1. Pheidole Bicarinata (2022)
@@ -114,6 +113,7 @@ Dead Queens/colonies
 1. Myrmecocystus Kennedyi (2021 - 2022)
 1. Acromyrmex Versicolor (2021 - 2022)
 1. Myrmecocystus Yuma (2022 - 2022)
+1. Myrmecocystus Semirufus(2022 - 2022)
 -->
 
 <!--
@@ -152,7 +152,6 @@ Numbers based on tags.
   32. Camponotus Laevissimus > Internal code: 20
   33. Camponotus Modoc > Internal code: 16
   34. Camponotus Modoc > Internal code: 16
-  38. Temnothorax Rugatulus > Internal code: 43
   39. Pheidole Californica > Internal code: 25
   44. Camponotus Hyatti > Internal code: 00
   46. Lasius Alienus > Internal code: 20
@@ -171,7 +170,6 @@ Numbers based on tags.
   69. Camponotus Casteneus > Internal code: 00
   70. Myrmecocystus Mimicus > Internal code: 10
   71. Myrmecocystus Milinger > Internal code: 20
-  72. Myrmecocystus Semirufus > Internal code: 50
   75. Camponotus Nearticus > Internal code: 00
   76. Myrmecocystus Placodops > Internal code: 20
   77. Myrmecocystus Placodops > Internal code: 20
@@ -201,6 +199,7 @@ Formicariums:
   55. Camponotus Vicinus > Internal code: 16
   56. Camponotus Sansabeanus > Internal code: 21
   28. Acromyrmex Versicolor > Internal code: 35
+  38. Temnothorax Rugatulus > Internal code: 43
 
 
 
@@ -265,6 +264,7 @@ Dead:
   73. Ectomomyrmex Leeuwenhoeki > Internal code: 20 - Arrived dead
   74. Myrmecocystus Placodops > Internal code: 40 - Arrived dead
   88. Myrmecocystus Yuma > Internal code: 10
+  72. Myrmecocystus Semirufus > Internal code: 50
 
   Pogonomyrmex Californicus > Internal code: 25
   Acromyrmex Versicolor > Internal code: 35
