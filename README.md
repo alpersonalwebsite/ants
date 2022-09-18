@@ -75,7 +75,6 @@ When a Queen/Colony died…
 1. Camponotus Laevigatus (2022)
 1. Camponotus Lateralis (2020) - non fertilized Queen
 1. Camponotus Nearticus (2022)
-1. Ectomomyrmex Leeuwenhoeki (2022)
 1. Myrmecocystus Kennedyi, 2 Queens
 1. Myrmecocystus Placodops (2022), 3 Queens
 1. Pogonomyrmex Barbatus (2022)
@@ -114,6 +113,7 @@ Dead Queens/colonies
 1. Acromyrmex Versicolor (2021 - 2022)
 1. Myrmecocystus Yuma (2022 - 2022)
 1. Myrmecocystus Semirufus(2022 - 2022)
+1. Ectomomyrmex Leeuwenhoeki (2022 - 2022)
 -->
 
 <!--
