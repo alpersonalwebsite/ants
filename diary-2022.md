@@ -21,7 +21,7 @@ Common EMOJIs combos
 🦐 Shrimps or river shrimps
 🐟 Fish food
 🦗 Crickets
-🦗 Mealworms or worms
+🐛 Mealworms or worms
 🌱 Seeds
 🪲 Grasshoppers
 🪱 Bloodworm
@@ -38,8 +38,8 @@ Basic template
 | 🦗 🍯 | Aphaenogaster Occidentalis (80) | |
 | 🦗 🍯 | Camponotus Anthrax (52) | |
 | 🦗 🍯 | Camponotus Anthrax (53) | |
-| 🦗 🍯 | Camponotus Casteneus (69) | |
-| 🦗 🍯 | Camponotus Casteneus (87) | |
+| 🦗 🍯 | Camponotus Castaneus (69) | |
+| 🦗 🍯 | Camponotus Castaneus (87) | |
 | 🦗 🍯 | Camponotus Festinatus | |
 | 🦗 🍯 | Camponotus Fragilis (7) | |
 | 🦗 🍯 | Camponotus Hyatti (9) | |
@@ -51,7 +51,7 @@ Basic template
 | 🦗 🍯 | Camponotus Maritimus | |
 | 🦗 🍯 | Camponotus Modoc (33) | |
 | 🦗 🍯 | Camponotus Modoc (34) | |
-| 🦗 🍯 | Camponotus Nearticus | |
+| 🦗 🍯 | Camponotus Nearcticus | |
 | 🦗 🍯 | Camponotus Ocreatus | |
 | 🦗 🍯 | Camponotus Pennsylvanicus | |
 | 🦗 🍯 | Camponotus Sansabeanus (2) | |
@@ -62,21 +62,27 @@ Basic template
 | 🦗 🍯 | Camponotus Vicinus | |
 | 🦗 🍯 | Camponotus Yogi | |
 | 🦗 🍯 | Crematogaster species | |
+| 🦗 🍯 | Crematogaster, 2 Queens | | 
 | 🦗 🍯 | Lasius Alienus | |
+| 🦗 🍯 | Leptothorax Athabasca | | 
 | 🦗  | Monomorium Minimum | | 
 | 🦗 🍯 | Myrmecocystus Depilis | | 
 | 🦗 🍯 | Myrmecocystus Kennedyi, 2 Queens | | 
+| 🦗 🍯 | Myrmecocystus Mendax | | 
 | 🦗 🍯 | Myrmecocystus Mexicanus | | 
 | 🦗 🍯 | Myrmecocystus Mexicanus | | 
+| 🦗 🍯 | Myrmecocystus Mexicanus Orange | | 
 | 🦗 🍯 | Myrmecocystus Milinger | | 
 | 🦗 🍯 | Myrmecocystus Mimicus (70) | | 
 | 🦗 🍯 | Myrmecocystus Mimicus (86) | | 
 | 🦗 🍯 | Myrmecocystus Navajo | |
 | 🦗 🍯 | Myrmecocystus Placodops, 3 Queens | |
+| 🦗 🍯 | Myrmecocystus Yuma | | 
 | 🌱 🦗 🍯 | Novomessor Cockerelli, Colony | |
 | 🦗 🍯 | Odontomachus Clarus (trap-jaw) | |
 | 🌱 🦗 🍯 | Pheidole Bicarinata | |
 | 🌱 🦗 🍯 | Pheidole Californica | |
+| 🌱 🦗 🍯 | Pheidole Gilvescens | |
 | 🌱 🦗 🍯 | Pogonomyrmex Barbatus | |
 | 🌱 🦗 🍯 | Pogonomyrmex Californicus (3 Queens) | |
 | 🌱 🦗 🍯 | Pogonomyrmex Montanus | |
@@ -84,6 +90,102 @@ Basic template
 | 🦗 🍯 | Pogonomyrmex Subnitidus | |
 | 🦗 🍯 | Temnothorax Rugatulus | |
 -->
+
+## September 24
+
+I moved the following colonies to new test tubes:
+(out of water)
+
+* Camponotus Anthrax
+* Camponotus Essigi
+* Camponotus Modoc
+* Camponotus Nearcticus
+* Pheidole Bicarinata
+
+The following Queens/colonies died:
+
+* Myrmecocystus Mexicanus Orange
+* Pogonomyrmex Barbatus 
+
+| Care |  Colony | Notes |
+|---|---|---|
+| 💐 | Acromyrmex Versicolor, colony | |
+| 💐 | Acromyrmex Versicolor, 6 Queens | |
+| 🐛 🍯 | Aphaenogaster Occidentalis (60) | |
+| 🐛 🍯 | Aphaenogaster Occidentalis (80) | |
+| 🐛 🍯 | Camponotus Anthrax (52) | |
+| 🐛 🍯 | Camponotus Anthrax (53) | |
+| 🐛 🍯 | Camponotus Castaneus (69) | |
+| 🐛 🍯 | Camponotus Castaneus (87) | |
+| 🐛 🍯 | Camponotus Festinatus | |
+| 🐛 🍯 | Camponotus Fragilis (7) | |
+| 🐛 🍯 | Camponotus Hyatti (9) | |
+| 🐛 🍯 | Camponotus Hyatti (44) | |
+| 🐛 🍯 | Camponotus Lateralis | |
+| 🐛 🍯 | Camponotus Laevigatus | |
+| 🐛 🍯 | Camponotus Laevissimus | |
+| 🐛 🍯 | Camponotus Ligniperda | |
+| 🐛 🍯 | Camponotus Maritimus | |
+| 🐛 🍯 | Camponotus Modoc (33) | |
+| 🐛 🍯 | Camponotus Modoc (34) | |
+| 🐛 🍯 | Camponotus Nearcticus | |
+| 🐛 🍯 | Camponotus Ocreatus | |
+| 🐛 🍯 | Camponotus Pennsylvanicus | |
+| 🐛 🍯 | Camponotus Sansabeanus (2) | |
+| 🐛 🍯 | Camponotus Sansabeanus (56) | |
+| 🐛 🍯 | Camponotus US-CA02 (11) | |
+| 🐛 🍯 | Camponotus US-CA02 (54) | |
+| 🐛 🍯 | Camponotus Vicinus (low) | |
+| 🐛 🍯 | Camponotus Vicinus | |
+| 🐛 🍯 | Camponotus Yogi | |
+| 🐛 🍯 | Crematogaster species | |
+| 🐛 🍯 | Crematogaster, 2 Queens | | 
+| 🐛 🍯 | Lasius Alienus | |
+| 🐛 🍯 | Leptothorax Athabasca | | 
+| 🐛 🍯 | Monomorium Minimum | | 
+| 🐛 🍯 | Myrmecocystus Depilis | | 
+| 🐛 🍯 | Myrmecocystus Kennedyi, 2 Queens | | 
+| 🐛 🍯 | Myrmecocystus Mendax | | 
+| 🐛 🍯 | Myrmecocystus Mexicanus | | 
+| 🐛 🍯 | Myrmecocystus Mexicanus | | 
+| 🐛 🍯 | Myrmecocystus Mexicanus Orange | | 
+| 🐛 🍯 | Myrmecocystus Milinger | | 
+| 🐛 🍯 | Myrmecocystus Mimicus (70) | | 
+| 🐛 🍯 | Myrmecocystus Mimicus (86) | | 
+| 🐛 🍯 | Myrmecocystus Navajo | |
+| 🐛 🍯 | Myrmecocystus Placodops, 3 Queens | |
+| 🐛 🍯 | Myrmecocystus Yuma | | 
+| 🌱 🐛 🍯 | Novomessor Cockerelli, Colony | |
+| 🐛 🍯 | Odontomachus Clarus (trap-jaw) | |
+| 🌱 🐛 🍯 | Pheidole Bicarinata | |
+| 🌱 🐛 🍯 | Pheidole Californica | |
+| 🌱 🐛 🍯 | Pheidole Gilvescens | |
+| 🌱 🐛 🍯 | Pogonomyrmex Barbatus | |
+| 🌱 🐛 🍯 | Pogonomyrmex Californicus (3 Queens) | |
+| 🌱 🐛 🍯 | Pogonomyrmex Montanus | |
+| 🌱 🐛 🍯 | Pogonomyrmex Rugosus | |
+| 🐛 🍯 | Pogonomyrmex Subnitidus | |
+| 🐛 🍯 | Temnothorax Rugatulus | |
+
+## September 22
+
+I dumped the `Pogonomyrmex Subnitidus` colony into their outworld to pick some brood.
+I added the brood to the `Pogonomyrmex Barbatus` test tube where there is only the Queen and noi workers.
+
+## September 21
+
+Today I recived the following
+
+* Myrmecocystus Mendax
+* Myrmecocystus Mexicanus Orange
+* Crematogaster (2 Queens)
+* Leptothorax Athabasca
+* Myrmecocystus Yuma
+* Pheidole Givescens
+
+* Myrmecocystus Testaceus - Arrived dead
+
+
 
 ## September 18
 
@@ -113,8 +215,8 @@ I moved the colony `Monomorium Minimum` from a DIY formicarium to a test tube.
 | 🦐 🍯 | Aphaenogaster Occidentalis (80) | |
 | 🦐 🍯 | Camponotus Anthrax (52) | |
 | 🦐 🍯 | Camponotus Anthrax (53) | |
-| 🦐 🍯 | Camponotus Casteneus (69) | |
-| 🦐 🍯 | Camponotus Casteneus (87) | |
+| 🦐 🍯 | Camponotus Castaneus (69) | |
+| 🦐 🍯 | Camponotus Castaneus (87) | |
 | 🦐 🍯 | Camponotus Festinatus | |
 | 🦐 🍯 | Camponotus Fragilis (7) | |
 | 🦐 🍯 | Camponotus Hyatti (9) | |
@@ -126,7 +228,7 @@ I moved the colony `Monomorium Minimum` from a DIY formicarium to a test tube.
 | 🦐 🍯 | Camponotus Maritimus | |
 | 🦐 🍯 | Camponotus Modoc (33) | |
 | 🦐 🍯 | Camponotus Modoc (34) | |
-| 🦐 🍯 | Camponotus Nearticus | |
+| 🦐 🍯 | Camponotus Nearcticus | |
 | 🦐 🍯 | Camponotus Ocreatus | |
 | 🦐 🍯 | Camponotus Pennsylvanicus | |
 | 🦐 🍯 | Camponotus Sansabeanus (2) | |
@@ -173,8 +275,8 @@ I found the `Ectomomyrmex Leeuwenhoeki` Queen dead.
 | 🪱 🍯 | Aphaenogaster Occidentalis (80) | |
 | 🪱 🍯 | Camponotus Anthrax (52) | |
 | 🪱 🍯 | Camponotus Anthrax (53) | |
-| 🪱 🍯 | Camponotus Casteneus (69) | |
-| 🪱 🍯 | Camponotus Casteneus (87) | |
+| 🪱 🍯 | Camponotus Castaneus (69) | |
+| 🪱 🍯 | Camponotus Castaneus (87) | |
 | 🪱 🍯 | Camponotus Festinatus | |
 | 🪱 🍯 | Camponotus Fragilis (7) | |
 | 🪱 🍯 | Camponotus Hyatti (9) | |
@@ -186,7 +288,7 @@ I found the `Ectomomyrmex Leeuwenhoeki` Queen dead.
 | 🪱 🍯 | Camponotus Maritimus | |
 | 🪱 🍯 | Camponotus Modoc (33) | |
 | 🪱 🍯 | Camponotus Modoc (34) | |
-| 🪱 🍯 | Camponotus Nearticus | |
+| 🪱 🍯 | Camponotus Nearcticus | |
 | 🪱 🍯 | Camponotus Ocreatus | |
 | 🪱 🍯 | Camponotus Pennsylvanicus | |
 | 🪱 🍯 | Camponotus Sansabeanus (2) | |
@@ -237,8 +339,8 @@ I changed the test tubes of the following colonies in DIY formicariums (they wer
 | 🦗 🍯 | Aphaenogaster Occidentalis (80) | |
 | 🦗 🍯 | Camponotus Anthrax (52) | |
 | 🦗 🍯 | Camponotus Anthrax (53) | |
-| 🦗 🍯 | Camponotus Casteneus (69) | |
-| 🦗 🍯 | Camponotus Casteneus (87) | |
+| 🦗 🍯 | Camponotus Castaneus (69) | |
+| 🦗 🍯 | Camponotus Castaneus (87) | |
 | 🦗 🍯 | Camponotus Festinatus | |
 | 🦗 🍯 | Camponotus Fragilis (7) | |
 | 🦗 🍯 | Camponotus Hyatti (9) | |
@@ -250,7 +352,7 @@ I changed the test tubes of the following colonies in DIY formicariums (they wer
 | 🦗 🍯 | Camponotus Maritimus | |
 | 🦗 🍯 | Camponotus Modoc (33) | |
 | 🦗 🍯 | Camponotus Modoc (34) | |
-| 🦗 🍯 | Camponotus Nearticus | |
+| 🦗 🍯 | Camponotus Nearcticus | |
 | 🦗 🍯 | Camponotus Ocreatus | |
 | 🦗 🍯 | Camponotus Pennsylvanicus | |
 | 🦗 🍯 | Camponotus Sansabeanus (2) | |
@@ -306,8 +408,8 @@ I dumped the colony `Aphaenogaster Occidentalis` (80) into a DIY formicarium
 | 🦗 🍯 | Aphaenogaster Occidentalis (80) | |
 | 🦗 🍯 | Camponotus Anthrax (52) | |
 | 🦗 🍯 | Camponotus Anthrax (53) | |
-| 🦗 🍯 | Camponotus Casteneus (69) | |
-| 🦗 🍯 | Camponotus Casteneus (87) | |
+| 🦗 🍯 | Camponotus Castaneus (69) | |
+| 🦗 🍯 | Camponotus Castaneus (87) | |
 | 🦗 🍯 | Camponotus Festinatus | |
 | 🦗 🍯 | Camponotus Fragilis (7) | |
 | 🦗 🍯 | Camponotus Hyatti (9) | |
@@ -319,7 +421,7 @@ I dumped the colony `Aphaenogaster Occidentalis` (80) into a DIY formicarium
 | 🦗 🍯 | Camponotus Maritimus | |
 | 🦗 🍯 | Camponotus Modoc (33) | |
 | 🦗 🍯 | Camponotus Modoc (34) | |
-| 🦗 🍯 | Camponotus Nearticus | |
+| 🦗 🍯 | Camponotus Nearcticus | |
 | 🦗 🍯 | Camponotus Ocreatus | |
 | 🦗 🍯 | Camponotus Pennsylvanicus | |
 | 🦗 🍯 | Camponotus Sansabeanus (2) | |
@@ -362,7 +464,7 @@ Most of the `Pheidole Bicarinata` workers died because of excess of heat. The Qu
 
 I moved the following Queens/Colonies to new test tubes:
 * Pogonomyrmex Montanus
-* Camponotus Casteneus (87)
+* Camponotus Castaneus (87)
 
 I moved the colony `Camponotus Hyatti` to a `THA MH formicarium`.
 
@@ -383,7 +485,7 @@ I received the following Queens and Colonies:
 * Myrmecocystus Kennedyi
 * Myrmecocystus Kennedyi
 * Myrmecocystus Mimicus
-* Camponotus Casteneus
+* Camponotus Castaneus
 * Myrmecocystus Yuma
 
 I moved the following colonies to DIY formicariums:
@@ -399,7 +501,7 @@ I moved the following colonies to DIY formicariums:
 | 🦐 🍯 | Aphaenogaster Occidentalis | |
 | 🦐 🍯 | Camponotus Anthrax (52) | |
 | 🦐 🍯 | Camponotus Anthrax (53) | |
-| 🦐 🍯 | Camponotus Casteneus | |
+| 🦐 🍯 | Camponotus Castaneus | |
 | 🦐 🍯 | Camponotus Festinatus | |
 | 🦐 🍯 | Camponotus Fragilis (7) | |
 | 🦐 🍯 | Camponotus Hyatti (9) | |
@@ -411,7 +513,7 @@ I moved the following colonies to DIY formicariums:
 | 🦐 🍯 | Camponotus Maritimus | |
 | 🦐 🍯 | Camponotus Modoc (33) | |
 | 🦐 🍯 | Camponotus Modoc (34) | |
-| 🦐 🍯 | Camponotus Nearticus | |
+| 🦐 🍯 | Camponotus Nearcticus | |
 | 🦐 🍯 | Camponotus Ocreatus | |
 | 🦐 🍯 | Camponotus Pennsylvanicus | |
 | 🦐 🍯 | Camponotus Sansabeanus (2) | |
@@ -441,7 +543,7 @@ I moved the following colonies to DIY formicariums:
 
 ## August 15
 
-I moved the `Camponotus Casteneus` Queen to a new test tube (reason: out of water).
+I moved the `Camponotus Castaneus` Queen to a new test tube (reason: out of water).
 
 ## August 13
 
@@ -452,7 +554,7 @@ I moved the `Camponotus Casteneus` Queen to a new test tube (reason: out of wate
 | 🪲 🍯 | Aphaenogaster Occidentalis | |
 | 🪲 🍯 | Camponotus Anthrax (52) | |
 | 🪲 🍯 | Camponotus Anthrax (53) | |
-| 🪲 🍯 | Camponotus Casteneus | |
+| 🪲 🍯 | Camponotus Castaneus | |
 | 🪲 🍯 | Camponotus Festinatus | |
 | 🪲 🍯 | Camponotus Fragilis (7) | |
 | 🪲 🍯 | Camponotus Hyatti (9) | |
@@ -464,7 +566,7 @@ I moved the `Camponotus Casteneus` Queen to a new test tube (reason: out of wate
 | 🪲 🍯 | Camponotus Maritimus | |
 | 🪲 🍯 | Camponotus Modoc (33) | |
 | 🪲 🍯 | Camponotus Modoc (34) | |
-| 🪲 🍯 | Camponotus Nearticus | |
+| 🪲 🍯 | Camponotus Nearcticus | |
 | 🪲 🍯 | Camponotus Ocreatus | |
 | 🪲 🍯 | Camponotus Pennsylvanicus | |
 | 🪲 🍯 | Camponotus Sansabeanus (2) | |
@@ -506,11 +608,11 @@ I received the following Queens and Colonies:
 
 * Myrmecocystus Depilis
 * Camponotus Ligniperda
-* Camponotus Casteneus
+* Camponotus Castaneus
 * Myrmecocystus Mimicus
 * Myrmecocystus Milinger
 * Myrmecocystus Semirufus
-* Camponotus Nearticus
+* Camponotus Nearcticus
 
 The following Queens arrived dead: 
 
