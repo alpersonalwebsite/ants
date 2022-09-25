@@ -31,7 +31,7 @@ When a Queen/Colony died…
 1. Acromyrmex Versicolor (????)
 1. Aphaenogaster Occidentalis (2021)
 1. Aphaenogaster Occidentalis (???)
-1. Camponotus Casteneus (2022)
+1. Camponotus Castaneus (2022)
 1. Camponotus Festinatus (2020)
 1. Camponotus Hyatti (2021)
 1. Camponotus Laevissimus (2021)
@@ -51,14 +51,17 @@ When a Queen/Colony died…
 1. Monomorium Minimum (2021)
 1. Myrmecocystus Depilis (2022)
 1. Myrmecocystus Mexicanus, 3 colonies (2021)
+1. Myrmecocystus Mexicanus Orange (2022)
 1. Myrmecocystus Milinger(2022)
 1. Myrmecocystus Mimicus (2022)
 1. Myrmecocystus Mimicus (2022)
 1. Myrmecocystus Navajo (2021)
+1. Myrmecocystus Yuma (2022)
 1. Novomessor Cockerelli (2021)
 1. Odontomachus Clarus (trap-jaw) (???)
 1. Pheidole Bicarinata (2022)
 1. Pheidole Californica (2021)
+1. Pheidole Gilvescens (2022)
 1. Pogonomyrmex Californicus Polygynous (2021)
 1. Pogonomyrmex Montanus (2021)
 1. Pogonomyrmex Rugosus (2021)
@@ -69,13 +72,16 @@ When a Queen/Colony died…
 ### Queens
 
 1. Camponotus Anthrax, 2 Queens (2022)
-1. Camponotus Casteneus (2022)
+1. Camponotus Castaneus (2022)
 1. Camponotus Fragilis (2019)
 1. Camponotus Hyatti (2022)
 1. Camponotus Laevigatus (2022)
 1. Camponotus Lateralis (2020) - non fertilized Queen
-1. Camponotus Nearticus (2022)
+1. Camponotus Nearcticus (2022)
+1. Crematogaster (2022), 2 Queens
+1. Leptothorax Athabasca (2022)
 1. Myrmecocystus Kennedyi, 2 Queens
+1. Myrmecocystus Mendax (2022)
 1. Myrmecocystus Placodops (2022), 3 Queens
 1. Pogonomyrmex Barbatus (2022)
 1. Pogonomyrmex Rugosus (2021)
@@ -167,10 +173,10 @@ Numbers based on tags.
   66. Pogonomyrmex Montanus > Internal code: 25
   67. Myrmecocystus Depilis > Internal code: 20
   68. Camponotus Ligniperda > Internal code: 00
-  69. Camponotus Casteneus > Internal code: 00
+  69. Camponotus Castaneus > Internal code: 00
   70. Myrmecocystus Mimicus > Internal code: 10
   71. Myrmecocystus Milinger > Internal code: 20
-  75. Camponotus Nearticus > Internal code: 00
+  75. Camponotus Nearcticus > Internal code: 00
   76. Myrmecocystus Placodops > Internal code: 20
   77. Myrmecocystus Placodops > Internal code: 20
   78. Myrmecocystus Placodops > Internal code: 20
@@ -182,7 +188,14 @@ Numbers based on tags.
   84. Myrmecocystus Kennedyi > Internal code: 10
   85. Myrmecocystus Kennedyi > Internal code: 00
   86. Myrmecocystus Mimicus > Internal code: 10
-  87. Camponotus Casteneus > Internal code: 00
+  87. Camponotus Castaneus > Internal code: 00
+  88. Myrmecocystus Mendax > Internal code: 30
+  89. Myrmecocystus Mexicanus Orange > Internal code: 60
+  90. Crematogaster > Internal code: 00
+  91. Leptothorax Athabasca > Internal code: 15
+  92. Myrmecocystus Yuma > Internal code: 40
+  93. Pheidole Givescens > Internal code: 40
+  94. Monomorium Minimum > Internal code: 10
 
 
 Formicariums:
@@ -195,7 +208,6 @@ Formicariums:
   Novomessor Cockerelli > Internal code: 37
   Pogonomyrmex Subnitidus Polygynous (with 4 Queens???) > Internal code: 80
   Camponotus Ocreatus >  Internal code: 45
-  Monomorium Minimum > Internal code: 10
   55. Camponotus Vicinus > Internal code: 16
   56. Camponotus Sansabeanus > Internal code: 21
   28. Acromyrmex Versicolor > Internal code: 35
@@ -265,6 +277,7 @@ Dead:
   74. Myrmecocystus Placodops > Internal code: 40 - Arrived dead
   88. Myrmecocystus Yuma > Internal code: 10
   72. Myrmecocystus Semirufus > Internal code: 50
+  Myrmecocystus Testaceus > Internal code: 00 - Arrived dead
 
   Pogonomyrmex Californicus > Internal code: 25
   Acromyrmex Versicolor > Internal code: 35
