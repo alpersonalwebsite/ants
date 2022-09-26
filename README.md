@@ -51,7 +51,6 @@ When a Queen/Colony died…
 1. Monomorium Minimum (2021)
 1. Myrmecocystus Depilis (2022)
 1. Myrmecocystus Mexicanus, 3 colonies (2021)
-1. Myrmecocystus Mexicanus Orange (2022)
 1. Myrmecocystus Milinger(2022)
 1. Myrmecocystus Mimicus (2022)
 1. Myrmecocystus Mimicus (2022)
@@ -83,7 +82,6 @@ When a Queen/Colony died…
 1. Myrmecocystus Kennedyi, 2 Queens
 1. Myrmecocystus Mendax (2022)
 1. Myrmecocystus Placodops (2022), 3 Queens
-1. Pogonomyrmex Barbatus (2022)
 1. Pogonomyrmex Rugosus (2021)
 1. Acromyrmex Versicolor, 6 Queens (2022)
 
@@ -120,6 +118,8 @@ Dead Queens/colonies
 1. Myrmecocystus Yuma (2022 - 2022)
 1. Myrmecocystus Semirufus(2022 - 2022)
 1. Ectomomyrmex Leeuwenhoeki (2022 - 2022)
+1. Pogonomyrmex Barbatus (2022 - 2022)
+1. Myrmecocystus Mexicanus Orange (2022 - 2022)
 -->
 
 <!--
