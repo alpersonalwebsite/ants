@@ -72,7 +72,7 @@ Basic template
 | 🦗 🍯 | Myrmecocystus Mexicanus | | 
 | 🦗 🍯 | Myrmecocystus Mexicanus | | 
 | 🦗 🍯 | Myrmecocystus Mexicanus Orange | | 
-| 🦗 🍯 | Myrmecocystus Milinger | | 
+| 🦗 🍯 | Myrmecocystus Melliger | | 
 | 🦗 🍯 | Myrmecocystus Mimicus (70) | | 
 | 🦗 🍯 | Myrmecocystus Mimicus (86) | | 
 | 🦗 🍯 | Myrmecocystus Navajo | |
@@ -149,7 +149,7 @@ The following Queens/colonies died:
 | 🐛 🍯 | Myrmecocystus Mexicanus | | 
 | 🐛 🍯 | Myrmecocystus Mexicanus | | 
 | 🐛 🍯 | Myrmecocystus Mexicanus Orange | | 
-| 🐛 🍯 | Myrmecocystus Milinger | | 
+| 🐛 🍯 | Myrmecocystus Melliger | | 
 | 🐛 🍯 | Myrmecocystus Mimicus (70) | | 
 | 🐛 🍯 | Myrmecocystus Mimicus (86) | | 
 | 🐛 🍯 | Myrmecocystus Navajo | |
@@ -245,7 +245,7 @@ I moved the colony `Monomorium Minimum` from a DIY formicarium to a test tube.
 | 🦐 🍯 | Myrmecocystus Kennedyi, 2 Queens | | 
 | 🦐 🍯 | Myrmecocystus Mexicanus | | 
 | 🦐 🍯 | Myrmecocystus Mexicanus | | 
-| 🦐 🍯 | Myrmecocystus Milinger | | 
+| 🦐 🍯 | Myrmecocystus Melliger | | 
 | 🦐 🍯 | Myrmecocystus Mimicus (70) | | 
 | 🦐 🍯 | Myrmecocystus Mimicus (86) | | 
 | 🦐 🍯 | Myrmecocystus Navajo | |
@@ -305,7 +305,7 @@ I found the `Ectomomyrmex Leeuwenhoeki` Queen dead.
 | 🪱 🍯 | Myrmecocystus Kennedyi, 2 Queens | | 
 | 🪱 🍯 | Myrmecocystus Mexicanus | | 
 | 🪱 🍯 | Myrmecocystus Mexicanus | | 
-| 🪱 🍯 | Myrmecocystus Milinger | | 
+| 🪱 🍯 | Myrmecocystus Melliger | | 
 | 🪱 🍯 | Myrmecocystus Mimicus (70) | | 
 | 🪱 🍯 | Myrmecocystus Mimicus (86) | | 
 | 🪱 🍯 | Myrmecocystus Navajo | |
@@ -370,7 +370,7 @@ I changed the test tubes of the following colonies in DIY formicariums (they wer
 | 🦗 🍯 | Myrmecocystus Kennedyi, 2 Queens | | 
 | 🦗 🍯 | Myrmecocystus Mexicanus | | 
 | 🦗 🍯 | Myrmecocystus Mexicanus | | 
-| 🦗 🍯 | Myrmecocystus Milinger | | 
+| 🦗 🍯 | Myrmecocystus Melliger | | 
 | 🦗 🍯 | Myrmecocystus Mimicus (70) | | 
 | 🦗 🍯 | Myrmecocystus Mimicus (86) | | 
 | 🦗 🍯 | Myrmecocystus Navajo | |
@@ -439,7 +439,7 @@ I dumped the colony `Aphaenogaster Occidentalis` (80) into a DIY formicarium
 | 🦗 🍯 | Myrmecocystus Kennedyi, 2 Queens | | 
 | 🦗 🍯 | Myrmecocystus Mexicanus | | 
 | 🦗 🍯 | Myrmecocystus Mexicanus | | 
-| 🦗 🍯 | Myrmecocystus Milinger | | 
+| 🦗 🍯 | Myrmecocystus Melliger | | 
 | 🦗 🍯 | Myrmecocystus Mimicus (70) | | 
 | 🦗 🍯 | Myrmecocystus Mimicus (86) | | 
 | 🦗 🍯 | Myrmecocystus Navajo | |
@@ -529,7 +529,7 @@ I moved the following colonies to DIY formicariums:
 | 🦐 🍯 | Myrmecocystus Depilis | | 
 | 🦐 🍯 | Myrmecocystus Mexicanus | | 
 | 🦐 🍯 | Myrmecocystus Mexicanus | | 
-| 🦐 🍯 | Myrmecocystus Milinger | | 
+| 🦐 🍯 | Myrmecocystus Melliger | | 
 | 🦐 🍯 | Myrmecocystus Mimicus | | 
 | 🦐 🍯 | Myrmecocystus Navajo | |
 | 🦐 🍯 | Myrmecocystus Semirufus | |
@@ -582,7 +582,7 @@ I moved the `Camponotus Castaneus` Queen to a new test tube (reason: out of wate
 | 🪲 🍯 | Myrmecocystus Depilis | | 
 | 🪲 🍯 | Myrmecocystus Mexicanus | | 
 | 🪲 🍯 | Myrmecocystus Mexicanus | | 
-| 🪲 🍯 | Myrmecocystus Milinger | | 
+| 🪲 🍯 | Myrmecocystus Melliger | | 
 | 🪲 🍯 | Myrmecocystus Mimicus | | 
 | 🪲 🍯 | Myrmecocystus Navajo | |
 | 🪲 🍯 | Myrmecocystus Semirufus | |
@@ -610,7 +610,7 @@ I received the following Queens and Colonies:
 * Camponotus Ligniperda
 * Camponotus Castaneus
 * Myrmecocystus Mimicus
-* Myrmecocystus Milinger
+* Myrmecocystus Melliger
 * Myrmecocystus Semirufus
 * Camponotus Nearcticus
 
