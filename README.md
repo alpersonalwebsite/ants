@@ -51,7 +51,7 @@ When a Queen/Colony died…
 1. Monomorium Minimum (2021)
 1. Myrmecocystus Depilis (2022)
 1. Myrmecocystus Mexicanus, 3 colonies (2021)
-1. Myrmecocystus Milinger(2022)
+1. Myrmecocystus Melliger (2022)
 1. Myrmecocystus Mimicus (2022)
 1. Myrmecocystus Mimicus (2022)
 1. Myrmecocystus Navajo (2021)
@@ -60,11 +60,13 @@ When a Queen/Colony died…
 1. Odontomachus Clarus (trap-jaw) (???)
 1. Pheidole Bicarinata (2022)
 1. Pheidole Californica (2021)
+1. Pheidole Hyatti (2022)
 1. Pheidole Gilvescens (2022)
 1. Pogonomyrmex Californicus Polygynous (2021)
 1. Pogonomyrmex Montanus (2021)
 1. Pogonomyrmex Rugosus (2021)
 1. Pogonomyrmex Subnitidus Polygynous (???)
+1. Pogonomyrmex Tenuispinus (2022)
 1. Temnothorax Rugatulus (2021)
 
 
@@ -175,7 +177,7 @@ Numbers based on tags.
   68. Camponotus Ligniperda > Internal code: 00
   69. Camponotus Castaneus > Internal code: 00
   70. Myrmecocystus Mimicus > Internal code: 10
-  71. Myrmecocystus Milinger > Internal code: 20
+  71. Myrmecocystus Melliger > Internal code: 20
   75. Camponotus Nearcticus > Internal code: 00
   76. Myrmecocystus Placodops > Internal code: 20
   77. Myrmecocystus Placodops > Internal code: 20
@@ -196,7 +198,16 @@ Numbers based on tags.
   92. Myrmecocystus Yuma > Internal code: 40
   93. Pheidole Givescens > Internal code: 40
   94. Monomorium Minimum > Internal code: 10
+  95. Pogonomyrmex Tenuispinus > Internal code: 50
+  96. Pheidole Hyatti > Internal code: 00
 
+  A1. Myrmecocystus Mimicus Dark  > Internal code: 42
+  A2. Myrmecocystus Romainei > Internal code: 62
+  A3. Camponotus Vicinus  > Internal code: 00
+  A4. Camponotus Fragilis > Internal code: 00
+  A5. Myrmecocystus Yuma > Internal code: 52
+  A6. Myrmecocystus Placodops 02 > Internal code: 52
+  A7. Camponotus Ocreatus > Internal code: 00
 
 Formicariums:
   Acromyrmex Versicolor with Fungus > Internal code: 80
