@@ -83,13 +83,22 @@ Basic template
 | 🌱 🦗 🍯 | Pheidole Bicarinata | |
 | 🌱 🦗 🍯 | Pheidole Californica | |
 | 🌱 🦗 🍯 | Pheidole Gilvescens | |
+| 🌱 🦗 🍯 | Pheidole Hyatti | |
 | 🌱 🦗 🍯 | Pogonomyrmex Barbatus | |
 | 🌱 🦗 🍯 | Pogonomyrmex Californicus (3 Queens) | |
 | 🌱 🦗 🍯 | Pogonomyrmex Montanus | |
 | 🌱 🦗 🍯 | Pogonomyrmex Rugosus | |
-| 🦗 🍯 | Pogonomyrmex Subnitidus | |
+| 🌱 🦗 🍯 | Pogonomyrmex Subnitidus | |
+| 🌱 🦗 🍯 | Pogonomyrmex Tenuispinus | |
 | 🦗 🍯 | Temnothorax Rugatulus | |
 -->
+
+## September 28
+
+Today, the following colonies arrived:
+
+* Pheidole Hyatti
+* Pogonomyrmex Tenuispinus
 
 ## September 24
 
@@ -164,7 +173,7 @@ The following Queens/colonies died:
 | 🌱 🐛 🍯 | Pogonomyrmex Californicus (3 Queens) | |
 | 🌱 🐛 🍯 | Pogonomyrmex Montanus | |
 | 🌱 🐛 🍯 | Pogonomyrmex Rugosus | |
-| 🐛 🍯 | Pogonomyrmex Subnitidus | |
+| 🌱 🐛 🍯 | Pogonomyrmex Subnitidus | |
 | 🐛 🍯 | Temnothorax Rugatulus | |
 
 ## September 22
