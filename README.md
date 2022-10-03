@@ -208,13 +208,12 @@ Numbers based on tags.
   95. Pogonomyrmex Tenuispinus > Internal code: 50
   96. Pheidole Hyatti > Internal code: 00
 
-  A1. Myrmecocystus Mimicus Dark  > Internal code: 42
-  A2. Myrmecocystus Romainei > Internal code: 62
-  A3. Camponotus Vicinus  > Internal code: 00
-  A4. Camponotus Fragilis > Internal code: 00
-  A5. Myrmecocystus Yuma > Internal code: 52
+  A5. Myrmecocystus Mimicus Dark  > Internal code: 42
+  A4. Myrmecocystus Romainei > Internal code: 62
+  A2. Camponotus Vicinus  > Internal code: 00
+  A1. Camponotus Fragilis > Internal code: 00
+  A3. Myrmecocystus Yuma > Internal code: 52
   A6. Myrmecocystus Placodops 02 > Internal code: 52
-  A7. Camponotus Ocreatus > Internal code: 00
 
 Formicariums:
   Acromyrmex Versicolor with Fungus > Internal code: 80
@@ -230,6 +229,7 @@ Formicariums:
   56. Camponotus Sansabeanus > Internal code: 21
   28. Acromyrmex Versicolor > Internal code: 35
   38. Temnothorax Rugatulus > Internal code: 43
+  A7. Camponotus Ocreatus > Internal code: 00
 
 
 
