@@ -20,6 +20,11 @@
 
 ## Keep without heater (but no fridge)
 
+### From October to March
+1. Pheidole Bicarinata
+1. Pheidole Californica	
+1. Pheidole Gilvescens
+
 ### From November to January
 
 1. Camponotus Fragilis
@@ -33,6 +38,7 @@
 (Harvester ants)
 
 1. Novomessor Cockerelli
+1. Pogonomyrmex Barbatus	
 1. Pogonomyrmex Californicus (3 Queens)
 1. Pogonomyrmex Montanus 
 1. Pogonomyrmex Rugosus 
@@ -51,3 +57,23 @@
 1. Myrmecocystus Mimicus
 1. Myrmecocystus Navajo
 1. Myrmecocystus Romainei (Queen)
+
+<!--
+Missing:
+
+Aphaenogaster Occidentalis
+Camponotus Anthrax
+Camponotus Castaneus 
+Camponotus Festinatus
+Camponotus Ligniperda
+Camponotus Nearcticus
+Camponotus Ocreatus
+Camponotus Sansabeanus
+Camponotus Yogi
+Crematogaster species
+Lasius Alienus
+Leptothorax Athabasca
+Monomorium Minimum
+Odontomachus Clarus (trap-jaw)	
+Temnothorax Rugatulus	
+-->
