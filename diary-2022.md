@@ -27,6 +27,7 @@ Common EMOJIs combos
 🪱 Bloodworm
 💐 Acromyrmex mix
 
+-----------------------------------------------------------
 
 Basic template
 
@@ -98,6 +99,95 @@ Basic template
 | 🌱 🦗 🍯 | Pogonomyrmex Tenuispinus | |
 | 🦗 🍯 | Temnothorax Rugatulus | |
 -->
+
+## October 8
+
+I found the `Myrmecocystus Yuma` (92) Queen dead.
+
+I gave shrimps and also `fruit flies` to the following colonies:
+
+* Aphaenogaster Occidentalis (60)
+* Camponotus Anthrax (52)
+* Camponotus Festinatus
+* Camponotus Ocreatus
+* Camponotus Sansabeanus (56)
+* Camponotus Sansabeanus (2)
+* Camponotus USA-CA02 (54)
+* Camponotus Vicinus (55)
+* Odontomachus Clarus (trap-jaw)
+
+I added soil to the `Odontomachus Clarus (trap-jaw)` test tube.
+(I sterilized it using the oven at 350F for 30 minutes)
+
+
+| Care |  Colony | Notes |
+|---|---|---|
+| 💐 | Acromyrmex Versicolor, colony | |
+| 💐 | Acromyrmex Versicolor, 6 Queens | |
+| 🦐 🍯 | Aphaenogaster Occidentalis (60) | |
+| 🦐 🍯 | Aphaenogaster Occidentalis (80) | |
+| 🦐 🍯 | Camponotus Anthrax (52) | |
+| 🦐 🍯 | Camponotus Anthrax (53) | |
+| 🦐 🍯 | Camponotus Castaneus (69) | |
+| 🦐 🍯 | Camponotus Castaneus (87) | |
+| 🦐 🍯 | Camponotus Festinatus | |
+| 🦐 🍯 | Camponotus Fragilis (7) | |
+| 🦐 🍯 | Camponotus Fragilis (A4) | |
+| 🦐 🍯 | Camponotus Hyatti (9) | |
+| 🦐 🍯 | Camponotus Hyatti (44) | |
+| 🦐 🍯 | Camponotus Lateralis | |
+| 🦐 🍯 | Camponotus Laevigatus | |
+| 🦐 🍯 | Camponotus Laevissimus | |
+| 🦐 🍯 | Camponotus Ligniperda | |
+| 🦐 🍯 | Camponotus Maritimus | |
+| 🦐 🍯 | Camponotus Modoc (33) | |
+| 🦐 🍯 | Camponotus Modoc (34) | |
+| 🦐 🍯 | Camponotus Nearcticus | |
+| 🦐 🍯 | Camponotus Ocreatus | |
+| 🦐 🍯 | Camponotus Ocreatus (A7) | |
+| 🦐 🍯 | Camponotus Pennsylvanicus | |
+| 🦐 🍯 | Camponotus Sansabeanus (2) | |
+| 🦐 🍯 | Camponotus Sansabeanus (56) | |
+| 🦐 🍯 | Camponotus US-CA02 (11) | |
+| 🦐 🍯 | Camponotus US-CA02 (54) | |
+| 🦐 🍯 | Camponotus Vicinus (low) | |
+| 🦐 🍯 | Camponotus Vicinus (A3) | |
+| 🦐 🍯 | Camponotus Yogi | |
+| 🦐 🍯 | Crematogaster species | |
+| 🦐 🍯 | Crematogaster, 2 Queens | | 
+| 🦐 🍯 | Lasius Alienus | |
+| 🦐 🍯 | Leptothorax Athabasca | | 
+| 🦐  | Monomorium Minimum | | 
+| 🦐 🍯 | Myrmecocystus Depilis | | 
+| 🦐 🍯 | Myrmecocystus Kennedyi, 2 Queens | | 
+| 🦐 🍯 | Myrmecocystus Mendax | | 
+| 🦐 🍯 | Myrmecocystus Mexicanus | | 
+| 🦐 🍯 | Myrmecocystus Mexicanus | | 
+| 🦐 🍯 | Myrmecocystus Mexicanus Orange | | 
+| 🦐 🍯 | Myrmecocystus Melliger | | 
+| 🦐 🍯 | Myrmecocystus Mimicus (70) | | 
+| 🦐 🍯 | Myrmecocystus Mimicus (86) | | 
+| 🦐 🍯 | Myrmecocystus Mimicus Dark (A1) | | 
+| 🦐 🍯 | Myrmecocystus Navajo | |
+| 🦐 🍯 | Myrmecocystus Placodops, 3 Queens | |
+| 🦐 🍯 | Myrmecocystus Placodops 02 (A6) | |
+| 🦐 🍯 | Myrmecocystus Romainei (A2) | |
+| 🦐 🍯 | Myrmecocystus Yuma | | 
+| 🦐 🍯 | Myrmecocystus Yuma (A5) | | 
+| 🌱 🦐 🍯 | Novomessor Cockerelli, Colony | |
+| 🦐 🍯 | Odontomachus Clarus (trap-jaw) | |
+| 🌱 🦐 🍯 | Pheidole Bicarinata | |
+| 🌱 🦐 🍯 | Pheidole Californica | |
+| 🌱 🦐 🍯 | Pheidole Gilvescens | |
+| 🌱 🦐 🍯 | Pheidole Hyatti | |
+| 🌱 🦐 🍯 | Pogonomyrmex Barbatus | |
+| 🌱 🦐 🍯 | Pogonomyrmex Californicus (3 Queens) | |
+| 🌱 🦐 🍯 | Pogonomyrmex Montanus | |
+| 🌱 🦐 🍯 | Pogonomyrmex Rugosus | |
+| 🌱 🦐 🍯 | Pogonomyrmex Subnitidus | |
+| 🌱 🦐 🍯 | Pogonomyrmex Tenuispinus | |
+| 🦐 🍯 | Temnothorax Rugatulus | |
+
 
 ## October 1
 
