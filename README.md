@@ -62,7 +62,6 @@ When a Queen/Colony died…
 1. Myrmecocystus Placodops 02 (2022)
 1. Myrmecocystus Romainei (2022)
 1. Myrmecocystus Yuma (2022)
-1. Myrmecocystus Yuma (2022)
 1. Novomessor Cockerelli (2021)
 1. Odontomachus Clarus (trap-jaw) (???)
 1. Pheidole Bicarinata (2022)
@@ -202,7 +201,6 @@ Numbers based on tags.
   89. Myrmecocystus Mexicanus Orange > Internal code: 60
   90. Crematogaster > Internal code: 00
   91. Leptothorax Athabasca > Internal code: 15
-  92. Myrmecocystus Yuma > Internal code: 40
   93. Pheidole Givescens > Internal code: 40
   94. Monomorium Minimum > Internal code: 10
   95. Pogonomyrmex Tenuispinus > Internal code: 50
@@ -230,6 +228,7 @@ Formicariums:
   28. Acromyrmex Versicolor > Internal code: 35
   38. Temnothorax Rugatulus > Internal code: 43
   A7. Camponotus Ocreatus > Internal code: 00
+  92. Myrmecocystus Yuma > Internal code: 40
 
 
 
