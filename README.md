@@ -28,14 +28,15 @@ When a Queen/Colony died…
 
 ### Colonies
 
-1. Acromyrmex Versicolor (????)
-1. Aphaenogaster Occidentalis (2021)
-1. Aphaenogaster Occidentalis (???)
-1. Camponotus Castaneus (2022)
+1. Acromyrmex Versicolor (2021)
+1. Aphaenogaster Occidentalis, 2 colonies (2021)
+1. Aphaenogaster Lamellidens (2021)
+1. Camponotus Castaneus, 3 colonies (2022)
+1. Camponotus Discolor (2021)
 1. Camponotus Festinatus (2020)
 1. Camponotus Fragilis (2022)
 1. Camponotus Hyatti (2021)
-1. Camponotus Laevissimus (2021)
+1. Camponotus Laevissimus, 2 colonies (2021)
 1. Camponotus Lateralis (2021)
 1. Camponotus Ligniperda (2022)
 1. Camponotus Maritimus (2021)
@@ -44,24 +45,28 @@ When a Queen/Colony died…
 1. Camponotus Ocreatus (2022)
 1. Camponotus Pennsylvanicus (2020)
 1. Camponotus Sansabeanus (2021)
+1. Camponotus Sansabeanus (2022)
 1. Camponotus USA-CA02 (2021)
+1. Camponotus USA-CA02 (2022)
 1. Camponotus Vicinus (low - 2021)
 1. Camponotus Vicinus (2022)
 1. Camponotus Yogi (2022)
 1. Crematogaster species (2020)
+1. Crematogaster Scutellaris (2022)
+1. Dorymyrmex Bureni (2022)
+1. ET (2022)
 1. Lasius Alienus (2021)
 1. Lasius possibly brevicornis (2021)
 1. Monomorium Minimum (2021)
 1. Myrmecocystus Depilis (2022)
 1. Myrmecocystus Mexicanus, 3 colonies (2021)
 1. Myrmecocystus Melliger (2022)
-1. Myrmecocystus Mimicus (2022)
-1. Myrmecocystus Mimicus (2022)
+1. Myrmecocystus Mimicus, 2 colonies (2022)
 1. Myrmecocystus Mimicus Dark (2022)
 1. Myrmecocystus Navajo (2021)
 1. Myrmecocystus Placodops 02 (2022)
 1. Myrmecocystus Romainei (2022)
-1. Myrmecocystus Yuma (2022)
+1. Myrmecocystus Yuma, 3 colonies (2022)
 1. Novomessor Cockerelli (2021)
 1. Odontomachus Clarus (trap-jaw) (???)
 1. Pheidole Bicarinata (2022)
@@ -72,7 +77,8 @@ When a Queen/Colony died…
 1. Pogonomyrmex Montanus (2021)
 1. Pogonomyrmex Rugosus (2021)
 1. Pogonomyrmex Subnitidus Polygynous (???)
-1. Pogonomyrmex Tenuispinus (2022)
+1. Pogonomyrmex Tenuispinus, 2 colonies (2022)
+1. Ponera Pennsylvanica (2022)
 1. Temnothorax Rugatulus (2021)
 
 
@@ -83,7 +89,7 @@ When a Queen/Colony died…
 1. Camponotus Fragilis (2019)
 1. Camponotus Hyatti (2022)
 1. Camponotus Laevigatus (2022)
-1. Camponotus Lateralis (2020) - non fertilized Queen
+1. Camponotus Lateralis (2020)
 1. Camponotus Nearcticus (2022)
 1. Crematogaster (2022), 2 Queens
 1. Leptothorax Athabasca (2022)
@@ -91,6 +97,7 @@ When a Queen/Colony died…
 1. Myrmecocystus Mendax (2022)
 1. Myrmecocystus Placodops (2022), 3 Queens
 1. Pogonomyrmex Rugosus (2021)
+1. Pogonomyrmex Barbatus (2022)
 1. Acromyrmex Versicolor, 6 Queens (2022)
 
 
@@ -212,6 +219,18 @@ Numbers based on tags.
   A1. Camponotus Fragilis > Internal code: 00
   A3. Myrmecocystus Yuma > Internal code: 52
   A6. Myrmecocystus Placodops 02 > Internal code: 52
+
+  A7. Aphaenogaster Lamellidens > Internal code: 25
+  A8. Camponotus Discolor > Internal code: 20
+  A9. Camponotus Laevissimus > Internal code: 20
+  B1. Crematogaster Scutellaris > Internal code: 20
+  B2. Dorymyrmex Bureni > Internal code: 10
+  B3. ET > Internal code: 105
+  B4. Myrmecocystus Yuma > Internal code: 25
+  B5. Pogonomyrmex Barbatus > Internal code: 20
+  B6. Pogonomyrmex Tenuispinus > Internal code: 20
+  B7. Ponera Pennsylvanica > Internal code: 10
+  B8. Casteneus ????
 
 Formicariums:
   Acromyrmex Versicolor with Fungus > Internal code: 80
