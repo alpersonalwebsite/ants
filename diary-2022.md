@@ -35,12 +35,15 @@ Basic template
 |---|---|---|
 | 💐 | Acromyrmex Versicolor, colony | |
 | 💐 | Acromyrmex Versicolor, 6 Queens | |
+| 🦗 🍯 | Aphaenogaster Lamellidens | |
 | 🦗 🍯 | Aphaenogaster Occidentalis (60) | |
 | 🦗 🍯 | Aphaenogaster Occidentalis (80) | |
 | 🦗 🍯 | Camponotus Anthrax (52) | |
 | 🦗 🍯 | Camponotus Anthrax (53) | |
 | 🦗 🍯 | Camponotus Castaneus (69) | |
 | 🦗 🍯 | Camponotus Castaneus (87) | |
+| 🦗 🍯 | Camponotus Castaneus (B8) | |
+| 🦗 🍯 | Camponotus Discolor | |
 | 🦗 🍯 | Camponotus Festinatus | |
 | 🦗 🍯 | Camponotus Fragilis (7) | |
 | 🦗 🍯 | Camponotus Fragilis (A4) | |
@@ -48,7 +51,8 @@ Basic template
 | 🦗 🍯 | Camponotus Hyatti (44) | |
 | 🦗 🍯 | Camponotus Lateralis | |
 | 🦗 🍯 | Camponotus Laevigatus | |
-| 🦗 🍯 | Camponotus Laevissimus | |
+| 🦗 🍯 | Camponotus Laevissimus (32) | |
+| 🦗 🍯 | Camponotus Laevissimus (A9) | |
 | 🦗 🍯 | Camponotus Ligniperda | |
 | 🦗 🍯 | Camponotus Maritimus | |
 | 🦗 🍯 | Camponotus Modoc (33) | |
@@ -66,6 +70,9 @@ Basic template
 | 🦗 🍯 | Camponotus Yogi | |
 | 🦗 🍯 | Crematogaster species | |
 | 🦗 🍯 | Crematogaster, 2 Queens | | 
+| 🦗 🍯 | Crematogaster Scutellaris | | 
+| 🦗 🍯 | Dorymyrmex Bureni | | 
+| 🦗 🍯 | ET | | 
 | 🦗 🍯 | Lasius Alienus | |
 | 🦗 🍯 | Leptothorax Athabasca | | 
 | 🦗  | Monomorium Minimum | | 
@@ -74,7 +81,6 @@ Basic template
 | 🦗 🍯 | Myrmecocystus Mendax | | 
 | 🦗 🍯 | Myrmecocystus Mexicanus | | 
 | 🦗 🍯 | Myrmecocystus Mexicanus | | 
-| 🦗 🍯 | Myrmecocystus Mexicanus Orange | | 
 | 🦗 🍯 | Myrmecocystus Melliger | | 
 | 🦗 🍯 | Myrmecocystus Mimicus (70) | | 
 | 🦗 🍯 | Myrmecocystus Mimicus (86) | | 
@@ -83,8 +89,9 @@ Basic template
 | 🦗 🍯 | Myrmecocystus Placodops, 3 Queens | |
 | 🦗 🍯 | Myrmecocystus Placodops 02 (A6) | |
 | 🦗 🍯 | Myrmecocystus Romainei (A2) | |
-| 🦗 🍯 | Myrmecocystus Yuma | | 
+| 🦗 🍯 | Myrmecocystus Yuma (92) | | 
 | 🦗 🍯 | Myrmecocystus Yuma (A5) | | 
+| 🦗 🍯 | Myrmecocystus Yuma (B4) | | 
 | 🌱 🦗 🍯 | Novomessor Cockerelli, Colony | |
 | 🦗 🍯 | Odontomachus Clarus (trap-jaw) | |
 | 🌱 🦗 🍯 | Pheidole Bicarinata | |
@@ -96,9 +103,46 @@ Basic template
 | 🌱 🦗 🍯 | Pogonomyrmex Montanus | |
 | 🌱 🦗 🍯 | Pogonomyrmex Rugosus | |
 | 🌱 🦗 🍯 | Pogonomyrmex Subnitidus | |
-| 🌱 🦗 🍯 | Pogonomyrmex Tenuispinus | |
+| 🌱 🦗 🍯 | Pogonomyrmex Tenuispinus (95) | |
+| 🌱 🦗 🍯 | Pogonomyrmex Tenuispinus (B6) | |
+| 🦗 🍯 | Ponera Pennsylvanica | |
 | 🦗 🍯 | Temnothorax Rugatulus | |
 -->
+
+## October 13
+
+I moved the following colonies to new test tubes (out of water):
+
+* Camponotus Laevigatus
+* Camponotus Vicinus (low)
+* Crematogaster Scutellaris
+* Lasius Alienus
+* Myrmecocystus Yuma
+
+I moved the following colonies to formicariums:
+
+* Camponotus Discolor
+* Camponotus Laevissimus (A9)
+* Dorymyrmex Bureni
+* ET
+* Pogonomyrmex Tenuispinus (B6)
+
+
+
+## October 12
+
+Today the following Queens/colonies arrived:
+
+* Aphaenogaster Lamellidens
+* Camponotus Discolor
+* Camponotus Laevissimus
+* Crematogaster Scutellaris
+* Dorymyrmex Bureni
+* ET
+* Myrmecocystus Yuma
+* Pogonomyrmex Barbatus
+* Pogonomyrmex Tenuispinus
+* Ponera Pennsylvanica
 
 ## October 8
 
