@@ -62,18 +62,35 @@
 Missing:
 
 Aphaenogaster Occidentalis
+Aphaenogaster Lamellidens 
+
 Camponotus Anthrax
-Camponotus Castaneus 
+Camponotus Castaneus
+Camponotus Discolor 
+
 Camponotus Festinatus
 Camponotus Ligniperda
 Camponotus Nearcticus
 Camponotus Ocreatus
 Camponotus Sansabeanus
 Camponotus Yogi
+
 Crematogaster species
+Crematogaster Scutellaris 
+
+Dorymyrmex Bureni
+
+ET
+
 Lasius Alienus
+
 Leptothorax Athabasca
+
 Monomorium Minimum
+
 Odontomachus Clarus (trap-jaw)	
+
+Ponera Pennsylvanica 
+
 Temnothorax Rugatulus	
 -->
