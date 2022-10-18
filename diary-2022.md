@@ -109,7 +109,32 @@ Basic template
 | 🦗 🍯 | Temnothorax Rugatulus | |
 -->
 
+## October 17
+
+I moved the `Ponera Pennsylvanica` colony to a DIY custom formicarium.
+
 ## October 16
+
+### Diapause 2022
+
+This year I opted for an easier approach.
+
+1. All **Myrmecocystus** are going to remain on the heating pads.
+
+2. The following colonies are going to do the diapasue from October until February/March (aka, fridge):
+
+    1. Camponotus Pennsylvanicus
+    1. Camponotus Maritimus
+    1. Camponotus Lateralis 
+    1. Camponotus Vicinus (high)
+    1. Camponotus Hyatti
+    1. Camponotus Laevissimus
+    1. Camponotus Modoc
+    1. Camponotus Modoc
+
+3. The rest are going to be off the heating pads.
+
+---
 
 I gave crickets and also `fruit flies` to the following colonies:
 
