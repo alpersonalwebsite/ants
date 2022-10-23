@@ -109,9 +109,21 @@ Basic template
 | 🦗 🍯 | Temnothorax Rugatulus | |
 -->
 
+## October 21
+
+`Ponera Pennsylvanica`
+I found more mold.
+I removed the mold and added more soil.
+
+## October 19
+
+`Ponera Pennsylvanica`
+The shrimps turned into mold.
+I removed the shrimps.
+
 ## October 17
 
-I moved the `Ponera Pennsylvanica` colony to a DIY custom formicarium.
+I moved the `Ponera Pennsylvanica` colony to a DIY custom formicarium and fed them.
 
 ## October 16
 
