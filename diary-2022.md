@@ -92,7 +92,7 @@ Basic template
 | 🦗 🍯 | Myrmecocystus Yuma (92) | | 
 | 🦗 🍯 | Myrmecocystus Yuma (A5) | | 
 | 🦗 🍯 | Myrmecocystus Yuma (B4) | | 
-| 🌱 🦗 🍯 | Novomessor Cockerelli, Colony | |
+| 🌱 🦗 🍯 | Novomessor Cockerelli | |
 | 🦗 🍯 | Odontomachus Clarus (trap-jaw) | |
 | 🌱 🦗 🍯 | Pheidole Bicarinata | |
 | 🌱 🦗 🍯 | Pheidole Californica | |
@@ -108,6 +108,31 @@ Basic template
 | 🦗 🍯 | Ponera Pennsylvanica | |
 | 🦗 🍯 | Temnothorax Rugatulus | |
 -->
+
+## October
+
+I moved the following colonies to new test tubes:
+(food was growing mold)
+
+* Camponotus Modoc (33)
+
+I replaced the test tube (out of water) with a new one for the `Pogonomyrmex Subnitidus` colony.
+
+I gave shrimps and also `fruit flies` (live) to the following colonies:
+
+* Camponotus Festinatus
+* Camponotus Ocreatus
+* Camponotus Sansabeanus (56)
+* Camponotus Vicinus (55)
+* ET 
+* Odontomachus Clarus (trap-jaw)
+* Novomessor Cockerelli
+
+I gave shrimps and also one `mealworm` (live) to the following colonies:
+
+* Camponotus Discolor
+* Pogonomyrmex Rugosus
+* Pogonomyrmex Subnitidus
 
 ## October 21
 
