@@ -77,7 +77,7 @@ When a Queen/Colony died…
 1. Pogonomyrmex Montanus (2021)
 1. Pogonomyrmex Rugosus (2021)
 1. Pogonomyrmex Subnitidus Polygynous (???)
-1. Pogonomyrmex Tenuispinus, 2 colonies (2022)
+1. Pogonomyrmex Tenuispinus (2022)
 1. Ponera Pennsylvanica (2022)
 1. Temnothorax Rugatulus (2021)
 
@@ -135,6 +135,7 @@ Dead Queens/colonies
 1. Ectomomyrmex Leeuwenhoeki (2022 - 2022)
 1. Pogonomyrmex Barbatus (2022 - 2022)
 1. Myrmecocystus Mexicanus Orange (2022 - 2022)
+1. Pogonomyrmex Tenuispinus (2022 - 2022)
 -->
 
 <!--
@@ -228,7 +229,6 @@ Numbers based on tags.
   B3. ET > Internal code: 105
   B4. Myrmecocystus Yuma > Internal code: 25
   B5. Pogonomyrmex Barbatus > Internal code: 20
-  B6. Pogonomyrmex Tenuispinus > Internal code: 20
   B7. Ponera Pennsylvanica > Internal code: 10
   B8. Casteneus ????
 
@@ -314,6 +314,7 @@ Dead:
   88. Myrmecocystus Yuma > Internal code: 10
   72. Myrmecocystus Semirufus > Internal code: 50
   Myrmecocystus Testaceus > Internal code: 00 - Arrived dead
+  B6. Pogonomyrmex Tenuispinus > Internal code: 20
 
   Pogonomyrmex Californicus > Internal code: 25
   Acromyrmex Versicolor > Internal code: 35
