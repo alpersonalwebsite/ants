@@ -104,12 +104,18 @@ Basic template
 | 🌱 🦗 🍯 | Pogonomyrmex Rugosus | |
 | 🌱 🦗 🍯 | Pogonomyrmex Subnitidus | |
 | 🌱 🦗 🍯 | Pogonomyrmex Tenuispinus (95) | |
-| 🌱 🦗 🍯 | Pogonomyrmex Tenuispinus (B6) | |
 | 🦗 🍯 | Ponera Pennsylvanica | |
 | 🦗 🍯 | Temnothorax Rugatulus | |
 -->
 
-## October
+## October 24
+
+I set the temperature of the fridge at `60F`.
+
+## October 23
+
+I didn't clean the `Pogonomyrmex Tenuispinus` (B6) formicarium, so the dead Queen is still there.
+It is incredible how they are moving the Queen from one place to another and how they are mourning her.
 
 I moved the following colonies to new test tubes:
 (food was growing mold)
@@ -134,11 +140,15 @@ I gave shrimps and also one `mealworm` (live) to the following colonies:
 * Pogonomyrmex Rugosus
 * Pogonomyrmex Subnitidus
 
+I added `springtails` (live) with soil to the `Ponera Pennsylvanica` colony.
+
 ## October 21
 
 `Ponera Pennsylvanica`
 I found more mold.
 I removed the mold and added more soil.
+
+I found the `Pogonomyrmex Tenuispinus` (B6) Queen dead.
 
 ## October 19
 
