@@ -91,7 +91,6 @@ Basic template
 | 🦗 🍯 | Myrmecocystus Romainei (A2) | |
 | 🦗 🍯 | Myrmecocystus Yuma (92) | | 
 | 🦗 🍯 | Myrmecocystus Yuma (A5) | | 
-| 🦗 🍯 | Myrmecocystus Yuma (B4) | | 
 | 🌱 🦗 🍯 | Novomessor Cockerelli | |
 | 🦗 🍯 | Odontomachus Clarus (trap-jaw) | |
 | 🌱 🦗 🍯 | Pheidole Bicarinata | |
@@ -108,9 +107,111 @@ Basic template
 | 🦗 🍯 | Temnothorax Rugatulus | |
 -->
 
+## October 31
+
+I set the temperature of the fridge at `55F`.
+
+I gave crickets and also `fruit flies` (live) to the following colonies:
+
+* Camponotus Anthrax (52)
+* Camponotus Ocreatus
+* Camponotus Ocreatus
+* Camponotus Sansabeanus (56)
+* Camponotus Vicinus (55)
+* ET 
+* Novomessor Cockerelli
+* Odontomachus Clarus (trap-jaw)
+* Pogonomyrmex Californicus
+* Pogonomyrmex Rugosus
+* Pogonomyrmex Subnitidus
+
+I gave shrimps and also one `dubia roaches` (live) to the following colonies:
+
+* Camponotus Discolor
+* Camponotus Laevissimus 
+
+I gave `springtails` to the mini colony (2?) of `Ponera Pennsylvanica`
+
+| Care |  Colony | Notes |
+|---|---|---|
+| 💐 | Acromyrmex Versicolor, colony | |
+| 💐 | Acromyrmex Versicolor, 6 Queens | |
+| 🦗 🍯 | Aphaenogaster Lamellidens | |
+| 🦗 🍯 | Aphaenogaster Occidentalis (60) | |
+| 🦗 🍯 | Aphaenogaster Occidentalis (80) | |
+| 🦗 🍯 | Camponotus Anthrax (52) | |
+| 🦗 🍯 | Camponotus Anthrax (53) | |
+| 🦗 🍯 | Camponotus Castaneus (69) | |
+| 🦗 🍯 | Camponotus Castaneus (87) | |
+| 🦗 🍯 | Camponotus Castaneus (B8) | |
+| 🦗 🍯 | Camponotus Discolor | |
+| 🦗 🍯 | Camponotus Festinatus | |
+| 🦗 🍯 | Camponotus Fragilis (7) | |
+| 🦗 🍯 | Camponotus Fragilis (A4) | |
+| 🦗 🍯 | Camponotus Hyatti (9) | |
+| 🦗 🍯 | Camponotus Hyatti (44) | |
+| 🦗 🍯 | Camponotus Lateralis | |
+| 🦗 🍯 | Camponotus Laevigatus | |
+| 🦗 🍯 | Camponotus Laevissimus (32) | |
+| 🦗 🍯 | Camponotus Laevissimus (A9) | |
+| 🦗 🍯 | Camponotus Ligniperda | |
+| 🦗 🍯 | Camponotus Maritimus | |
+| 🦗 🍯 | Camponotus Modoc (33) | |
+| 🦗 🍯 | Camponotus Modoc (34) | |
+| 🦗 🍯 | Camponotus Nearcticus | |
+| 🦗 🍯 | Camponotus Ocreatus | |
+| 🦗 🍯 | Camponotus Ocreatus (A7) | |
+| 🦗 🍯 | Camponotus Pennsylvanicus | |
+| 🦗 🍯 | Camponotus Sansabeanus (2) | |
+| 🦗 🍯 | Camponotus Sansabeanus (56) | |
+| 🦗 🍯 | Camponotus US-CA02 (11) | |
+| 🦗 🍯 | Camponotus US-CA02 (54) | |
+| 🦗 🍯 | Camponotus Vicinus (low) | |
+| 🦗 🍯 | Camponotus Vicinus (A3) | |
+| 🦗 🍯 | Camponotus Yogi | |
+| 🦗 🍯 | Crematogaster species | |
+| 🦗 🍯 | Crematogaster, 2 Queens | | 
+| 🦗 🍯 | Crematogaster Scutellaris | | 
+| 🦗 🍯 | Dorymyrmex Bureni | | 
+| 🦗 🍯 | ET | | 
+| 🦗 🍯 | Lasius Alienus | |
+| 🦗 🍯 | Leptothorax Athabasca | | 
+| 🦗  | Monomorium Minimum | | 
+| 🦗 🍯 | Myrmecocystus Depilis | | 
+| 🦗 🍯 | Myrmecocystus Kennedyi, 2 Queens | | 
+| 🦗 🍯 | Myrmecocystus Mendax | | 
+| 🦗 🍯 | Myrmecocystus Mexicanus | | 
+| 🦗 🍯 | Myrmecocystus Mexicanus | | 
+| 🦗 🍯 | Myrmecocystus Melliger | | 
+| 🦗 🍯 | Myrmecocystus Mimicus (70) | | 
+| 🦗 🍯 | Myrmecocystus Mimicus (86) | | 
+| 🦗 🍯 | Myrmecocystus Mimicus Dark (A1) | | 
+| 🦗 🍯 | Myrmecocystus Navajo | |
+| 🦗 🍯 | Myrmecocystus Placodops, 3 Queens | |
+| 🦗 🍯 | Myrmecocystus Placodops 02 (A6) | |
+| 🦗 🍯 | Myrmecocystus Romainei (A2) | |
+| 🦗 🍯 | Myrmecocystus Yuma (92) | | 
+| 🦗 🍯 | Myrmecocystus Yuma (A5) | | 
+| 🌱 🦗 🍯 | Novomessor Cockerelli | |
+| 🦗 🍯 | Odontomachus Clarus (trap-jaw) | |
+| 🌱 🦗 🍯 | Pheidole Bicarinata | |
+| 🌱 🦗 🍯 | Pheidole Californica | |
+| 🌱 🦗 🍯 | Pheidole Gilvescens | |
+| 🌱 🦗 🍯 | Pheidole Hyatti | |
+| 🌱 🦗 🍯 | Pogonomyrmex Barbatus | |
+| 🌱 🦗 🍯 | Pogonomyrmex Californicus (3 Queens) | |
+| 🌱 🦗 🍯 | Pogonomyrmex Montanus | |
+| 🌱 🦗 🍯 | Pogonomyrmex Rugosus | |
+| 🌱 🦗 🍯 | Pogonomyrmex Subnitidus | |
+| 🌱 🦗 🍯 | Pogonomyrmex Tenuispinus (95) | |
+| 🦗 🍯 | Ponera Pennsylvanica | |
+| 🦗 🍯 | Temnothorax Rugatulus | |
+
 ## October 24
 
 I set the temperature of the fridge at `60F`.
+
+I found the `Myrmecocystus Yuma` (B4) Queen dead.
 
 ## October 23
 
