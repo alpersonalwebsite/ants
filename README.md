@@ -66,7 +66,7 @@ When a Queen/Colony died…
 1. Myrmecocystus Navajo (2021)
 1. Myrmecocystus Placodops 02 (2022)
 1. Myrmecocystus Romainei (2022)
-1. Myrmecocystus Yuma, 3 colonies (2022)
+1. Myrmecocystus Yuma, 2 colonies (2022)
 1. Novomessor Cockerelli (2021)
 1. Odontomachus Clarus (trap-jaw) (???)
 1. Pheidole Bicarinata (2022)
@@ -227,7 +227,6 @@ Numbers based on tags.
   B1. Crematogaster Scutellaris > Internal code: 20
   B2. Dorymyrmex Bureni > Internal code: 10
   B3. ET > Internal code: 105
-  B4. Myrmecocystus Yuma > Internal code: 25
   B5. Pogonomyrmex Barbatus > Internal code: 20
   B7. Ponera Pennsylvanica > Internal code: 10
   B8. Casteneus ????
@@ -315,6 +314,7 @@ Dead:
   72. Myrmecocystus Semirufus > Internal code: 50
   Myrmecocystus Testaceus > Internal code: 00 - Arrived dead
   B6. Pogonomyrmex Tenuispinus > Internal code: 20
+  B4. Myrmecocystus Yuma > Internal code: 25
 
   Pogonomyrmex Californicus > Internal code: 25
   Acromyrmex Versicolor > Internal code: 35
