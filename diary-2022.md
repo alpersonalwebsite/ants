@@ -125,7 +125,7 @@ I gave crickets and also `fruit flies` (live) to the following colonies:
 * Pogonomyrmex Rugosus
 * Pogonomyrmex Subnitidus
 
-I gave shrimps and also one `dubia roaches` (live) to the following colonies:
+I gave crickets and also one `dubia roaches` (live) to the following colonies:
 
 * Camponotus Discolor
 * Camponotus Laevissimus 
