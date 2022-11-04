@@ -66,6 +66,7 @@ When a Queen/Colony died…
 1. Myrmecocystus Navajo (2021)
 1. Myrmecocystus Placodops 02 (2022)
 1. Myrmecocystus Romainei (2022)
+1. Myrmecocystus Semirufus (2022)
 1. Myrmecocystus Yuma, 2 colonies (2022)
 1. Novomessor Cockerelli (2021)
 1. Odontomachus Clarus (trap-jaw) (???)
@@ -247,6 +248,7 @@ Formicariums:
   38. Temnothorax Rugatulus > Internal code: 43
   A7. Camponotus Ocreatus > Internal code: 00
   92. Myrmecocystus Yuma > Internal code: 40
+  Myrmecocystus Semirufus > Internal code: 113
 
 
 
