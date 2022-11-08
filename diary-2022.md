@@ -34,7 +34,7 @@ Basic template
 | Care |  Colony | Notes |
 |---|---|---|
 | 💐 | Acromyrmex Versicolor, colony | |
-| 💐 | Acromyrmex Versicolor, 6 Queens | |
+| 💐 | Acromyrmex Versicolor, 5 Queens | |
 | 🦗 🍯 | Aphaenogaster Lamellidens | |
 | 🦗 🍯 | Aphaenogaster Occidentalis (60) | |
 | 🦗 🍯 | Aphaenogaster Occidentalis (80) | |
@@ -52,10 +52,8 @@ Basic template
 | 🦗 🍯 | Camponotus Lateralis | |
 | 🦗 🍯 | Camponotus Laevigatus | |
 | 🦗 🍯 | Camponotus Laevissimus (32) | |
-| 🦗 🍯 | Camponotus Laevissimus (A9) | |
 | 🦗 🍯 | Camponotus Ligniperda | |
 | 🦗 🍯 | Camponotus Maritimus | |
-| 🦗 🍯 | Camponotus Modoc (33) | |
 | 🦗 🍯 | Camponotus Modoc (34) | |
 | 🦗 🍯 | Camponotus Nearcticus | |
 | 🦗 🍯 | Camponotus Ocreatus | |
@@ -89,6 +87,7 @@ Basic template
 | 🦗 🍯 | Myrmecocystus Placodops, 3 Queens | |
 | 🦗 🍯 | Myrmecocystus Placodops 02 (A6) | |
 | 🦗 🍯 | Myrmecocystus Romainei (A2) | |
+| 🦗 🍯 | Myrmecocystus Semirufus | |
 | 🦗 🍯 | Myrmecocystus Yuma (92) | | 
 | 🦗 🍯 | Myrmecocystus Yuma (A5) | | 
 | 🌱 🦗 🍯 | Novomessor Cockerelli | |
@@ -106,6 +105,123 @@ Basic template
 | 🦗 🍯 | Ponera Pennsylvanica | |
 | 🦗 🍯 | Temnothorax Rugatulus | |
 -->
+
+## November 6
+
+I moved the following colonies to new test tubes:
+(out of water)
+
+* Myrmecocystus Depilis (67)
+* Myrmecocystus Melliger (71)
+
+I moved the `Pogonomyrmex Montanus` colony to a DIY custom formicarium.
+
+I found the following Queens dead:
+
+* Acromyrmex Versicolor (now I have 5 Queens intead of 6)
+* Camponotus Laevissimus (A9)
+* Camponotus Modoc (33)
+
+I gave grasshoppers and also `crickets` (live) to the following colonies:
+
+* Aphaenogaster Occidentalis (60)
+* Camponotus Anthrax (52)
+* Camponotus Discolor (A8)
+* Camponotus Festinatus
+* Camponotus Ocreatus
+* Camponotus Sansabeanus (56)
+* Camponotus USA-CA02 (54)
+* Camponotus Vicinus (55)
+* ET
+* Novomessor Cockerelli 
+* Odontomachus Clarus (trap-jaw)
+* Pogonomyrmex Californicus (3 Queens)
+* Pogonomyrmex Rugosus
+* Pogonomyrmex Subnitidus 
+
+
+| Care |  Colony | Notes |
+|---|---|---|
+| 💐 | Acromyrmex Versicolor, colony | |
+| 💐 | Acromyrmex Versicolor, 5 Queens | |
+| 🪲🍯 | Aphaenogaster Lamellidens | |
+| 🪲🍯 | Aphaenogaster Occidentalis (60) | |
+| 🪲🍯 | Aphaenogaster Occidentalis (80) | |
+| 🪲🍯 | Camponotus Anthrax (52) | |
+| 🪲🍯 | Camponotus Anthrax (53) | |
+| 🪲🍯 | Camponotus Castaneus (69) | |
+| 🪲🍯 | Camponotus Castaneus (87) | |
+| 🪲🍯 | Camponotus Castaneus (B8) | |
+| 🪲🍯 | Camponotus Discolor | |
+| 🪲🍯 | Camponotus Festinatus | |
+| 🪲🍯 | Camponotus Fragilis (7) | |
+| 🪲🍯 | Camponotus Fragilis (A4) | |
+| 🪲🍯 | Camponotus Hyatti (9) | |
+| 🪲🍯 | Camponotus Hyatti (44) | |
+| 🪲🍯 | Camponotus Lateralis | |
+| 🪲🍯 | Camponotus Laevigatus | |
+| 🪲🍯 | Camponotus Laevissimus (32) | |
+| 🪲🍯 | Camponotus Ligniperda | |
+| 🪲🍯 | Camponotus Maritimus | |
+| 🪲🍯 | Camponotus Modoc (34) | |
+| 🪲🍯 | Camponotus Nearcticus | |
+| 🪲🍯 | Camponotus Ocreatus | |
+| 🪲🍯 | Camponotus Ocreatus (A7) | |
+| 🪲🍯 | Camponotus Pennsylvanicus | |
+| 🪲🍯 | Camponotus Sansabeanus (2) | |
+| 🪲🍯 | Camponotus Sansabeanus (56) | |
+| 🪲🍯 | Camponotus US-CA02 (11) | |
+| 🪲🍯 | Camponotus US-CA02 (54) | |
+| 🪲🍯 | Camponotus Vicinus (low) | |
+| 🪲🍯 | Camponotus Vicinus (A3) | |
+| 🪲🍯 | Camponotus Yogi | |
+| 🪲🍯 | Crematogaster species | |
+| 🪲🍯 | Crematogaster, 2 Queens | | 
+| 🪲🍯 | Crematogaster Scutellaris | | 
+| 🪲🍯 | Dorymyrmex Bureni | | 
+| 🪲🍯 | ET | | 
+| 🪲🍯 | Lasius Alienus | |
+| 🪲🍯 | Leptothorax Athabasca | | 
+| 🪲 | Monomorium Minimum | | 
+| 🪲🍯 | Myrmecocystus Depilis | | 
+| 🪲🍯 | Myrmecocystus Kennedyi, 2 Queens | | 
+| 🪲🍯 | Myrmecocystus Mendax | | 
+| 🪲🍯 | Myrmecocystus Mexicanus | | 
+| 🪲🍯 | Myrmecocystus Mexicanus | | 
+| 🪲🍯 | Myrmecocystus Melliger | | 
+| 🪲🍯 | Myrmecocystus Mimicus (70) | | 
+| 🪲🍯 | Myrmecocystus Mimicus (86) | | 
+| 🪲🍯 | Myrmecocystus Mimicus Dark (A1) | | 
+| 🪲🍯 | Myrmecocystus Navajo | |
+| 🪲🍯 | Myrmecocystus Placodops, 3 Queens | |
+| 🪲🍯 | Myrmecocystus Placodops 02 (A6) | |
+| 🪲🍯 | Myrmecocystus Romainei (A2) | |
+| 🪲🍯 | Myrmecocystus Semirufus | |
+| 🪲🍯 | Myrmecocystus Yuma (92) | | 
+| 🪲🍯 | Myrmecocystus Yuma (A5) | | 
+| 🌱 🪲🍯 | Novomessor Cockerelli | |
+| 🪲🍯 | Odontomachus Clarus (trap-jaw) | |
+| 🌱 🪲🍯 | Pheidole Bicarinata | |
+| 🌱 🪲🍯 | Pheidole Californica | |
+| 🌱 🪲🍯 | Pheidole Gilvescens | |
+| 🌱 🪲🍯 | Pheidole Hyatti | |
+| 🌱 🪲🍯 | Pogonomyrmex Barbatus | |
+| 🌱 🪲🍯 | Pogonomyrmex Californicus (3 Queens) | |
+| 🌱 🪲🍯 | Pogonomyrmex Montanus | |
+| 🌱 🪲🍯 | Pogonomyrmex Rugosus | |
+| 🌱 🪲🍯 | Pogonomyrmex Subnitidus | |
+| 🌱 🪲🍯 | Pogonomyrmex Tenuispinus (95) | |
+| 🪲🍯 | Ponera Pennsylvanica | |
+| 🪲🍯 | Temnothorax Rugatulus | |
+
+
+## November 3
+
+Today the following Queens/colonies arrived:
+
+* Myrmecocystus Semirufus
+
+They came in a THA mini hearth (I couldn't see the Queen. The nest is pretty dirty. I should move them to another formicarium)
 
 ## October 31
 
