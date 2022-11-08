@@ -36,11 +36,11 @@ When a Queen/Colony died…
 1. Camponotus Festinatus (2020)
 1. Camponotus Fragilis (2022)
 1. Camponotus Hyatti (2021)
-1. Camponotus Laevissimus, 2 colonies (2021)
+1. Camponotus Laevissimus (2021)
 1. Camponotus Lateralis (2021)
 1. Camponotus Ligniperda (2022)
 1. Camponotus Maritimus (2021)
-1. Camponotus Modoc, 2 colonies (2021)
+1. Camponotus Modoc (2021)
 1. Camponotus Ocreatus (2020)
 1. Camponotus Ocreatus (2022)
 1. Camponotus Pennsylvanicus (2020)
@@ -99,7 +99,7 @@ When a Queen/Colony died…
 1. Myrmecocystus Placodops (2022), 3 Queens
 1. Pogonomyrmex Rugosus (2021)
 1. Pogonomyrmex Barbatus (2022)
-1. Acromyrmex Versicolor, 6 Queens (2022)
+1. Acromyrmex Versicolor, 5 Queens (2022)
 
 
 <!--
@@ -137,6 +137,9 @@ Dead Queens/colonies
 1. Pogonomyrmex Barbatus (2022 - 2022)
 1. Myrmecocystus Mexicanus Orange (2022 - 2022)
 1. Pogonomyrmex Tenuispinus (2022 - 2022)
+1. Acromyrmex Versicolor Queen (2022 - 2022)
+1. Camponotus Modoc (2021 - 2022)
+1. Camponotus Laevissimus (2021 - 2022)
 -->
 
 <!--
@@ -173,7 +176,6 @@ Numbers based on tags.
   12. Pogonomyrmex Rugosus > Internal code: 10
   31. Pogonomyrmex Californicus (3 Queens and workers) > Internal code: 00
   32. Camponotus Laevissimus > Internal code: 20
-  33. Camponotus Modoc > Internal code: 16
   34. Camponotus Modoc > Internal code: 16
   39. Pheidole Californica > Internal code: 25
   44. Camponotus Hyatti > Internal code: 00
@@ -224,7 +226,6 @@ Numbers based on tags.
 
   A7. Aphaenogaster Lamellidens > Internal code: 25
   A8. Camponotus Discolor > Internal code: 20
-  A9. Camponotus Laevissimus > Internal code: 20
   B1. Crematogaster Scutellaris > Internal code: 20
   B2. Dorymyrmex Bureni > Internal code: 10
   B3. ET > Internal code: 105
@@ -317,11 +318,13 @@ Dead:
   Myrmecocystus Testaceus > Internal code: 00 - Arrived dead
   B6. Pogonomyrmex Tenuispinus > Internal code: 20
   B4. Myrmecocystus Yuma > Internal code: 25
+  33. Camponotus Modoc > Internal code: 16
 
   Pogonomyrmex Californicus > Internal code: 25
   Acromyrmex Versicolor > Internal code: 35
   Acromyrmex Versicolor (ex 24) > Internal code: 50 - Killed by invasive ants
   Camponotus Fragilis > Internal code: 25
   Camponotus Vicinus (high) (ex 4) > Internal code: 25
+  Camponotus Laevissimus (ex A9) > Internal code: 20
 
 -->
