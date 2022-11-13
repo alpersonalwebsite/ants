@@ -106,6 +106,30 @@ Basic template
 | 🦗 🍯 | Temnothorax Rugatulus | |
 -->
 
+## November 10
+
+A few days ago I started preserving dead ants.
+I'm following the `wet preservation` consigned here: https://xtraordinarypets.com/how-to-preserve-dead-insect-pets/
+
+1. I placed the ant/ants in boiling water for 10 seconds (in most of the cases was more than 10 seconds).
+1. I placed the ant/ants in 30% ethanol for 1 day.
+1. I placed the ant/ants in 50% ethanol for 1 day.
+1. I placed the ant/ants in 75% ethanol (final vial)
+
+I used one bottle of `isopropyl rubbing alcohol 70%` and one bottle of `isopropyl rubbing alcohol 91%`.
+I used distilled water.
+
+This is the formula I used for the dilution.
+
+(alcohol % we want to obtain * amount of water we want to use) / alcohol %
+
+Examples:
+
+* To obtain `30% alcohol` from a concentrate of `70% alcohol` with `50 ml of distilled water`: (30% * 50ml) / 70% = `21.5ml of 70% alcohol`
+* To obtain `50% alcohol` from a concentrate of `70% alcohol` with `50 ml of distilled water`: (50% * 50ml) / 70% = `36ml of 70% alcohol`
+* To obtain `75% alcohol` from a concentrate of `91% alcohol` with `50 ml of distilled water`: (75% * 50ml) / 91% = `41ml of 91% alcohol`
+
+
 ## November 6
 
 I moved the following colonies to new test tubes:
