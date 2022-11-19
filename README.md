@@ -37,7 +37,6 @@ When a Queen/Colony died…
 1. Camponotus Fragilis (2022)
 1. Camponotus Hyatti (2021)
 1. Camponotus Laevissimus (2021)
-1. Camponotus Lateralis (2021)
 1. Camponotus Ligniperda (2022)
 1. Camponotus Maritimus (2021)
 1. Camponotus Modoc (2021)
@@ -230,26 +229,27 @@ Numbers based on tags.
   B2. Dorymyrmex Bureni > Internal code: 10
   B3. ET > Internal code: 105
   B5. Pogonomyrmex Barbatus > Internal code: 20
-  B7. Ponera Pennsylvanica > Internal code: 10
+
   B8. Casteneus ????
 
 Formicariums:
-  Acromyrmex Versicolor with Fungus > Internal code: 80
-  Camponotus Festinatus > Internal code: 40
-  Camponotus Pennsylvanicus > Internal code: 175
-  Myrmecocystus Mexicanus > Internal code: 50
-  Myrmecocystus Mexicanus > Internal code: 50
-  Myrmecocystus Navajo > Internal code: 50
-  Novomessor Cockerelli > Internal code: 37
-  Pogonomyrmex Subnitidus Polygynous (with 4 Queens???) > Internal code: 80
-  Camponotus Ocreatus >  Internal code: 45
+  C5. Acromyrmex Versicolor with Fungus > Internal code: 80
+  B9. Camponotus Festinatus > Internal code: 40
+  C4. Camponotus Pennsylvanicus > Internal code: 175
+  20. Myrmecocystus Mexicanus > Internal code: 50
+  21.  Myrmecocystus Mexicanus > Internal code: 50
+  19. Myrmecocystus Navajo > Internal code: 50
+  14. Novomessor Cockerelli > Internal code: 37
+  C2. Pogonomyrmex Subnitidus Polygynous (with 4 Queens???) > Internal code: 80
+  C1. Camponotus Ocreatus >  Internal code: 45
   55. Camponotus Vicinus > Internal code: 16
   56. Camponotus Sansabeanus > Internal code: 21
   28. Acromyrmex Versicolor > Internal code: 35
   38. Temnothorax Rugatulus > Internal code: 43
   A7. Camponotus Ocreatus > Internal code: 00
   92. Myrmecocystus Yuma > Internal code: 40
-  Myrmecocystus Semirufus > Internal code: 113
+  C3. Myrmecocystus Semirufus > Internal code: 113  
+  B7. Ponera Pennsylvanica > Internal code: 10
 
 
 
