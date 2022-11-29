@@ -84,6 +84,7 @@ When a Queen/Colony died…
 
 ### Queens
 
+1. Acromyrmex Versicolor, 4 Queens (2022)
 1. Camponotus Anthrax, 2 Queens (2022)
 1. Camponotus Castaneus (2022)
 1. Camponotus Fragilis (2019)
@@ -98,7 +99,6 @@ When a Queen/Colony died…
 1. Myrmecocystus Placodops (2022), 3 Queens
 1. Pogonomyrmex Rugosus (2021)
 1. Pogonomyrmex Barbatus (2022)
-1. Acromyrmex Versicolor, 5 Queens (2022)
 
 
 <!--
