@@ -208,6 +208,10 @@ I gave grasshoppers and also `fruit flies` (live) to the following colonies:
 | 🪲 🍯 | Ponera Pennsylvanica (B7) | |
 | 🪲 🍯 | Temnothorax Rugatulus (38) | |
 
+## November 21
+
+I found one of the two `Poneras` (Ponera Pennsylvanica) dead.
+
 ## November 19
 
 I moved the following colonies to new test tubes (out of water):
