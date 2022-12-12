@@ -71,7 +71,6 @@ When a Queen/Colony died…
 1. Odontomachus Clarus (trap-jaw) (???)
 1. Pheidole Bicarinata (2022)
 1. Pheidole Californica (2021)
-1. Pheidole Hyatti (2022)
 1. Pheidole Gilvescens (2022)
 1. Pogonomyrmex Californicus Polygynous (2021)
 1. Pogonomyrmex Montanus (2021)
@@ -139,6 +138,7 @@ Dead Queens/colonies
 1. Acromyrmex Versicolor Queen (2022 - 2022)
 1. Camponotus Modoc (2021 - 2022)
 1. Camponotus Laevissimus (2021 - 2022)
+1. Pheidole Hyatti (2022 - 2022)
 -->
 
 <!--
@@ -214,7 +214,6 @@ Numbers based on tags.
   93. Pheidole Givescens > Internal code: 40
   94. Monomorium Minimum > Internal code: 10
   95. Pogonomyrmex Tenuispinus > Internal code: 50
-  96. Pheidole Hyatti > Internal code: 00
 
   A5. Myrmecocystus Mimicus Dark  > Internal code: 42
   A4. Myrmecocystus Romainei > Internal code: 62
@@ -319,12 +318,12 @@ Dead:
   B6. Pogonomyrmex Tenuispinus > Internal code: 20
   B4. Myrmecocystus Yuma > Internal code: 25
   33. Camponotus Modoc > Internal code: 16
-
   Pogonomyrmex Californicus > Internal code: 25
   Acromyrmex Versicolor > Internal code: 35
   Acromyrmex Versicolor (ex 24) > Internal code: 50 - Killed by invasive ants
   Camponotus Fragilis > Internal code: 25
   Camponotus Vicinus (high) (ex 4) > Internal code: 25
   Camponotus Laevissimus (ex A9) > Internal code: 20
+  96. Pheidole Hyatti > Internal code: 00
 
 -->
