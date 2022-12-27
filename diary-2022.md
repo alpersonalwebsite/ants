@@ -45,7 +45,6 @@ Basic template
 | 🦗 🍯 | Camponotus Castaneus (B8) | |
 | 🦗 🍯 | Camponotus Discolor (A8) | |
 | 🦗 🍯 | Camponotus Festinatus (B9) | |
-| 🦗 🍯 | Camponotus Fragilis (7) | |
 | 🦗 🍯 | Camponotus Fragilis (A4) | |
 | 🦗 🍯 | Camponotus Hyatti (9) | |
 | 🦗 🍯 | Camponotus Hyatti (44) | |
@@ -108,7 +107,20 @@ Basic template
 | 🦗 🍯 | Temnothorax Rugatulus (38) | |
 -->
 
+## December 19
+
+I started my travel.
+I'm returning on January 5, 2023.
+
 ## December 17
+
+
+* I found the `Camponotus Fragilis` (7) Queen dead.
+* I cleaned all the colonies including the ones in formicariums.
+* I moved the colony `Myrmecocystus Mexicanus` (20) to a big THA formicarium. 
+  They didn't have more space. ??? Check that it was 20 and not 21.
+* I left them food (crickets, seeds, roses)and water to cover 2 or 3 weeks of absence.
+
 
 | Care |  Colony | Notes |
 |---|---|---|
