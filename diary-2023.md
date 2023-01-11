@@ -44,6 +44,7 @@ Basic template
 | 🦗 🍯 | Camponotus Castaneus (87) | |
 | 🦗 🍯 | Camponotus Castaneus (B8) | |
 | 🦗 🍯 | Camponotus Discolor (A8) | |
+| 🦗 🍯 | Camponotus Essigi (57) | |
 | 🦗 🍯 | Camponotus Festinatus (B9) | |
 | 🦗 🍯 | Camponotus Fragilis (7) | |
 | 🦗 🍯 | Camponotus Fragilis (A4) | |
@@ -104,7 +105,19 @@ Basic template
 | 🦗 🍯 | Temnothorax Rugatulus (38) | |
 -->
 
+## January 9
+
+I started the preservation of the following dead colonies:
+
+* Myrmecocystus Navajo (19) - Dead workers from when I move them to the bigger THA formicarium
+* Camponotus Sansabeanus (56) - Queen and workers
+* Camponotus Vicinus (A3) - Queen and workers
+
+
 ## January 8
+
+I should keep an eye on the `Camponotus Pennsylvanicus` colony.
+I found several workers dead.
 
 I found the following Queens dead:
 
@@ -120,8 +133,9 @@ I gave shrimps and also `fruit flies` (live) to the following colonies:
 * Odontomachus Clarus or trap-jaw (79)
 
 I moved the following colonies to new test tubes (out of water):
-* Myrmecocystus Kennedyi (84)
-
+* Camponotus Yogi (50)
+* Camponotus Essigi (57)
+* Camponotus Castaneus (87)
 
 | Care |  Colony | Notes |
 |---|---|---|
