@@ -92,7 +92,6 @@ When a Queen/Colony died…
 1. Crematogaster (2022)
 1. Leptothorax Athabasca (2022)
 1. Myrmecocystus Kennedyi (2022)
-1. Myrmecocystus Mendax (2022)
 1. Myrmecocystus Placodops (2022), 2 Queens
 1. Pogonomyrmex Rugosus (2021)
 1. Pogonomyrmex Barbatus (2022)
@@ -142,6 +141,7 @@ Dead Queens/colonies
 1. Myrmecocystus Kennedyi (2022 - 2023)
 1. Crematogaster (2022 - 2023)
 1. Camponotus Vicinus (2022 - 2023)
+1. Myrmecocystus Mendax (2022 - 2023)
 -->
 
 <!--
@@ -207,7 +207,6 @@ Numbers based on tags.
   85. Myrmecocystus Kennedyi > Internal code: 00
   86. Myrmecocystus Mimicus > Internal code: 10
   87. Camponotus Castaneus > Internal code: 00
-  88. Myrmecocystus Mendax > Internal code: 30
   89. Myrmecocystus Mexicanus Orange > Internal code: 60
   91. Leptothorax Athabasca > Internal code: 15
   93. Pheidole Givescens > Internal code: 40
@@ -339,5 +338,6 @@ Dead:
   84. Myrmecocystus Kennedyi > Internal code: 10
   90. Crematogaster > Internal code: 00
   A3. Camponotus Vicinus 
+  88. Myrmecocystus Mendax > Internal code: 30
 
 -->
