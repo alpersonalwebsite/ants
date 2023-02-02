@@ -105,6 +105,12 @@ Basic template
 | 🦗 🍯 | Temnothorax Rugatulus (38) | |
 -->
 
+## February 1
+
+I started the preservation of the following dead colonies:
+
+* Myrmecocystus Mendax (88) - Queen
+
 ## January 31
 
 I found the following Queen dead:
