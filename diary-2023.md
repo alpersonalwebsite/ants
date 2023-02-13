@@ -34,7 +34,7 @@ Basic template
 | Care |  Colony | Notes |
 |---|---|---|
 | 💐 | Acromyrmex Versicolor, colony (C5) | |
-| 💐 | Acromyrmex Versicolor, 4 Queens | |
+| 💐 | Acromyrmex Versicolor, 3 Queens | |
 | 🦗 🍯 | Aphaenogaster Lamellidens (A7) | |
 | 🦗 🍯 | Aphaenogaster Occidentalis (60) | |
 | 🦗 🍯 | Aphaenogaster Occidentalis (80) | |
@@ -102,6 +102,12 @@ Basic template
 | 🦗 🍯 | Ponera Pennsylvanica (B7) | |
 | 🦗 🍯 | Temnothorax Rugatulus (38) | |
 -->
+
+## February 5
+
+I found the following Queen dead:
+
+* Acromyrmex Versicolor
 
 ## February 4
 
