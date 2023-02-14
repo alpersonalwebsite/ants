@@ -47,7 +47,6 @@ When a Queen/Colony died…
 1. Camponotus USA-CA02 (2021)
 1. Camponotus USA-CA02 (2022)
 1. Camponotus Vicinus (low - 2021)
-1. Camponotus Yogi (2022)
 1. Crematogaster species (2020)
 1. Crematogaster Scutellaris (2022)
 1. Dorymyrmex Bureni (2022)
@@ -142,6 +141,7 @@ Dead Queens/colonies
 1. Crematogaster (2022 - 2023)
 1. Camponotus Vicinus (2022 - 2023)
 1. Myrmecocystus Mendax (2022 - 2023)
+1. Camponotus Yogi (2022 - 2023)
 -->
 
 <!--
@@ -182,7 +182,6 @@ Numbers based on tags.
   44. Camponotus Hyatti > Internal code: 00
   46. Lasius Alienus > Internal code: 20
   48. Crematogaster species > Internal code: 33
-  50. Camponotus Yogi > Internal code: 35
   51. Camponotus Laevigatus > Internal code: 13
   52. Camponotus Anthrax > Internal code: 13
   53. Camponotus Anthrax > Internal code: 13
@@ -339,5 +338,6 @@ Dead:
   90. Crematogaster > Internal code: 00
   A3. Camponotus Vicinus 
   88. Myrmecocystus Mendax > Internal code: 30
+  50. Camponotus Yogi > Internal code: 35
 
 -->
