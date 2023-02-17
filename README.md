@@ -80,7 +80,7 @@ When a Queen/Colony died…
 
 ### Queens
 
-1. Acromyrmex Versicolor, 4 Queens (2022)
+1. Acromyrmex Versicolor, 3 Queens (2022)
 1. Camponotus Anthrax, 2 Queens (2022)
 1. Camponotus Castaneus (2022)
 1. Camponotus Fragilis (2019)
@@ -142,6 +142,8 @@ Dead Queens/colonies
 1. Camponotus Vicinus (2022 - 2023)
 1. Myrmecocystus Mendax (2022 - 2023)
 1. Camponotus Yogi (2022 - 2023)
+1. Acromyrmex Versicolor Queen (2022 - 2023)
+
 -->
 
 <!--
