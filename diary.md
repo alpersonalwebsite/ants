@@ -32,8 +32,8 @@ All keys are using backticks.
     * `preservation` of colony1, colony2 and colony3
     * `diapause` (no listed colonies)
     * `clean` of colony1, colony2 and colony3 (just for major cleaning)
-    * `event` (for non covered keys. For example when PG&E put the electricity down for 8hs)
-    * `organize` (for work related to this repository; example if I add a file, if I restructure, etc)
+    * `event` (for non-covered keys. For example when PG&E put the electricity down for 8hs)
+    * `organize` (for work related to this repository; for example if I add a file, if I restructure, etc)
 
 If a colony or colonies have been moved:
   * git `move` of `Myrmecocystus Kennedyi` (84)'
@@ -43,7 +43,7 @@ If a colony has been moved and a queen or colony were found dead:
   * git commit -m '12/03 notes. Includes `move` of `Myrmecocystus Kennedyi` (84), `death` of `Acromyrmex Versicolor`, colony (C5)'
   * git commit -m '12/03 notes. Includes `move` of `Myrmecocystus Kennedyi` (84), `death` of `Acromyrmex Versicolor`, colony (C5) and `Aphaenogaster Occidentalis` (80)'
 
-If a colony has been moved and a new queen or colony were acquired:
+If a colony has been moved and a new queen or colony was acquired:
   * git commit -m '12/03 notes. Includes `move` of `Myrmecocystus Kennedyi` (84), `acquisition` of `Acromyrmex Versicolor`, colony (C5)'
   * git commit -m '12/03 notes. Includes `move` of `Myrmecocystus Kennedyi` (84), `acquisition` of `Acromyrmex Versicolor`, colony (C5) and `Aphaenogaster Occidentalis` (80)'
 
@@ -51,7 +51,14 @@ When colonies enter to diapause:
   * git commit -m '12/03 notes. Includes `diapause`'
 
 Example of repo work (aka, organize):
-  * git commit -m '`organize` adding diary for 2023'   
+  * git commit -m '`organize` adding diary for 2023'
+
+
+Full examples:
+
+  If a Queen/Colony has died:
+    Update diary-20xx.md and commit: '02/04 notes. Includes `death` of `Camponotus Yogi` (50)'
+    Update README.md and commit:     '02/04 readme. `death` of `Camponotus Yogi` (50)'
 
 
 -->
